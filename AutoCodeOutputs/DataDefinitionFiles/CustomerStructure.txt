@@ -1,0 +1,123 @@
+CustNo	Alternate key to uniquely identify a customer.  This is a displayable field may be used for the user to uniquely identify a customer in the interface.  At the time a new CustId is generated, a new CustNo is generated.	int
+CustId	Unique identifier for a row in the Customer table	uniqueidentifier
+LastName	Last name	varchar
+FirstName	First name	varchar
+MidName	Middle name	varchar
+Addr1	First line of the address	varchar
+Addr2	Second line of the address	varchar
+City	City portion of the address	varchar
+State	State portion of the address	char
+County	County  	varchar
+ZipCode	Zip code portion of the address	varchar
+Country	Indicates what ISO Country Code is selected for the related Customer address. Renamed [Country] to [CountryCode].	char
+IsForeign	Indicates whether the entity is part of a foreign nation outside the United States and its outlying territories, or not.	bit
+ResAreaCode	Area code portion of the residence phone number	varchar
+ResPhone	Phone portion of the residence phone number	varchar
+ResExt	Extension portion of the residence phone number	varchar
+BusAreaCode	Area code portion of the business phone number	varchar
+BusPhone	Phone portion of the business phone number	varchar
+BusExt	Extension portion of the business phone number	varchar
+FaxAreaCode	Area code portion of the fax phone number	varchar
+FaxPhone	Phone portion of the fax phone number	varchar
+FaxExt	Extension portion of the fax phone number	varchar
+DOB	Date of birth	datetime
+KnownSince	Year the customer first became a customer of the agency	char
+Occupation	Customer's occupation	varchar
+YearEmployed	Year customer was employed	char
+SSN	Customer's Social Security Number  	char
+TypeCust	Type of customer	char
+Sex	Male or Female flag	char
+Married	Marital Status	varchar
+BusSince	Year customer started business	char
+TypeEntity	Business Entity of Customer	varchar
+Prod1Code	Unique identifier of a row in the Employee table for the account exec	char
+CsrCode	Unique identifier of a row in the Employee table for the account rep	char
+GLDivCode	Business unit division code for this customer account	char
+GLDeptCode	Business unit department code for this customer account	char
+DBA	DBA name for the business	varchar
+Active	Flag to indicate whether the customer is Active or not.	char
+MarineAreaCode	Area code portion of the mobile phone number	varchar
+MarinePhone	Phone portion of the mobile phone number	varchar
+MarineExt	Extension portion of the mobile phone number	varchar
+BrokerCode	Unique identifier for a row in the Broker table	char
+NonPC	Currently not used	char
+LateCharge	Flag to indicate if a late charge will be applied for the customer.	char
+CollectLetter	Flag to indicate whether to include customer in Aged A/R list for Collection letter.	char
+ReportOption	Receivables reporting option indicating how to display/print invoice detail.	char
+AutoApplyPay	Indicates whether receipts will automatically be assigned to the oldest invoice.	char
+StatePrintGroup	Allows the agency to specify the statement group in which to print the customer.	char
+AutoApplyCR	Currently not used	char
+NAICS	This is the North American Industry Classification System number (NAICS). Originally the field in the user interface was mapped to the database column .SIC.  In version AMS360 2016R2 we will now allow for both an SIC and an NAICS to be captured in the user interface.	varchar
+LLId	Indicates if this customer was entered through a marketing lead list.  Unique identifier for a row in the LeadList table	uniqueidentifier
+PrintCustStmt	Indicates if customer statement will be printed for the customer.  Default is Y.	char
+ARClosedDate	If all the invoice balances for the customer are calculated as zero, this is the latest date that the customer's invoices were calculated to be closed reached this state.  If every invoice balance for the customer was not calculated to be zero, this will be SQL_HIGHDATE.  This is an accounting closed information field added in 3.0 for accounting database performance.  spu_CustGen does not take these two columns as input parameters but rather hardcodes the defaults in the insert case and does not change their values in the update case.  There is another spu which specifically updates this column.	datetime
+ARClosedStatus	Value of X if the customer has had activity since the calculation process was last run.  'A' if no activity has occurred.  This is an accounting closed information field added in 3.0 for accounting database performance.  spu_CustGen does not take these two columns as input parameters but rather hardcodes the defaults in the insert case and does not change their values in the update case.  There is another spu which specifically updates this column.	char
+MktgFlag	Flag to indicate whether to include or exclude the customer from Marketing queries.	char
+IsExclDelete	Flag to indicate the customer can not be deleted.	char
+MasterSubType	Flag to indicate if the customer is set up as a Multiple Entity.	char
+MasterCustId	If the customer type is Sub-customer/Multiple Entities, this is a required field.  It points to the master customer.	uniqueidentifier
+PagerAreaCode	Area code portion of the pager phone number for the customer	varchar
+PagerPhone	Phone number portion of the pager phone number for the customer	varchar
+PagerExt	Extension portion of the pager phone number for the customer	varchar
+OtherAreaCode	The area code for 'Other' phone number	varchar
+OtherPhone	The number for the 'Other' phone	varchar
+OtherExt	The extension for the 'Other' phone	varchar
+EMail	Electronic mail address	varchar
+EMail2	An alternate email address for the customer	varchar
+ANotId	Unique identifier of a row in the AgencyNotation table.  This is a agency defined value to represent the customer's status.	uniqueidentifier
+FedIdNo	Federal Employer Identification Number (FEIN)	varchar
+DUNSNo	Dun &Bradstreet's Data Universal Numbering System	varchar
+IsBillNameSameAsCust	Flag to indicate which name to use in billing.  If yes, use the customer's name.  If no, use the name in the BillName field.	char
+BillName	If the billing name flag is no, this is a required field to hold the name to use in billing.	varchar
+IsBillAddrSameAsCust	Flag to indicate which address to use in billing.  If yes, use the customer's address.  If no, use the address in the following billing address fields.	char
+BillAddr1	Address line 1	varchar
+BillAddr2	Address line 2	varchar
+BillCity	City	varchar
+BillState	State	varchar
+BillZip	Zip code	varchar
+BillCounty	County	varchar
+MasterSubTrack	This applies to a master customer only and indicates where to track the receivables.	varchar
+IsPrintAgencyBill	Flag to indicate whether to print invoices for agency billed business.	char
+IsPrintDirectBill	Flag to indicate whether to print invoices for direct billed business.	char
+PremOption	Accounting option to roll fees and premium into one line on invoices.	char
+GroupingOption	Accounting option to indicate how to group different invoice numbers.	char
+FirmNameCust	Customer Firm Name	varchar
+IsBrokCust	Flag to indicate customer is a brokers customer.	char
+IsDeriveAttrFlagsCust	Flag to indicate whether to automatically check Business With Agency checkboxes based on the active policies	char
+PermAttrFlagsCust	Flags to indicate the selection of "Business With Agency" checkboxes.	varchar
+UserAttrFlagsCust	Currently not used	varchar
+LatitudeCust	Customer address Latitude	float
+LongitudeCust	Customer address Longitude	float
+CustAddedDate	For a new customer being created regardless of TypeCust (customer type), this is set to the current date.  For a existing custmer, if the "TypeCust" changes, update this field with the current date. 	datetime
+GLBrnchCode	Business unit branch code for this customer account	char
+GLGrpCode	Business unit group code for this customer account	char
+WebAddr	Customer web address	varchar
+TypeName	Flag to indicate customer name type	char
+FormalSalutation	Customer formal salutation	varchar
+InformalSalutation	Customer informal salutation	varchar
+IsSecured	Indicates whether need to limit  which employees may access this customer	char
+SortName	Display the customer individual name (LastName + FirstName + MiddleName) or the customer firm name (FirmNameCust).	varchar
+BusOriginCode	Looks at the Business Origin in basic policy	varchar
+AcquisitionCode	Used to track how the agency acquired the customer	varchar
+JoinCriteria	This is set to the combination of TypeCust, IsBrokCust, Active, and MasterSubType	char
+ResFullPhone	System generated value representing the combination of residential area code and phone number.  Used to facilitate phone number searches.	varchar
+BusFullPhone	System generated value representing the combination of business area code and phone number.  Used to facilitate phone number searches.	varchar
+FaxFullPhone	System generated value representing the combination of fax area code and phone number.  Used to facilitate phone number searches.	varchar
+MarineFullPhone	System generated value representing the combination of marine area code and phone number.  Used to facilitate phone number searches.	varchar
+PagerFullPhone	System generated value representing the combination of pager area code and phone number.  Used to facilitate phone number searches.	varchar
+OtherFullPhone	Calculated column that concatenates the 'Other' phone fields for display	varchar
+DriversLicense	The drivers license number of the customer	varchar
+TypeOfBusiness	Identifies which SmartFlow component should be used to edit this customer	varchar
+SIC	North American Industry Classification System number (NAICS)	varchar
+GLCode	GLCode	varchar
+MethodOfDistribution	Identify whether a customer should receive hard copy letters, email or faxes as a preferred method of distributing customer related documents.	char
+ReferralNameCode	Indicates what Referral Name Code is associated with a customer.	varchar
+ReferralLocationCode	Indicates what Referral Location Code is associated with a customer.	varchar
+ContactMethod	The method in which the customer would like to be contacted	char
+MarketingSolicitation	The customer's preference for what methods of delivery to use for marketing materials.	char
+ElectronicDelivery	The customer's preference for receiving documents, or not. 	char
+Notes	General notes related to the customer's preferred methods of marketing/solicitation	varchar
+ChangedBy	Employee code associated with the change.	varchar
+ChangedDate	Date and time the change took place.	datetime
+EnteredDate	Date and time the row was originally created.	datetime
+EducationLevel	Education Level (PR_Code).	varchar
