@@ -1,0 +1,8 @@
+Getting CustomerRelationship1.6336031
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustomerRelationship?limit=1000&schema=public&select=*
+
+CustomerRelationship Staging Load Completed
+
+11.666352
+

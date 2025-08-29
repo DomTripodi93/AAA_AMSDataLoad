@@ -1,0 +1,18 @@
+Getting InvoiceTransaction0.5058877
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_InvoiceTransaction?limit=1000&schema=public&select=*
+
+Loading InvoiceTransaction
+
+0.9165655
+
+InvoiceTransactions Load Completed: 262 Rows Inserted
+
+2.0947207
+
+Loaded to RawData
+
+InvoiceTransaction Staging Load Completed
+
+2.1240095
+

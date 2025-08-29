@@ -76,6 +76,53 @@ if (modelsToRun["Customer"])
     taskList.Add(dataHandlerHeader.GetAndInsertCustomer(rootRequestUrl, filterDateString));
 }
 
+if (modelsToRun["CustContact"])
+{
+    AMSCustContactHandler dataHandlerHeader = new AMSCustContactHandler(logging, config, rootReqHandler, startTime);
+    taskList.Add(dataHandlerHeader.GetAndInsertCustContact(rootRequestUrl, filterDateString));
+}
+
+if (modelsToRun["CustXRef"])
+{
+    AMSCustXRefHandler dataHandlerHeader = new AMSCustXRefHandler(logging, config, rootReqHandler, startTime);
+    taskList.Add(dataHandlerHeader.GetAndInsertCustXRef(rootRequestUrl, filterDateString));
+}
+
+if (modelsToRun["PolicyTransaction"])
+{
+    AMSPolicyTransactionHandler dataHandlerHeader = new AMSPolicyTransactionHandler(logging, config, rootReqHandler, startTime);
+    taskList.Add(dataHandlerHeader.GetAndInsertPolicyTransaction(rootRequestUrl, filterDateString));
+}
+
+if (modelsToRun["130Policy"])
+{
+    AMS130PolicyHandler dataHandlerHeader = new AMS130PolicyHandler(logging, config, rootReqHandler, startTime);
+    taskList.Add(dataHandlerHeader.GetAndInsert130Policy(rootRequestUrl, filterDateString));
+}
+
+if (modelsToRun["131SPolicy"])
+{
+    AMS131SPolicyHandler dataHandlerHeader = new AMS131SPolicyHandler(logging, config, rootReqHandler, startTime);
+    taskList.Add(dataHandlerHeader.GetAndInsert131SPolicy(rootRequestUrl, filterDateString));
+}
+
+if (modelsToRun["InvoiceTransaction"])
+{
+    AMSInvoiceTransactionHandler dataHandlerHeader = new AMSInvoiceTransactionHandler(logging, config, rootReqHandler, startTime);
+    taskList.Add(dataHandlerHeader.GetAndInsertInvoiceTransaction(rootRequestUrl, filterDateString));
+}
+
+if (modelsToRun["BasicPolInfo"])
+{
+    AMSBasicPolInfoHandler dataHandlerHeader = new AMSBasicPolInfoHandler(logging, config, rootReqHandler, startTime);
+    taskList.Add(dataHandlerHeader.GetAndInsertBasicPolInfo(rootRequestUrl, filterDateString));
+}
+
+if (modelsToRun["LineOfBusiness"])
+{
+    AMSLineOfBusinessHandler dataHandlerHeader = new AMSLineOfBusinessHandler(logging, config, rootReqHandler, startTime);
+    taskList.Add(dataHandlerHeader.GetAndInsertLineOfBusiness(rootRequestUrl, filterDateString));
+}
 
 string[] results = await Task.WhenAll(taskList);
 taskList = new List<Task<string>>();

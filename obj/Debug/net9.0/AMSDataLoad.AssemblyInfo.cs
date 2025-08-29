@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AMSDataLoad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5ecad7de70f74d93e5848216406729c414802ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("AMSDataLoad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AMSDataLoad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

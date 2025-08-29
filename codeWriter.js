@@ -190,9 +190,9 @@ fs.readFile(examplesFolder + "fileList.json", { encoding: 'utf-8' }, (err, fileR
                         let fieldInfo = [];
                         let dataRowsProcessed = 0;
                         let modelName = filePath.split(".")[0];
-                        if (modelName[modelName.length - 1] === "s") {
-                            modelName = modelName.substring(0, modelName.length - 1)
-                        }
+                        // if (modelName[modelName.length - 1] === "s") {
+                        //     modelName = modelName.substring(0, modelName.length - 1)
+                        // }
 
                         // console.log(dataResult)
                         let jsonData = JSON.parse(dataResult);

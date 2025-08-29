@@ -1,0 +1,42 @@
+BHId	Billing header for all invoice transactions for the policy.  Invoices that are not associated with a policy are On Account Invoices and BHId is null.	uniqueidentifier	From AFW_BillingHeader.BHId	null
+CSHId	Currently not used.	uniqueidentifier		null
+InvId	Invoice parent of this transaction	uniqueidentifier	From AFW_Invoice.InvId	not null
+InvTPId	Unique identifier of a row in the InvoiceTransaction table.  	uniqueidentifier	Globally Unique Identifier (GUID)	not null
+OldInvTPId	If this invoice transaction was created to correct an earlier invoice transaction, this field has the Id of the original transaction.	uniqueidentifier		null
+BackInvTPId	If this invoice transaction was created to back out an earlier transaction, this field has the Id of the original.	uniqueidentifier		null
+NewInvTPId	If this transaction has been corrected by a later invoice, this field has the Id of the new transaction.	uniqueidentifier		null
+BillSeqId	Unique identifier to associate all billing table entries for a single billing action taken by a user.	uniqueidentifier	Globally Unique Identifier (GUID)	not null
+BillTranId	Unique identifier to associate all installments of a single LOB or non-premium.  	uniqueidentifier	Globally Unique Identifier (GUID)	not null
+PolTEffDate	All invoice transactions that are for billed invoices (On Account invoices are not from billing) are associated with a policy transaction effective date. 	datetime	From AFW_PolicyTransaction .EffDate	null
+PolTPId	Invoices that are created by Customer Center Billing or by Direct Bill Commission 
+Statement billing has each invoice transaction associated with a policy transaction premium record.	uniqueidentifier	From AFW_PolicyTranPremium.PolTPId	null
+CustId	Customer identified for the policy.  For a Multi-Entity policy this is the Master Customer.	uniqueidentifier	From AFW_BasicPolInfo.CustId	null
+BrokerCode	Broker identified for the policy.	char	From AFW_BasicPolInfo.BrokerCode	null
+BillMethod	Bill Method for the invoice	varchar	From AFW_Invoice.BillMethod	null
+BinderStatus	Flag to indicate a standard transaction billing or a binder transaction billing.  Invoice transactions that were binder transaction billings are updated to be standard transaction billings when the binder transaction is replaced.	char	Valid values are:
+BinderPostMethod	Flag to indicate when binder liability/expense transactions are posted. It is set at INVTP creation time to match the current setting in agency option setup.  This is null for invoice transactions that were never associated with a binder transaction.	char	Valid Values are:
+BinderPolTEffDate	If this Invoice transaction is or was associated with a binder transaction, this is the binder transaction effective date.	datetime	From AFW_PolicyTransaction.EffDate	null
+ReplaceDate	Billing date that the user performed the replace binder function	datetime		null
+RBBkOutId	Currently not used.	uniqueidentifier		null
+IsInstallment	Flag that identifies if the invoice is an installment. The customer Premium/NonPremium option identifies whether installments will be reported as a summation of multiple transactions on the printed invoice and customer statement.	char	Valid values are:
+IsCancelled	Flag indicates whether the transaction of this invoice is a cancellation.	char	Valid values are:
+LineOfBus	Policy transaction Line of Business.  This is null when the invoice transaction is for a non premium policy transaction.	varchar	From AFW_PolicyTranPremium.LineofBus	null
+PlanType	Policy transction Plan.  This is null when the invoice transaction is for a non premium policy transaction.	varchar	From AFW_PolicyTranPremium.PlanType	null
+ChargeCode	Policy transaction charge code.  This is evaluated with ChargeCat.  Valid values are in AFW_SetupBillingTran.ChargeCode
+ChargeCat	Policy transaction charge category.  This identifes whether the policy transaction is premium, non premium, premium finance,  or down payment.   Valid values are in AFW_SetupBillingTran.ChargeCat	char	From AFW_PolicyTranPremium.ChargeCatPolTP	null
+NonPrRecipient	Indicates which entity is to receive the charge.  This is not null when the ChargeCat is 2  (non premium) or 5 (premium finance).  When this is 1, the agency is the recipient.  When this is 8, the company is the recipient.  When this is 9, a fee company is the recipient.	char	From AFW_PolicyTranPremium.NonPrRecipientPolTP	null
+GrossAmt	This is the dollar amount for this transaction.  This may be a portion of the Policy Transaction Premium amount when invoicing has a pay plan other than Full Pay.	money		not null
+TranType	Policy transaction type.  The PoltEffDate and PolId  used against AFW_PolicyTransaction.TranType	char	From AFW_PolicyTransaction.TranType	null
+InvEffDate	The effective date of this invoice transaction. An installment can have a later date than the policy effective date (PolTEffDate).	datetime		not null
+CoCode	Unique identifier of a row in the Company table.  The transaction company is different from BPOL.CoCode if this is a fee due to a Fee company or a Premium Finance transaction where the agency manages the money from the finance company (Agency is non premium recipient).	char	From AFW_Company.CoCode.	null
+CoType	Identifies the type of company for this transaction.  This is null for On Account invoices that are not tied to a policy and for transactions that are for down payments and agency fees. 	char	Valid values are:
+WritingCoCode	This matches AFW_PolicyTranPremium.WritingCoCode.	char	From AFW_PolicyTranPremium.WritingCoCode.	null
+Description	Description of the Billing Transaction as entered or confirmed by the user on the Billing Transaction dialog.  The value in this field defaults based on the LineOfBus and POLT description.  It may be overriden on the dialog by the user.	varchar		null
+JournalTranId	Id field used to link between GL posting for this transaction.  Link to GLT.JournalTranId.	uniqueidentifier	From AFW_GeneralLedgerTransaction.JournalTranId	null
+CommPayType	Currently not used.	char		null
+FullTermPremAmt	Currently not used.	money		null
+IsPosted	Flag to indicate if row has been posted to GL.  	char	Valid values are:
+GLDate	This matches the GLT.Trandate for receivable postings associated with this transaction.  The later of GLDate/InvEffDate matches GLT.Trandate for income, payables and expenses associated with this transaction.	datetime		null
+ChangedBy	Person who last changed the row in the table.	varchar	From AFW_Employee.EmpCode	not null
+ChangedDate	Date and time the last change was made to the row in the table.	datetime	Valid date and time.	not null
+EnteredDate	Date and time the row was initially inserted to the table.	datetime	Valid date and time.	not null

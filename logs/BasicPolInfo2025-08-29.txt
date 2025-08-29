@@ -1,0 +1,1432 @@
+Getting BasicPolInfo0.6222042
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*
+
+Loading BasicPolInfo
+
+1.3342791
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+3.91947
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+3.9204781
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODM1Nzc3MTQ0NzA2fQ==
+
+Loading BasicPolInfo
+
+4.4152162
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+6.3592974
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+6.3603413
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODM1Nzc3MTQ1NzI1fQ==
+
+Loading BasicPolInfo
+
+6.7340538
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+8.5909379
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+8.5932017
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODM1Nzc3MTQ2NzU0fQ==
+
+Loading BasicPolInfo
+
+8.9887945
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+11.2604559
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+11.2621395
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODM1Nzc3MTQ3NzY5fQ==
+
+Loading BasicPolInfo
+
+11.7446245
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+13.8304745
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+13.8320954
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODM1Nzc3MTQ4NzkwfQ==
+
+Loading BasicPolInfo
+
+14.2383656
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+16.0129413
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+16.0146128
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODM1Nzc3MTQ5ODE2fQ==
+
+Loading BasicPolInfo
+
+16.4298228
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+18.1908528
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+18.1923547
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODQyODk5NDUyNTg0fQ==
+
+Loading BasicPolInfo
+
+18.5908538
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+20.1086547
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+20.1096735
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODQyODk5NDUzNjA1fQ==
+
+Loading BasicPolInfo
+
+20.4815409
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+22.1686273
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+22.1695055
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODQyODk5NDU0NjI2fQ==
+
+Loading BasicPolInfo
+
+22.598994
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+24.3402791
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+24.343409
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODQyODk5NDU1NjM2fQ==
+
+Loading BasicPolInfo
+
+24.7673619
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+26.6869237
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+26.6885442
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODQyODk5NDU2NjU3fQ==
+
+Loading BasicPolInfo
+
+27.1961229
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+29.0502374
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+29.0518783
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODQyODk5NDU3NjgxfQ==
+
+Loading BasicPolInfo
+
+29.4367086
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+31.3729303
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+31.3754237
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODQyODk5NDU4Njk0fQ==
+
+Loading BasicPolInfo
+
+31.7809134
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+33.5708539
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+33.573786
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODQ0MDg4Mjg0MzIwfQ==
+
+Loading BasicPolInfo
+
+33.9927373
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+35.7690699
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+35.7722295
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODQ0MDg4Mjg1MzM5fQ==
+
+Loading BasicPolInfo
+
+36.1867093
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+38.1550706
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+38.155863
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODQ0MDg4Mjg2MzYxfQ==
+
+Loading BasicPolInfo
+
+38.5708637
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+39.9912803
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+39.9927959
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODQ0MDg4Mjg3Mzg2fQ==
+
+Loading BasicPolInfo
+
+40.3985102
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+41.7916486
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+41.7925782
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODQ0MDg4Mjg4Mzk4fQ==
+
+Loading BasicPolInfo
+
+42.1523085
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+43.7233505
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+43.7241593
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODQ0MDg4Mjg5NDA4fQ==
+
+Loading BasicPolInfo
+
+44.0783221
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+45.7388634
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+45.7396575
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODUzOTMzMDcwNTYyfQ==
+
+Loading BasicPolInfo
+
+46.0876707
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+47.5162001
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+47.5167618
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODUzOTMzMDcxNTg0fQ==
+
+Loading BasicPolInfo
+
+48.0045278
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+49.5357053
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+49.5368409
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODUzOTMzMDcyNjAyfQ==
+
+Loading BasicPolInfo
+
+49.9483041
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+51.6568091
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+51.6582439
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODUzOTMzMDczNjE2fQ==
+
+Loading BasicPolInfo
+
+52.0398884
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+53.5514477
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+53.5525311
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODUzOTMzMDc0NjQwfQ==
+
+Loading BasicPolInfo
+
+53.9413943
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+55.2815813
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+55.2825247
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODUzOTMzMDc1NjU4fQ==
+
+Loading BasicPolInfo
+
+55.6541963
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+56.9238416
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+56.9246529
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODYxNDQzOTM5MjIzfQ==
+
+Loading BasicPolInfo
+
+57.2989774
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+62.2561811
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+62.2576392
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODYxNDQzOTQwMjQzfQ==
+
+Loading BasicPolInfo
+
+62.729153
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+65.2749734
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+65.2760908
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODYxNDQzOTQxMjcyfQ==
+
+Loading BasicPolInfo
+
+65.659781
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+67.4424834
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+67.4439642
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODYxNDQzOTQyMjkxfQ==
+
+Loading BasicPolInfo
+
+67.8736774
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+69.7782701
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+69.7800496
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODYxNDQzOTQzMzExfQ==
+
+Loading BasicPolInfo
+
+70.1488516
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+71.5694324
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+71.5710288
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODY0NzE3MTM0NzE5fQ==
+
+Loading BasicPolInfo
+
+71.9361225
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+73.4524558
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+73.4548846
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODY0NzE3MTM1NzM1fQ==
+
+Loading BasicPolInfo
+
+73.8372457
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+76.1622119
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+76.1653323
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODY0NzE3MTM2NzU3fQ==
+
+Loading BasicPolInfo
+
+76.6032564
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+78.369119
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+78.3722014
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODY0NzE3MTM3NzgwfQ==
+
+Loading BasicPolInfo
+
+78.7752036
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+80.6314682
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+80.6332398
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODY0NzE3MTM4ODA3fQ==
+
+Loading BasicPolInfo
+
+81.0435718
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+83.009254
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+83.0113195
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODY0NzE3MTM5ODI0fQ==
+
+Loading BasicPolInfo
+
+83.3919329
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+85.1872272
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+85.1887463
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODY1MjU5OTU1OTk4fQ==
+
+Loading BasicPolInfo
+
+85.6179104
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+87.5253268
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+87.5267954
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODY1MjU5OTU3MDE5fQ==
+
+Loading BasicPolInfo
+
+87.9161856
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+89.6174502
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+89.6219402
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODY1MjU5OTU4MDQwfQ==
+
+Loading BasicPolInfo
+
+90.0396111
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+91.8895284
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+91.8918052
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODY1MjU5OTU5MDczfQ==
+
+Loading BasicPolInfo
+
+92.2826006
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+94.0810388
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+94.0827005
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODY1MjU5OTYwMTAwfQ==
+
+Loading BasicPolInfo
+
+94.557385
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+96.396876
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+96.3985985
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODcwOTk0Njk4NjcyfQ==
+
+Loading BasicPolInfo
+
+96.8227949
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+98.6461041
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+98.6470433
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODcwOTk0Njk5Njg1fQ==
+
+Loading BasicPolInfo
+
+99.0412782
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+100.8404948
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+100.8415129
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODcwOTk0NzAwNzE3fQ==
+
+Loading BasicPolInfo
+
+101.2582922
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+102.7431714
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+102.7441525
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODcwOTk0NzAxNzM3fQ==
+
+Loading BasicPolInfo
+
+103.1571779
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+104.7904061
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+104.7911903
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODcwOTk0NzAyNzUxfQ==
+
+Loading BasicPolInfo
+
+105.1789355
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+106.8843551
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+106.8870445
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODcwOTk0NzAzNzgzfQ==
+
+Loading BasicPolInfo
+
+107.2723968
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+108.9663239
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+108.9677522
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODc2MDkxMjA5NzYzfQ==
+
+Loading BasicPolInfo
+
+109.3486836
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+111.0512351
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+111.0529625
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODc2MDkxMjEwNzg0fQ==
+
+Loading BasicPolInfo
+
+111.4493686
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+113.2625814
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+113.2636044
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODc2MDkxMjExNzk5fQ==
+
+Loading BasicPolInfo
+
+113.676981
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+115.3981918
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+115.3993925
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODc2MDkxMjEyODE5fQ==
+
+Loading BasicPolInfo
+
+115.8188128
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+117.451445
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+117.4524646
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODc2MDkxMjEzODQ0fQ==
+
+Loading BasicPolInfo
+
+117.8853984
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+119.8032643
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+119.8042312
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODc4NDg1MTk4MjAwfQ==
+
+Loading BasicPolInfo
+
+120.2426915
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+121.9502255
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+121.9523099
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODc4NDg1MTk5MjIyfQ==
+
+Loading BasicPolInfo
+
+122.3850724
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+124.1796627
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+124.1808655
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODc4NDg1MjAwMjQ4fQ==
+
+Loading BasicPolInfo
+
+124.6353285
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+129.6365466
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+129.637713
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODc4NDg1MjAxMjYzfQ==
+
+Loading BasicPolInfo
+
+130.0747573
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+134.1469161
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+134.1481117
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODc4NDg1MjAyMjc1fQ==
+
+Loading BasicPolInfo
+
+134.5364059
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+136.901123
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+136.9028166
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODc4NDg1MjAzMjkwfQ==
+
+Loading BasicPolInfo
+
+137.2913145
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+139.3848592
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+139.3859495
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODgzMjE2MDUxMDU4fQ==
+
+Loading BasicPolInfo
+
+139.877805
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+141.8349076
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+141.8360665
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODgzMjE2MDUyMDgxfQ==
+
+Loading BasicPolInfo
+
+142.2167951
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+144.3608437
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+144.3621349
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODgzMjE2MDUzMTA2fQ==
+
+Loading BasicPolInfo
+
+144.7298951
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+146.5398214
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+146.5407378
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODgzMjE2MDU0MTMzfQ==
+
+Loading BasicPolInfo
+
+146.9851982
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+149.0053801
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+149.006408
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODgzMjE2MDU1MTU3fQ==
+
+Loading BasicPolInfo
+
+149.3963873
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+151.2108007
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+151.2116867
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODkwMDk1ODgyMjUzfQ==
+
+Loading BasicPolInfo
+
+151.6373527
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+153.5354881
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+153.5370214
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODkwMDk1ODgzMjc3fQ==
+
+Loading BasicPolInfo
+
+153.937234
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+155.7991298
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+155.8002972
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODkwMDk1ODg0Mjk2fQ==
+
+Loading BasicPolInfo
+
+156.197452
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+158.054946
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+158.0564616
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODkwMDk1ODg1MzA5fQ==
+
+Loading BasicPolInfo
+
+158.4938188
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+160.3759009
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+160.3766527
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODkwMDk1ODg2MzMxfQ==
+
+Loading BasicPolInfo
+
+160.7754708
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+162.4439878
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+162.4449333
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODkwMDk1ODg3MzUwfQ==
+
+Loading BasicPolInfo
+
+162.8430092
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+164.5266042
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+164.527514
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODk4NTEyNTc1MDAzfQ==
+
+Loading BasicPolInfo
+
+164.9688213
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+166.5263051
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+166.5269161
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODk4NTEyNTc2MDI5fQ==
+
+Loading BasicPolInfo
+
+166.9479588
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+168.5808653
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+168.5817938
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODk4NTEyNTc3MDU0fQ==
+
+Loading BasicPolInfo
+
+168.9661056
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+170.785804
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+170.7868803
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODk4NTEyNTc4MDgzfQ==
+
+Loading BasicPolInfo
+
+171.2053443
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+172.9810764
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+172.9819199
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyODk4NTEyNTc5MTEwfQ==
+
+Loading BasicPolInfo
+
+173.3956775
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+175.1437639
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+175.1449716
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyOTAxOTkwMzk1OTA2fQ==
+
+Loading BasicPolInfo
+
+175.546553
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+177.1779783
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+177.1790471
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyOTAxOTkwMzk2OTM3fQ==
+
+Loading BasicPolInfo
+
+177.6183714
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+179.3421874
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+179.3435796
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyOTAxOTkwMzk3OTU2fQ==
+
+Loading BasicPolInfo
+
+179.8511295
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+181.5925792
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+181.5935883
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyOTAxOTkwMzk4OTcwfQ==
+
+Loading BasicPolInfo
+
+182.0451652
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+183.7006902
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+183.7029066
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyOTAxOTkwMzk5OTg0fQ==
+
+Loading BasicPolInfo
+
+184.1257994
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+185.8387336
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+185.840813
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyOTA4NjUyNzAxNzk3fQ==
+
+Loading BasicPolInfo
+
+186.3184347
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+187.8953038
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+187.8966306
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyOTA4NjUyNzAyODI0fQ==
+
+Loading BasicPolInfo
+
+188.3313124
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+189.9339564
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+189.9348535
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyOTA4NjUyNzAzODQ2fQ==
+
+Loading BasicPolInfo
+
+190.3385267
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+191.6127249
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+191.6138443
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyOTA4NjUyNzA0ODU2fQ==
+
+Loading BasicPolInfo
+
+191.9986323
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+195.0915672
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+195.0927623
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyOTA4NjUyNzA1ODc4fQ==
+
+Loading BasicPolInfo
+
+195.5390226
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+201.2889809
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+201.290607
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyOTA4NjUyNzA2OTE3fQ==
+
+Loading BasicPolInfo
+
+201.6946196
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+203.9539984
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+203.9570158
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyOTEzOTQyNTE3OTMzfQ==
+
+Loading BasicPolInfo
+
+204.3710817
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+206.3828954
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+206.3850152
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyOTEzOTQyNTE4OTQ5fQ==
+
+Loading BasicPolInfo
+
+206.7901255
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+208.5557413
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+208.5570242
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyOTEzOTQyNTE5OTc5fQ==
+
+Loading BasicPolInfo
+
+208.9624444
+
+BasicPolInfos Load Completed: 1000 Rows Inserted
+
+210.8483435
+
+Loaded to RawData
+
+Getting BasicPolInfo
+
+210.8499015
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_BasicPolInfo?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIyOTEzOTQyNTIxMDE3fQ==
+
+Loading BasicPolInfo
+
+211.2776734
+

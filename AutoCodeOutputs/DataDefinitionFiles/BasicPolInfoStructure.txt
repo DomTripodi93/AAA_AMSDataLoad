@@ -1,0 +1,75 @@
+CustId	Unique identifier for a row in the Customer table.	uniqueidentifier	From AFW_Customer.CustId.	not null
+PolId	Unique identifier for a row in the BasicPolInfo table.	uniqueidentifier	Globally Unique Identifier (GUID)	not null
+Status	Flag to indicate the state of the row.	char	Valid values are:
+ANotId	Foreign key to the setup table AgencyNotation.  This table stores agency defined notation values (flags) for customers, policies, or submissions.	uniqueidentifier		null
+PolNo	A company assigned number used to identify a policy.  If the agency does not have a number for a policy/application, they will assign a temporary number.	varchar		not null
+ShortPolNo	The Policy number with the spaces and special characters stripped off.  This is used in policy matching in download.	varchar		not null
+TypeOfBus	Type of business	smallint	Valid values are in the afw_PRCode table for AttrCode = 'TB', which include:
+PolType	Type of Policy	char	Valid values are in the afw_PRCode table for AttrCode = 'TP', which include:
+PolTypeLOB	With the possible exception of Monoline, this field stores the translation of what's stored in PolType (prc.Description). If PolType = M, 'Monoline' will be defaulted.  However, it will be overwritten by the prcode.description translation of the first non null lob.LineOfBus column attached to this policy (lob.ExpDate must = SQL_HIGHDATE but can be any lob.EffDate).  This column is maintained entirely within SQL (spu_bpol and lob triggers).	varchar		not null
+PolSubType	Flag that indicates if the row is for a policy, submission or an accounting policy (generated when processing a direct bill statement).	char	Valid values are:
+CoCode	Parent company or Brokerage company for which the policy is written with.  Foreign key maintained in the Company table as a unique identifier of a company. For Subscription Policy CoCode=^^^.  The CoType column determines what value is stored.  If CoType = N then this is a normal company code, if type = B then this is a Brokerage company code. For Subscription CoType=S.	varchar	From AFW_Company.CoCode.	null
+CoType	Flag to determine what type of Company the policy is written for.	char	Valid values are:
+(PolSubType=B) where CoCode is NULL	not null
+WritingCoCode	This field is initially defaulted to the CoCode (parent company).  The user can accept the default or specify a Writing company for the company or brokerage specified in CoCode. This field is required on a policy.	varchar	From AFW_Company.CoCode	null
+Underwriter	The company's underwriter for the policy.	varchar	Data entry field with a default list of values from the Name field in the AFW_Underwriter (uwrt) table maintained in company setup.	null
+ExecCode	The Account Exec for the policy.  It will be plugged from the Exec row marked active in the AdditionalPersonnel table.	varchar	From AFW_Employee.EmpCode, valid values are where Employee.IsProd='Y'.	not null
+CsrCode	The Account Rep for the policy.  It will be plugged from the CSR row marked active in the AdditionalPersonnel table.	varchar	From AFW_Employee.EmpCode, valid values are where Employee.IsRep='Y'.	not null
+BrokerCode	The Broker for the policy. It will be plugged from the Broker row marked active in the AdditionalPersonnel table.  This is a required field if the customer is a broker's customer.	varchar	From AFW_Broker.BrokerCode	null
+PolEffDate	The date the policy becomes effective.  The effective date may be changed up to one day before the first endorsement effective date. This is enforced through the data entry form.  The column is required for a policy and submission.  This date will always equal the EffDate of the first PolT record for this policy.  Must be < PolExpDate.	datetime		null
+PolExpDate	The date the policy expires.   The column cannot be null for a policy record.  If the column IsContinuous is checked then SQL_HIGHDATE will be stored.  Must be > PolEffDate.	datetime		null
+IsContinuous	Flag to determine if policy does not expire.  If the policy is continuous, then the policy expiration date (PolExpDate) will equal SQL_HIGHDATE.  	char		not null
+RenewalList	Determines if or when the policy will be reported for the Renewal Report. The Code field from the PrCode table is stored in this field.	char	Valid values are in the afw_PRCode table for AttrCode = 'RNL', which include:
+RenewalRptFlag	Determines if the policy should be included on the Renewal Report. The Code field from the PrCode table is stored in this field.	char	Valid values are in the afw_PRCode table for AttrCode = 'PF', which include:
+IsMultiEntity	Flag to determine if this policy is sold to a multi-entity customer.	char	Valid values are:
+MultiEntityARFlag	Flag to determine for this Multi-entity policy if the Master customer or the Sub-customer is responsible for the billing.	varchar	Valid values are:
+IsPosted	Flag to indicate if row has been posted to GL.  Determines if this record has any transactions attached to it that have been posted.	char	Valid values are:
+IsSuspended	Flag to determine if the policy has had any billing activity associated with it that has been saved in billing but not posted yet. The existence of a BH row for this policy where BH.InProgressId = not null.	char	Valid values are:
+GLDivCode	Agency's division.	varchar	Valid values are maintained in the AFW_GeneralLedgerDivision.GLDivCode field.	null
+GLDeptCode	Agency's department	varchar	Valid values are maintained in the AFW_GeneralLedgerDepartment.GLDeptCode field.	null
+BillMethod	The method of billing used.	varchar	Valid values are:
+PayPId	Payment plan for the policy.	uniqueidentifier	Although the PayPId is stored, the user will see values from AFW_PaymentPlan.Description.	null
+InstDay	The day of the month installments are billed. If zero, the Policy Effective Date is used (which is the default value).	smallint		not null
+AuditFlag	Flag to indicate if the policy is auditible.	varchar	Valid values are:
+AuditPeriod	If the policy can be audited, this is the period in which it can be audited.	varchar	Valid values are in the afw_PRCode table for AttrCode = 'AP', which include:
+BillAcctNo	Company account number for the customer.	varchar		null
+IsFinanced	Flag to indicate if the policy is financed.	varchar	Valid values are:
+AgcyBusClass	Agency business classification	varchar	varchar(150)	null
+BilledStmtPrem	This field stores the Premium amount that was entered when processing a direct bill commission statement.  When processing the DB stmt., the user can select an existing policy or create a new DB Stmt policy.	money		not null
+PriorPolicy	Stores prior policy number (plugged on renewal).  The user can add to and/or key over the information. Column is used in the renewal report.	varchar		null
+SourcePolId	Stores the ID from the policy that this BPOL row was created from renewal.  Will be null if a submission, new policy not from a submission, copy policy, or new policy from a submission.	uniqueidentifier	uniqueidentifier	null
+IsExclDelete	This field will flag a policy so that it cannot be deleted.	char	Valid values are:
+Method	Used for negotiated commissions.	char	Valid values are:
+Percentage	Used for negotiated commissions.  The percentage of agency commission if the negotiated commission is based on the agency commission.	float		null
+FlatAmount	Used for negotiated commissions.  The amount of commission if the negotiated commission is a flat amount.	money		null
+IsNewBPol	Indicates if business is new to the agency.	char	Valid values are:
+PolChangedDate	Currently not used.	datetime		null
+FullTermPremium	Full Term Premium	money		not null
+MasterAgent	The master agency code assigned from the company.	varchar	User defined or from AFW_MasterAgent.MasterAgent.	null
+SubAgent	The sub agent code assigned for an employee by the company.	varchar	User defined or based on the Master Code selected.  User is given the option to select from a list of sub codes/Employee's Name displayed from the AFW_Agent and AFW_Employee tables.	null
+CompCustNo	Company customer number used for import/export.	varchar		null
+NumOfPayments	Number of payments	smallint		null
+MethodOfPayments	Payment method	varchar	Valid values are in the PRCode.Code field for ttrCode = 'MP'.	null
+GLBrnchCode	Agency's Branch.	char	Valid values are maintained in the AFW_GeneralLedgerBranch.GLBrnchCode field.	null
+GLGrpCode	Agency's Group.	char	Valid values are maintained in the AFW_GeneralLedgerGroup.GLGrpCode field.	null
+PremAdj	Premium adjustment	varchar		null
+NegCommValidDate	Agency negotiated commissions are valid for the policy through this date.	datetime		null
+DescriptionBPol	Basic policy information description.	varchar		null
+IsFiltered	Indicates if the user wants the data entry and line of business filtered by Type of Business.	char	Valid values are:
+TiComId	Unique identifier of a row in the DefaultTieredCommission table.	uniqueidentifier	From AFW_defaulttieredcommission.TiComId	null
+NatlProdCode	A numeric code that is being issued for all producers from the national Insurance Producer Registry to eliminate the sole dependency on using social security numbers as unique identifiers.  This is being done as part of the effort to implement electronic appointments and terminations.	bigint	bigint	null
+PriorPolId	Stores the polid of the prior term policy on renewed or rewritten policies.  This value will only be set when a policy is renewed or rewritten using the application or during download.  NOTE:  The existing column SourcePolId doesn't always reflect the prior term policies.   Cases where SoucePolId will not be the Prior Term are:
+ISTId	Table ID pointing to a parent row in the AFW_InvoiceSplitTemplate table.
+ExcludeFrmDownload	Flag used to indicate if this policy should not accept any further download trancsactions	char	Valid values are:
+BusOriginCode	Used for tracking how a producer acquired the policy	varchar	Valid values are in the AFW_PRCode.Code field for AttrCode='BOO'	null
+FirstWrittenDate	Date the policy was first written	datetime	Valid date and time	null
+IsProductionCreditEnabled	Indicates whether the Production Credit feature is enabled for the policy or not.	char	Valid Values are:
+IsProdCredRequire100	When user creates policy, flag IsProdCredRequire100 from AFW_GeneralLedgerDivision is copied to AFW_BasicPolInfo.	char	Valid Values are:
+CarrierStatus	Indicates what Carrier Status is associated with a policy.	varchar	Valid values are: 
+IssuedState	Indicates what Issue State is associated with a policy (default is: Customer's State)	varchar	Valid values are in the 
+IsReinsuranceEnabled	Indicates whether the reinsurance feature is enabled for a policy nor not	char	Valid values are:
+ChangedBy	Employee code associated with the change.	varchar	From AFW_Employee.EmpCode	not null
+ChangedDate	Date and time the change took place.	datetime	Valid date and time	not null
+EnteredDate	Date and time the row was originally created.	datetime	Valid date and time	not null
+NotRenewable	A Flag to indicate if the policy will renew or not	char	Valid values are:
+RenewalTermCount	This column will track Policy Renewals. This new attribute will be an integral property of Policies in AMS360.	smallint	Valid values are:

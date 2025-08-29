@@ -1,0 +1,418 @@
+Getting CustContact0.4869925
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*
+
+Loading CustContact
+
+1.1269089
+
+CustContacts Load Completed: 1000 Rows Inserted
+
+2.552328
+
+Loaded to RawData
+
+Getting CustContact
+
+2.5535088
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTEwNTgyNjExMjQzfQ==
+
+Loading CustContact
+
+2.8359098
+
+CustContacts Load Completed: 1000 Rows Inserted
+
+3.7424692
+
+Loaded to RawData
+
+Getting CustContact
+
+3.7439565
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTEwNTgyNjEyMjQzfQ==
+
+Loading CustContact
+
+4.0018233
+
+CustContacts Load Completed: 1000 Rows Inserted
+
+4.9435024
+
+Loaded to RawData
+
+Getting CustContact
+
+4.9443421
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTEwNTgyNjEzMjQ0fQ==
+
+Loading CustContact
+
+5.180709
+
+CustContacts Load Completed: 1000 Rows Inserted
+
+6.1817648
+
+Loaded to RawData
+
+Getting CustContact
+
+6.1827975
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTEwNTgyNjE0MjQ1fQ==
+
+Loading CustContact
+
+6.4395452
+
+CustContacts Load Completed: 1000 Rows Inserted
+
+7.5695602
+
+Loaded to RawData
+
+Getting CustContact
+
+7.5706411
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTEwNTgyNjE1MjQ1fQ==
+
+Loading CustContact
+
+7.8110083
+
+CustContacts Load Completed: 1000 Rows Inserted
+
+8.7770265
+
+Loaded to RawData
+
+Getting CustContact
+
+8.7784014
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTEwNTgyNjE2MjQ1fQ==
+
+Loading CustContact
+
+8.9988331
+
+CustContacts Load Completed: 1000 Rows Inserted
+
+10.0775571
+
+Loaded to RawData
+
+Getting CustContact
+
+10.0784574
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTEwNTgyNjE3MjQ1fQ==
+
+Loading CustContact
+
+10.3001831
+
+CustContacts Load Completed: 1000 Rows Inserted
+
+11.4059529
+
+Loaded to RawData
+
+Getting CustContact
+
+11.4069061
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTEwNTgyNjE4MjQ1fQ==
+
+Loading CustContact
+
+11.6323679
+
+CustContacts Load Completed: 1000 Rows Inserted
+
+12.6263582
+
+Loaded to RawData
+
+Getting CustContact
+
+12.6271739
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTEwNTgyNjE5MjQ1fQ==
+
+Loading CustContact
+
+12.8695935
+
+CustContacts Load Completed: 1000 Rows Inserted
+
+13.933181
+
+Loaded to RawData
+
+Getting CustContact
+
+13.9339844
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTEwNTgyNjIwMjQ1fQ==
+
+Loading CustContact
+
+14.1792155
+
+CustContacts Load Completed: 1000 Rows Inserted
+
+15.2333687
+
+Loaded to RawData
+
+Getting CustContact
+
+15.2350786
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTEwNTgyNjIxMjQ1fQ==
+
+Loading CustContact
+
+15.4521657
+
+CustContacts Load Completed: 1000 Rows Inserted
+
+16.6136636
+
+Loaded to RawData
+
+Getting CustContact
+
+16.6144162
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTEwNTgyNjIyMjQ1fQ==
+
+Loading CustContact
+
+16.8451204
+
+CustContacts Load Completed: 1000 Rows Inserted
+
+17.8534909
+
+Loaded to RawData
+
+Getting CustContact
+
+17.8550743
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTEwNTgyNjIzMjQ2fQ==
+
+Loading CustContact
+
+18.070189
+
+CustContacts Load Completed: 1000 Rows Inserted
+
+19.1368103
+
+Loaded to RawData
+
+Getting CustContact
+
+19.1377696
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTEwNTgyNjI0MjQ2fQ==
+
+Loading CustContact
+
+19.3616231
+
+CustContacts Load Completed: 1000 Rows Inserted
+
+20.4597128
+
+Loaded to RawData
+
+Getting CustContact
+
+20.4610725
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTEwNTgyNjI1MjQ2fQ==
+
+Loading CustContact
+
+20.6795985
+
+CustContacts Load Completed: 1000 Rows Inserted
+
+21.7381625
+
+Loaded to RawData
+
+Getting CustContact
+
+21.7391337
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTEwNTgyNjI2MjQ2fQ==
+
+Loading CustContact
+
+21.9849166
+
+CustContacts Load Completed: 1000 Rows Inserted
+
+23.1423979
+
+Loaded to RawData
+
+Getting CustContact
+
+23.1433734
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTEwNTgyNjI3MjQ2fQ==
+
+Loading CustContact
+
+23.349094
+
+CustContacts Load Completed: 1000 Rows Inserted
+
+24.4354613
+
+Loaded to RawData
+
+Getting CustContact
+
+24.4363981
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTEwNTgyNjI4MjQ2fQ==
+
+Loading CustContact
+
+24.6596026
+
+CustContacts Load Completed: 1000 Rows Inserted
+
+25.8343839
+
+Loaded to RawData
+
+Getting CustContact
+
+25.8353435
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTEwNTgyNjI5MjQ2fQ==
+
+Loading CustContact
+
+26.0554766
+
+CustContacts Load Completed: 1000 Rows Inserted
+
+27.1114893
+
+Loaded to RawData
+
+Getting CustContact
+
+27.1124477
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTEyMjE1MzAwNDY3fQ==
+
+Loading CustContact
+
+27.3361471
+
+Getting CustContact
+
+0.6338306
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*
+
+Loading CustContact
+
+1.2869227
+
+CustContacts Load Completed: 1000 Rows Inserted
+
+2.7048424
+
+Loaded to RawData
+
+Getting CustContact
+
+2.7065916
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTEwNTgyNjExMjQzfQ==
+
+Loading CustContact
+
+2.9507322
+
+CustContacts Load Completed: 1000 Rows Inserted
+
+3.9353937
+
+Loaded to RawData
+
+Getting CustContact
+
+3.9365241
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTEwNTgyNjEyMjQzfQ==
+
+Loading CustContact
+
+4.165815
+
+CustContacts Load Completed: 1000 Rows Inserted
+
+5.1022678
+
+Loaded to RawData
+
+Getting CustContact
+
+5.1032359
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTEwNTgyNjEzMjQ0fQ==
+
+Loading CustContact
+
+5.3562277
+
+CustContacts Load Completed: 1000 Rows Inserted
+
+6.485318
+
+Loaded to RawData
+
+Getting CustContact
+
+6.4867938
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTEwNTgyNjE0MjQ1fQ==
+
+Loading CustContact
+
+6.7354135
+
+CustContacts Load Completed: 1000 Rows Inserted
+
+7.7012218
+
+Loaded to RawData
+
+Getting CustContact
+
+7.7019601
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_CustContact?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTEwNTgyNjE1MjQ1fQ==
+
+Loading CustContact
+
+7.927447
+

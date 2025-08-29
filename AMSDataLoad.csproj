@@ -15,7 +15,7 @@
 	<PackageReference Include="mimekit" Version="4.11.0" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.2" />
     <PackageReference Include="microsoft.data.sqlclient" Version="5.2.0" />
-    <PackageReference Include="microsoft.extensions.configuration" Version="8.0.0" />
+    <PackageReference Include="microsoft.extensions.configuration" Version="9.0.8" />
     <PackageReference Include="microsoft.extensions.configuration.json" Version="8.0.0" />
 		<None Update="appsettings.json">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>

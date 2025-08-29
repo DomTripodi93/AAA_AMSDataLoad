@@ -1,0 +1,7 @@
+CustId	Unique identifier for a row in the Customer table.	uniqueidentifier	From AFW_Customer.CustId	not null
+CXRefId	Used in conjunction with the CustId to uniquely identify a row in this table	uniqueidentifier	Globally Unique Identifier (GUID)	not null
+AXRefId	Foreign key into the AgencyXRefType setup table which maintains the types of cross references.	uniqueidentifier	From AFW_AgencyXRefType.AXRefId	not null
+XReference	Cross reference value	varchar		not null
+ChangedBy	Employee code associated with the change	varchar	From AFW_Employee.EmpCode	not null
+ChangedDate	Date and time the last change was made to the row in the table.	datetime	datetime	not null
+EnteredDate	Date and time the row was originally created	datetime		not null

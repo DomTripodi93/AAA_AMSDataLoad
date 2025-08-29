@@ -1,0 +1,25 @@
+{
+    "content": [
+        {
+            "__$checksum": "D1774BCD6D005D0876C3FCDB1AC8AB5F",
+            "__$datasource": "2025688-1",
+            "__$deleted": null,
+            "__$sequencenumber": 414447727,
+            "changedby": "!!?",
+            "changeddate": "2024-11-26T10:12:51",
+            "curretrodate": null,
+            "effdate": "2024-11-12T00:00:00",
+            "entereddate": "2024-11-26T10:12:51",
+            "expirpolno": null,
+            "isdollaryes": null,
+            "isumbrella": "Y",
+            "lobid": "184e9e6c-bf50-4e4f-8fe0-ed6d5803c60a",
+            "polid": "2048cc4f-225a-4882-8358-4f1b1979ba48",
+            "propretrodate": null,
+            "status": "A",
+            "upolid": "cec890d9-23f6-409c-8181-2fbaaaeb23dd"
+        }
+    ],
+    "starting_token": "eyJlZzEiOiAxNzUyMDIyODA0NDU2OTQwOTAxfQ==",
+    "recordCount": 1
+}
