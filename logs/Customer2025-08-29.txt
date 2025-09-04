@@ -1,0 +1,1694 @@
+Could not find stored procedure 'Staging.AMS_Customer_Load'.   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean isAsync, Int32 timeout, Boolean asyncWrite)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String methodName)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader) in /_/Dapper/SqlMapper.cs:line 2965
+   at Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command) in /_/Dapper/SqlMapper.cs:line 656
+   at Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 527
+   at AMSDataLoad.Data.DataContextDapper.ExecuteSql(String sql) in C:\Users\gregs\repos\AAA_AMSDataLoad\Data\DataContextDapper.cs:line 47
+   at AMSDataLoad.Handlers.AMSCustomerHandler.<>c__DisplayClass8_0.<GetAndInsertCustomer>b__0() in C:\Users\gregs\repos\AAA_AMSDataLoad\Handlers\AMSCustomerHandler.cs:line 49
+
+On Step : 
+Could not find stored procedure 'Staging.AMS_Customer_Load'.
+
+Could not find stored procedure 'Staging.AMS_Customer_Load'.
+
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean isAsync, Int32 timeout, Boolean asyncWrite)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String methodName)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader) in /_/Dapper/SqlMapper.cs:line 2965
+   at Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command) in /_/Dapper/SqlMapper.cs:line 656
+   at Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 527
+   at AMSDataLoad.Data.DataContextDapper.ExecuteSql(String sql) in C:\Users\gregs\repos\AAA_AMSDataLoad\Data\DataContextDapper.cs:line 47
+   at AMSDataLoad.Handlers.AMSCustomerHandler.<>c__DisplayClass8_0.<GetAndInsertCustomer>b__0() in C:\Users\gregs\repos\AAA_AMSDataLoad\Handlers\AMSCustomerHandler.cs:line 49
+
+On Step : 
+Could not find stored procedure 'Staging.AMS_Customer_Load'.
+
+Could not find stored procedure 'Staging.AMS_Customer_Load'.
+
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean isAsync, Int32 timeout, Boolean asyncWrite)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String methodName)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader) in /_/Dapper/SqlMapper.cs:line 2965
+   at Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command) in /_/Dapper/SqlMapper.cs:line 656
+   at Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 527
+   at AMSDataLoad.Data.DataContextDapper.ExecuteSql(String sql) in C:\Users\gregs\repos\AAA_AMSDataLoad\Data\DataContextDapper.cs:line 47
+   at AMSDataLoad.Handlers.AMSCustomerHandler.<>c__DisplayClass8_0.<GetAndInsertCustomer>b__0() in C:\Users\gregs\repos\AAA_AMSDataLoad\Handlers\AMSCustomerHandler.cs:line 49
+
+On Step : 
+Could not find stored procedure 'Staging.AMS_Customer_Load'.
+
+Getting Customer
+
+2.3032589
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*
+
+Loading Customer
+
+3.0359796
+
+Customers Load Completed: 1000 Rows Inserted
+
+21.5002633
+
+Loaded to RawData
+
+Getting Customer
+
+21.5016285
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTYwMDQ1MzYyODkwfQ==
+
+Loading Customer
+
+21.9216113
+
+Customers Load Completed: 1000 Rows Inserted
+
+39.9548259
+
+Loaded to RawData
+
+Getting Customer
+
+39.9557144
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTYwMDQ1MzYzOTEyfQ==
+
+Loading Customer
+
+40.3849952
+
+Customers Load Completed: 1000 Rows Inserted
+
+64.1506314
+
+Loaded to RawData
+
+Getting Customer
+
+64.1518288
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTYwMDQ1MzY0OTUxfQ==
+
+Loading Customer
+
+64.5432999
+
+Customers Load Completed: 1000 Rows Inserted
+
+83.9173725
+
+Loaded to RawData
+
+Getting Customer
+
+83.9185951
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTYwNTk5NDI0MjE2fQ==
+
+Loading Customer
+
+84.3463541
+
+Customers Load Completed: 1000 Rows Inserted
+
+103.9888276
+
+Loaded to RawData
+
+Getting Customer
+
+103.9917198
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTYwNTk5NDI1MjM5fQ==
+
+Loading Customer
+
+104.4191482
+
+Customers Load Completed: 1000 Rows Inserted
+
+123.090974
+
+Loaded to RawData
+
+Getting Customer
+
+123.0921353
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTYwNTk5NDI2MjU3fQ==
+
+Loading Customer
+
+123.5722238
+
+Customers Load Completed: 1000 Rows Inserted
+
+144.1019954
+
+Loaded to RawData
+
+Getting Customer
+
+144.1031628
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTYwNTk5NDI3MjkwfQ==
+
+Loading Customer
+
+144.5057097
+
+Customers Load Completed: 1000 Rows Inserted
+
+163.2288432
+
+Loaded to RawData
+
+Getting Customer
+
+163.2319366
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTYxMDA4NzQ2NTQ3fQ==
+
+Loading Customer
+
+163.6510615
+
+Customers Load Completed: 1000 Rows Inserted
+
+182.0070108
+
+Loaded to RawData
+
+Getting Customer
+
+182.0088906
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTYxMDA4NzQ3NTY1fQ==
+
+Loading Customer
+
+182.4033664
+
+Customers Load Completed: 1000 Rows Inserted
+
+200.3875025
+
+Loaded to RawData
+
+Getting Customer
+
+200.3890673
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTYxMDA4NzQ4NTk0fQ==
+
+Loading Customer
+
+200.7719391
+
+Customers Load Completed: 1000 Rows Inserted
+
+218.8871398
+
+Loaded to RawData
+
+Getting Customer
+
+218.888819
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTYxMDA4NzQ5NjIwfQ==
+
+Loading Customer
+
+219.3020033
+
+Customers Load Completed: 1000 Rows Inserted
+
+238.275938
+
+Loaded to RawData
+
+Getting Customer
+
+238.2812662
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTYxNTg5MzM5NjA4fQ==
+
+Loading Customer
+
+238.6985338
+
+Customers Load Completed: 1000 Rows Inserted
+
+257.4905004
+
+Loaded to RawData
+
+Getting Customer
+
+257.4919517
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTYxNTg5MzQwNjM4fQ==
+
+Loading Customer
+
+257.890746
+
+Customers Load Completed: 1000 Rows Inserted
+
+277.7007968
+
+Loaded to RawData
+
+Getting Customer
+
+277.7032057
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTYxNTg5MzQxNjU4fQ==
+
+Loading Customer
+
+278.0977477
+
+Customers Load Completed: 1000 Rows Inserted
+
+298.5548643
+
+Loaded to RawData
+
+Getting Customer
+
+298.5580434
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTYxNTg5MzQyNjg1fQ==
+
+Loading Customer
+
+298.9781431
+
+Customers Load Completed: 1000 Rows Inserted
+
+321.5170224
+
+Loaded to RawData
+
+Getting Customer
+
+321.5196748
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTYzMjE2OTk1MTIwfQ==
+
+Loading Customer
+
+321.9757556
+
+Customers Load Completed: 1000 Rows Inserted
+
+341.7729141
+
+Loaded to RawData
+
+Getting Customer
+
+341.7814401
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTYzMjE2OTk2MTU1fQ==
+
+Loading Customer
+
+342.2135011
+
+Customers Load Completed: 1000 Rows Inserted
+
+361.9085551
+
+Loaded to RawData
+
+Getting Customer
+
+361.9177498
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTYzMjE2OTk3MTg0fQ==
+
+Loading Customer
+
+362.3412901
+
+Customers Load Completed: 1000 Rows Inserted
+
+382.2840414
+
+Loaded to RawData
+
+Getting Customer
+
+382.2863582
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTYzMjE2OTk4MjA5fQ==
+
+Loading Customer
+
+382.7620528
+
+Customers Load Completed: 1000 Rows Inserted
+
+401.7113586
+
+Loaded to RawData
+
+Getting Customer
+
+401.7136681
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTcwMzAxMjAzMTg4fQ==
+
+Loading Customer
+
+402.2080382
+
+Customers Load Completed: 1000 Rows Inserted
+
+421.4538747
+
+Loaded to RawData
+
+Getting Customer
+
+421.4561458
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTcwMzAxMjA0MjA4fQ==
+
+Loading Customer
+
+421.9321799
+
+Customers Load Completed: 1000 Rows Inserted
+
+441.7472473
+
+Loaded to RawData
+
+Getting Customer
+
+441.749227
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTcwMzAxMjA1MjI3fQ==
+
+Loading Customer
+
+442.1931735
+
+Customers Load Completed: 1000 Rows Inserted
+
+461.9720266
+
+Loaded to RawData
+
+Getting Customer
+
+461.9739689
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTcwMzAxMjA2MjU3fQ==
+
+Loading Customer
+
+462.4160641
+
+Customers Load Completed: 1000 Rows Inserted
+
+481.9169634
+
+Loaded to RawData
+
+Getting Customer
+
+481.9216729
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTc4NTI3MzM4MTU0fQ==
+
+Loading Customer
+
+482.3595628
+
+Customers Load Completed: 1000 Rows Inserted
+
+506.9804779
+
+Loaded to RawData
+
+Getting Customer
+
+506.9823424
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTc4NTI3MzM5MTgyfQ==
+
+Loading Customer
+
+507.4103183
+
+Customers Load Completed: 1000 Rows Inserted
+
+527.4132189
+
+Loaded to RawData
+
+Getting Customer
+
+527.4148174
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTc4NTI3MzQwMTk2fQ==
+
+Loading Customer
+
+527.8687143
+
+Customers Load Completed: 1000 Rows Inserted
+
+547.9042743
+
+Loaded to RawData
+
+Getting Customer
+
+547.9063069
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTc4NTI3MzQxMjI3fQ==
+
+Loading Customer
+
+548.4263362
+
+Customers Load Completed: 1000 Rows Inserted
+
+567.5068465
+
+Loaded to RawData
+
+Getting Customer
+
+567.5085608
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTg3MDY5NjkzNjM5fQ==
+
+Loading Customer
+
+568.0627907
+
+Customers Load Completed: 1000 Rows Inserted
+
+588.407531
+
+Loaded to RawData
+
+Getting Customer
+
+588.4096362
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTg3MDY5Njk0NjY5fQ==
+
+Loading Customer
+
+588.8651351
+
+Customers Load Completed: 1000 Rows Inserted
+
+609.4067161
+
+Loaded to RawData
+
+Getting Customer
+
+609.4086981
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTg3MDY5Njk1Njk3fQ==
+
+Loading Customer
+
+609.8415018
+
+Customers Load Completed: 1000 Rows Inserted
+
+629.2040482
+
+Loaded to RawData
+
+Getting Customer
+
+629.2169953
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTk2MzA2ODMzNzA3fQ==
+
+Loading Customer
+
+629.7204554
+
+Customers Load Completed: 1000 Rows Inserted
+
+653.2541361
+
+Loaded to RawData
+
+Getting Customer
+
+653.2617433
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTk2MzA2ODM0NzQxfQ==
+
+Loading Customer
+
+653.7855603
+
+Customers Load Completed: 1000 Rows Inserted
+
+674.8499446
+
+Loaded to RawData
+
+Getting Customer
+
+674.8519104
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTk2MzA2ODM1NzY5fQ==
+
+Loading Customer
+
+675.2751299
+
+Customers Load Completed: 1000 Rows Inserted
+
+694.9301908
+
+Loaded to RawData
+
+Getting Customer
+
+694.9327126
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMTk2MzA2ODM2Nzg4fQ==
+
+Loading Customer
+
+695.3800846
+
+Customers Load Completed: 1000 Rows Inserted
+
+715.7815193
+
+Loaded to RawData
+
+Getting Customer
+
+715.7889131
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjAzMTg4NzQzNjIwfQ==
+
+Loading Customer
+
+716.4694266
+
+Customers Load Completed: 1000 Rows Inserted
+
+736.8607702
+
+Loaded to RawData
+
+Getting Customer
+
+736.8636228
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjAzMTg4NzQ0NjQwfQ==
+
+Loading Customer
+
+737.3635693
+
+Customers Load Completed: 1000 Rows Inserted
+
+756.8712669
+
+Loaded to RawData
+
+Getting Customer
+
+756.8819078
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjAzMTg4NzQ1NjY0fQ==
+
+Loading Customer
+
+757.3385048
+
+Customers Load Completed: 1000 Rows Inserted
+
+776.9838088
+
+Loaded to RawData
+
+Getting Customer
+
+776.9945652
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjAzMTg4NzQ2NjkzfQ==
+
+Loading Customer
+
+777.4324885
+
+Customers Load Completed: 1000 Rows Inserted
+
+797.3410136
+
+Loaded to RawData
+
+Getting Customer
+
+797.3432163
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjEyNjM0NjIwMTY0fQ==
+
+Loading Customer
+
+797.8664142
+
+Customers Load Completed: 1000 Rows Inserted
+
+816.8003664
+
+Loaded to RawData
+
+Getting Customer
+
+816.8027273
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjEyNjM0NjIxMTk4fQ==
+
+Loading Customer
+
+817.2795625
+
+Customers Load Completed: 1000 Rows Inserted
+
+836.662607
+
+Loaded to RawData
+
+Getting Customer
+
+836.6666399
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjEyNjM0NjIyMjE3fQ==
+
+Loading Customer
+
+837.0793271
+
+Customers Load Completed: 1000 Rows Inserted
+
+856.5638106
+
+Loaded to RawData
+
+Getting Customer
+
+856.5651136
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjEyNjM0NjIzMjQyfQ==
+
+Loading Customer
+
+857.0418785
+
+Customers Load Completed: 1000 Rows Inserted
+
+876.1185676
+
+Loaded to RawData
+
+Getting Customer
+
+876.1206262
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjE5MjM5NzcyMjA2fQ==
+
+Loading Customer
+
+876.6481549
+
+Customers Load Completed: 1000 Rows Inserted
+
+897.2678572
+
+Loaded to RawData
+
+Getting Customer
+
+897.2821335
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjE5MjM5NzczMjI2fQ==
+
+Loading Customer
+
+897.7563319
+
+Customers Load Completed: 1000 Rows Inserted
+
+920.430326
+
+Loaded to RawData
+
+Getting Customer
+
+920.4325506
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjE5MjM5Nzc0MjQ0fQ==
+
+Loading Customer
+
+920.9214252
+
+Customers Load Completed: 1000 Rows Inserted
+
+943.0149374
+
+Loaded to RawData
+
+Getting Customer
+
+943.0183317
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjI2ODczNDAxODAxfQ==
+
+Loading Customer
+
+943.4605504
+
+Customers Load Completed: 1000 Rows Inserted
+
+964.4955065
+
+Loaded to RawData
+
+Getting Customer
+
+964.4978583
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjI2ODczNDAyODI1fQ==
+
+Loading Customer
+
+964.9675847
+
+Customers Load Completed: 1000 Rows Inserted
+
+987.5669505
+
+Loaded to RawData
+
+Getting Customer
+
+987.5687755
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjI2ODczNDAzODUzfQ==
+
+Loading Customer
+
+988.0551032
+
+Customers Load Completed: 1000 Rows Inserted
+
+1009.0126974
+
+Loaded to RawData
+
+Getting Customer
+
+1009.0145188
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjI2ODczNDA0ODgyfQ==
+
+Loading Customer
+
+1009.4542681
+
+Customers Load Completed: 1000 Rows Inserted
+
+1030.1856582
+
+Loaded to RawData
+
+Getting Customer
+
+1030.1880779
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjM2NTg5NjkyMzI1fQ==
+
+Loading Customer
+
+1030.6719569
+
+Customers Load Completed: 1000 Rows Inserted
+
+1051.2992881
+
+Loaded to RawData
+
+Getting Customer
+
+1051.301736
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjM2NTg5NjkzMzU4fQ==
+
+Loading Customer
+
+1051.829726
+
+Customers Load Completed: 1000 Rows Inserted
+
+1071.3736398
+
+Loaded to RawData
+
+Getting Customer
+
+1071.3756277
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjM2NTg5Njk0Mzc3fQ==
+
+Loading Customer
+
+1071.8760651
+
+Customers Load Completed: 1000 Rows Inserted
+
+1094.0258788
+
+Loaded to RawData
+
+Getting Customer
+
+1094.0327202
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjM2NTg5Njk1NDAzfQ==
+
+Loading Customer
+
+1094.4539474
+
+Customers Load Completed: 1000 Rows Inserted
+
+1116.6023979
+
+Loaded to RawData
+
+Getting Customer
+
+1116.6124608
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjQ3NTQ1NzUyNzM0fQ==
+
+Loading Customer
+
+1117.1178163
+
+Customers Load Completed: 1000 Rows Inserted
+
+1138.7038278
+
+Loaded to RawData
+
+Getting Customer
+
+1138.7078606
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjQ3NTQ1NzUzNzYwfQ==
+
+Loading Customer
+
+1139.1486415
+
+Customers Load Completed: 1000 Rows Inserted
+
+1160.0461215
+
+Loaded to RawData
+
+Getting Customer
+
+1160.0491074
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjQ3NTQ1NzU0Nzg0fQ==
+
+Loading Customer
+
+1160.4979782
+
+Customers Load Completed: 1000 Rows Inserted
+
+1181.612149
+
+Loaded to RawData
+
+Getting Customer
+
+1181.6167391
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjQ3NTQ1NzU1ODA2fQ==
+
+Loading Customer
+
+1182.0749878
+
+Customers Load Completed: 1000 Rows Inserted
+
+1202.9453463
+
+Loaded to RawData
+
+Getting Customer
+
+1202.9473652
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjU1MTE5MDA3MDQxfQ==
+
+Loading Customer
+
+1203.4801632
+
+Customers Load Completed: 1000 Rows Inserted
+
+1224.8527239
+
+Loaded to RawData
+
+Getting Customer
+
+1224.8616029
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjU1MTE5MDA4MDczfQ==
+
+Loading Customer
+
+1225.337868
+
+Customers Load Completed: 1000 Rows Inserted
+
+1249.2954977
+
+Loaded to RawData
+
+Getting Customer
+
+1249.297913
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjU1MTE5MDA5MDk5fQ==
+
+Loading Customer
+
+1249.7856271
+
+Customers Load Completed: 1000 Rows Inserted
+
+1270.8533222
+
+Loaded to RawData
+
+Getting Customer
+
+1270.8559878
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjU1MTE5MDEwMTIzfQ==
+
+Loading Customer
+
+1271.4271145
+
+Customers Load Completed: 1000 Rows Inserted
+
+1292.560286
+
+Loaded to RawData
+
+Getting Customer
+
+1292.5651986
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjYwMjU2MTkyMDI1fQ==
+
+Loading Customer
+
+1293.0157641
+
+Customers Load Completed: 1000 Rows Inserted
+
+1314.4872119
+
+Loaded to RawData
+
+Getting Customer
+
+1314.4899542
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjYwMjU2MTkzMDU2fQ==
+
+Loading Customer
+
+1314.9846739
+
+Customers Load Completed: 1000 Rows Inserted
+
+1339.6991188
+
+Loaded to RawData
+
+Getting Customer
+
+1339.7045328
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjYwMjU2MTk0MDgwfQ==
+
+Loading Customer
+
+1340.1807999
+
+Customers Load Completed: 1000 Rows Inserted
+
+1361.0216356
+
+Loaded to RawData
+
+Getting Customer
+
+1361.0323239
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjcxMjE5NjA5MDAwfQ==
+
+Loading Customer
+
+1361.4832343
+
+Customers Load Completed: 1000 Rows Inserted
+
+1382.6826217
+
+Loaded to RawData
+
+Getting Customer
+
+1382.6846504
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjcxMjE5NjEwMDI2fQ==
+
+Loading Customer
+
+1383.1575627
+
+Customers Load Completed: 1000 Rows Inserted
+
+1403.9308411
+
+Loaded to RawData
+
+Getting Customer
+
+1403.9378881
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjcxMjE5NjExMDQ3fQ==
+
+Loading Customer
+
+1404.3899748
+
+Customers Load Completed: 1000 Rows Inserted
+
+1425.2512729
+
+Loaded to RawData
+
+Getting Customer
+
+1425.2662091
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjcxMjE5NjEyMDgwfQ==
+
+Loading Customer
+
+1425.7225805
+
+Customers Load Completed: 1000 Rows Inserted
+
+1446.7425674
+
+Loaded to RawData
+
+Getting Customer
+
+1446.7467413
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjgwNjgyNDE3MzE5fQ==
+
+Loading Customer
+
+1447.1963518
+
+Customers Load Completed: 1000 Rows Inserted
+
+1467.6174136
+
+Loaded to RawData
+
+Getting Customer
+
+1467.6202513
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjgwNjgyNDE4MzQ5fQ==
+
+Loading Customer
+
+1468.0362579
+
+Customers Load Completed: 1000 Rows Inserted
+
+1489.8354569
+
+Loaded to RawData
+
+Getting Customer
+
+1489.8586836
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjgwNjgyNDE5MzY5fQ==
+
+Loading Customer
+
+1490.2869957
+
+Customers Load Completed: 1000 Rows Inserted
+
+1511.3682347
+
+Loaded to RawData
+
+Getting Customer
+
+1511.3707389
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjgwNjgyNDIwMzk0fQ==
+
+Loading Customer
+
+1511.8692744
+
+Customers Load Completed: 1000 Rows Inserted
+
+1532.7917196
+
+Loaded to RawData
+
+Getting Customer
+
+1532.794
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjg5NDA1MjEwMTk1fQ==
+
+Loading Customer
+
+1533.2269777
+
+Customers Load Completed: 1000 Rows Inserted
+
+1553.993415
+
+Loaded to RawData
+
+Getting Customer
+
+1553.9953694
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjg5NDA1MjExMjIwfQ==
+
+Loading Customer
+
+1554.4156008
+
+Customers Load Completed: 1000 Rows Inserted
+
+1575.3695369
+
+Loaded to RawData
+
+Getting Customer
+
+1575.3730442
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjg5NDA1MjEyMjQyfQ==
+
+Loading Customer
+
+1575.8550611
+
+Customers Load Completed: 1000 Rows Inserted
+
+1596.6145724
+
+Loaded to RawData
+
+Getting Customer
+
+1596.6166487
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjg5NDA1MjEzMjY5fQ==
+
+Loading Customer
+
+1597.0002638
+
+Customers Load Completed: 1000 Rows Inserted
+
+1617.8208437
+
+Loaded to RawData
+
+Getting Customer
+
+1617.8230403
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjk2MDUzODk4MDE4fQ==
+
+Loading Customer
+
+1618.2777518
+
+Customers Load Completed: 1000 Rows Inserted
+
+1639.3473853
+
+Loaded to RawData
+
+Getting Customer
+
+1639.354624
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjk2MDUzODk5MDUwfQ==
+
+Loading Customer
+
+1639.7934037
+
+Customers Load Completed: 1000 Rows Inserted
+
+1661.0627327
+
+Loaded to RawData
+
+Getting Customer
+
+1661.070626
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMjk2MDUzOTAwMDgxfQ==
+
+Loading Customer
+
+1661.5529973
+
+Customers Load Completed: 1000 Rows Inserted
+
+1682.4997912
+
+Loaded to RawData
+
+Getting Customer
+
+1682.502118
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzA5MTgxOTgyODA3fQ==
+
+Loading Customer
+
+1683.0830706
+
+Customers Load Completed: 1000 Rows Inserted
+
+1704.4094217
+
+Loaded to RawData
+
+Getting Customer
+
+1704.4135113
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzA5MTgxOTgzODI0fQ==
+
+Loading Customer
+
+1704.9005434
+
+Customers Load Completed: 1000 Rows Inserted
+
+1728.3197579
+
+Loaded to RawData
+
+Getting Customer
+
+1728.3233678
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzA5MTgxOTg0ODM4fQ==
+
+Loading Customer
+
+1728.7815706
+
+Customers Load Completed: 1000 Rows Inserted
+
+1750.1841375
+
+Loaded to RawData
+
+Getting Customer
+
+1750.1931345
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzA5MTgxOTg1ODYwfQ==
+
+Loading Customer
+
+1750.6618699
+
+Customers Load Completed: 1000 Rows Inserted
+
+1771.5699105
+
+Loaded to RawData
+
+Getting Customer
+
+1771.572663
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzEyOTg1ODUwMzA0fQ==
+
+Loading Customer
+
+1771.960146
+
+Customers Load Completed: 1000 Rows Inserted
+
+1793.7864969
+
+Loaded to RawData
+
+Getting Customer
+
+1793.7882405
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzEyOTg1ODUxMzMxfQ==
+
+Loading Customer
+
+1794.2156657
+
+Customers Load Completed: 1000 Rows Inserted
+
+1815.2613411
+
+Loaded to RawData
+
+Getting Customer
+
+1815.2642429
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzEyOTg1ODUyMzY3fQ==
+
+Loading Customer
+
+1815.6777841
+
+Customers Load Completed: 1000 Rows Inserted
+
+1837.4654438
+
+Loaded to RawData
+
+Getting Customer
+
+1837.4702721
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzEyOTg1ODUzMzkwfQ==
+
+Loading Customer
+
+1837.9685633
+
+Customers Load Completed: 1000 Rows Inserted
+
+1862.7106854
+
+Loaded to RawData
+
+Getting Customer
+
+1862.7236519
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzIyMzE4NTI1Nzc3fQ==
+
+Loading Customer
+
+1863.1296058
+
+Customers Load Completed: 1000 Rows Inserted
+
+1883.5279322
+
+Loaded to RawData
+
+Getting Customer
+
+1883.5305006
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzIyMzE4NTI2ODAzfQ==
+
+Loading Customer
+
+1883.9550564
+
+Customers Load Completed: 1000 Rows Inserted
+
+1906.3507488
+
+Loaded to RawData
+
+Getting Customer
+
+1906.3527173
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzIyMzE4NTI3ODMxfQ==
+
+Loading Customer
+
+1906.8079287
+
+Customers Load Completed: 1000 Rows Inserted
+
+1926.8391624
+
+Loaded to RawData
+
+Getting Customer
+
+1926.8410242
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzIyMzE4NTI4ODUwfQ==
+
+Loading Customer
+
+1927.258209
+
+Customers Load Completed: 1000 Rows Inserted
+
+1947.5589587
+
+Loaded to RawData
+
+Getting Customer
+
+1947.5660274
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzI3NTk2MDYxNjYzfQ==
+
+Loading Customer
+
+1948.0799959
+
+Customers Load Completed: 1000 Rows Inserted
+
+1968.2188976
+
+Loaded to RawData
+
+Getting Customer
+
+1968.221215
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzI3NTk2MDYyNjg2fQ==
+
+Loading Customer
+
+1968.6699374
+
+Customers Load Completed: 1000 Rows Inserted
+
+1988.4025435
+
+Loaded to RawData
+
+Getting Customer
+
+1988.4109248
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzI3NTk2MDYzNzA3fQ==
+
+Loading Customer
+
+1988.8760834
+
+Customers Load Completed: 1000 Rows Inserted
+
+2008.9896511
+
+Loaded to RawData
+
+Getting Customer
+
+2008.9916482
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzI3NTk2MDY0NzI0fQ==
+
+Loading Customer
+
+2009.5288256
+
+Customers Load Completed: 1000 Rows Inserted
+
+2029.0388977
+
+Loaded to RawData
+
+Getting Customer
+
+2029.0407822
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzM2MDA5NDY2NTE0fQ==
+
+Loading Customer
+
+2029.4597423
+
+Customers Load Completed: 1000 Rows Inserted
+
+2049.2470865
+
+Loaded to RawData
+
+Getting Customer
+
+2049.2513323
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzM2MDA5NDY3NTM3fQ==
+
+Loading Customer
+
+2049.6697798
+
+Customers Load Completed: 1000 Rows Inserted
+
+2072.3034676
+
+Loaded to RawData
+
+Getting Customer
+
+2072.3069305
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzM2MDA5NDY4NTY5fQ==
+
+Loading Customer
+
+2072.7502504
+
+Customers Load Completed: 1000 Rows Inserted
+
+2094.9366402
+
+Loaded to RawData
+
+Getting Customer
+
+2094.9393789
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzQ2MDYwMTYyNDYyfQ==
+
+Loading Customer
+
+2095.3851315
+
+Customers Load Completed: 1000 Rows Inserted
+
+2116.2957188
+
+Loaded to RawData
+
+Getting Customer
+
+2116.2996174
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzQ2MDYwMTYzNDgxfQ==
+
+Loading Customer
+
+2116.7346556
+
+Customers Load Completed: 1000 Rows Inserted
+
+2136.9063307
+
+Loaded to RawData
+
+Getting Customer
+
+2136.9114804
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzQ2MDYwMTY0NTA0fQ==
+
+Loading Customer
+
+2137.3526892
+
+Customers Load Completed: 1000 Rows Inserted
+
+2157.3331283
+
+Loaded to RawData
+
+Getting Customer
+
+2157.3473038
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_Customer?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzQ2MDYwMTY1NTMxfQ==
+
+Loading Customer
+
+2157.8503928
+

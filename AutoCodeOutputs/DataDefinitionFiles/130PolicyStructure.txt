@@ -1,0 +1,20 @@
+PolId	Unique identifier for a row in the BasicPolInfo table	uniqueidentifier	From AFW_BasicPolInfo.PolId	not null
+LOBId	Unique identifier for a row in the LineOfBusiness table	uniqueidentifier	From AFW_LineOfBusiness.LOBId	not null
+WPolId	Used in conjunction with the PolId, LOBId and EffDate to uniquely identify a row in this table.	uniqueidentifier	Globally Unique Identifier (GUID)	not null
+EffDate	Identifies an endorsement date for a policy. The date part of this field contains the date of the endorsement. The time part contains an increment for the number of transactions within the day, starting with 12:00 am and incrementing by one second for each multiple transactions within the day.	datetime		not null
+Status	Flag to indicate the state of the row	char	Valid values are:
+RatingDate	Normal Anniversary Rating Date	datetime		null
+IsParticipating	Flag to identify if a policy premium is set based on participating or non participating basis.	char	Valid values are:
+RetroPlan	Retrospective Rating Plans	varchar		null
+DividendPlan	Dividend Plan or Safety Group	varchar		null
+AddInfo	Additional Company Information	varchar		null
+EmployerNo	Employer identification number	varchar		null
+IncludeExclude	Other states insurance coverage.  Included states will appear on the application, excluded will not.	varchar		null
+NCCINo	The nine digit number assigned to the applicant by the National Council onCompensation Insurance used with Worker's Comp.	varchar		null
+RetroYrs	Retrospective Raing Plans, one to three year plans may be available.	varchar		null
+State	State portion of the address	varchar	Valid values are in the AFW_PRCode.Code field for AttrCode = 'STA'	null
+IsPart1	Data is entered on Part 1 dialog	char	Valid values are:
+IsSafetyGroup	Flag to indicate if the applicant or state belong to a safety group.  	varchar	Valid values are:
+OtherNo	Other Rating Bureau Id or State Employer Registration Number	varchar		null
+ChangedBy	Employee code associated with the change	varchar	From AFW_Employee.EmpCode	not null
+ChangedDate	Date and time the last change was made to the row in the table.	datetime	datetime	not null

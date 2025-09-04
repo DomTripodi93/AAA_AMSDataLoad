@@ -1,0 +1,18 @@
+PolId	Unique identifier for a row in the BasicPolInfo table.	uniqueidentifier	Globally Unique Identifier (GUID)	not null
+LOBId	This field identifies a line of business for a policy. When LOBId is used in combination with PolID it uniquely identifies a LineOfBusiness record.	uniqueidentifier	Globally Unique Identifier (GUID)	not null
+EffDate	Identifies an endorsement date for a policy.  The date part of this field contains the date of the endorsement.  The time part contains an increment for the number of transactions within the day, starting with 12:00 am and incrementing by one second for each multiple transactions within the day.	datetime		not null
+ExpDate	This field identifies when this LOB expires.  It is set to SQL_HIGHDATE until the row is deleted.  When deleted the date is set to the EffDate of the PolT transaction that was used to delete the line of business.	datetime		not null
+LineOfBus	Unique identifier for a row in the LOBSetup table.	varchar	From AFW_LOBSetup.NameLOBS	null
+PlanType	The plan type for the particular Line of Business.  The list varies on the Line of Business selected.  The users can add their own plan types for a line of business via setup.  (ie. 'Assigned Risk Plan', 'Business Auto Liability', 'Fair Plan (surcharged)')	varchar	From AFW_PlanSetup.DescriptionPln	null
+StatePlanType	State plan type	varchar	varchar(4)	null
+WritingCoCode	This field is initially defaulted to the CoCode (parent company).  The user can accept the default or specify a Writing company.	varchar	From AFW_Company.CoCode	null
+AppCreatedDate	This field identifies the effective date the line of business user interface was first opened. 	datetime	From AFW_LineofBusiness.EffDate.	null
+Description	The user entered description for this line of business.	varchar		null
+SortNo	The order of display for this line of business.  The user can key any number in this field to re-sort.	smallint	numeric	null
+InsertSeqNo	Integer value representing the insert order of the record.	int	numeric	not null
+ElfFormVerId	This field is used to identify the ACORD form as well as the version of the ACORD form.	uniqueidentifier	From AFW_ElfFormVersion.ElfFormVerId	null
+UICodeLOBS	This field identifies the Line of Business data entry form.	varchar	From AFW_LOBSetup.UICodeLOBS	null
+LOBChangedDate	This field is only populated during NPR from AFW or when the Policy or Line of Business is copied.	datetime	Valid date and time. During NPR it is set to LOBId.  When copied it is set to current date and time.	null
+ChangedBy	Employee code associated with the change.	varchar	From AFW_Employee.EmpCode	not null
+ChangedDate	Date and time the change took place.	datetime	datetime	not null
+EnteredDate	Date and time the row was originally created.	datetime	datetime	not null

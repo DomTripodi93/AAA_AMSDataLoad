@@ -1,0 +1,26 @@
+Could not find stored procedure 'Staging.AMS_LineOfBusines_Load'.   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, SqlCommand command, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean isAsync, Int32 timeout, Boolean asyncWrite)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String methodName)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader) in /_/Dapper/SqlMapper.cs:line 2965
+   at Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command) in /_/Dapper/SqlMapper.cs:line 656
+   at Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 527
+   at AMSDataLoad.Data.DataContextDapper.ExecuteSql(String sql) in C:\Users\gregs\repos\AAA_AMSDataLoad\Data\DataContextDapper.cs:line 47
+   at AMSDataLoad.Handlers.AMSLineOfBusinesHandler.<>c__DisplayClass8_0.<GetAndInsertLineOfBusines>b__0() in C:\Users\gregs\repos\AAA_AMSDataLoad\Handlers\AMSLineOfBusinesHandler.cs:line 49
+
+On Step : 
+Could not find stored procedure 'Staging.AMS_LineOfBusines_Load'.
+
+Getting LineOfBusines
+
+0.4285051
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusines?limit=1000&schema=public&select=*
+
+LineOfBusines Staging Load Completed
+
+0.7084284
+

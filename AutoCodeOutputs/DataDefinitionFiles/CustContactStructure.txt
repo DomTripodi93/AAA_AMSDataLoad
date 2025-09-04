@@ -1,0 +1,38 @@
+CustId	Unique identifier for a row in the Customer table.	uniqueidentifier	From AFW_Customer.CustId	not null
+CCntId	Unique identifier for a row in this table	uniqueidentifier	Globally Unique Identifier (GUID)	not null
+ContactName	Contact Name	varchar		null
+Title	Title	varchar		null
+IsOfficer	Is the contact an officer.	varchar	Valid values are:
+Address1	First line of the address	varchar		null
+Address2	Second line of the address	varchar		null
+City	City portion of the address	varchar		null
+State	State portion of the address	varchar	Valid values are in the AFW_PRCode.Code field for AttrCode = 'STA'	null
+Zip	Zip code portion of the address	varchar		null
+Country	Indicates Country Code for related address. Renamed [Country] to [CountryCode]	char	Char(2) - nullable	null
+IsForeign	Indicates whether the country is USA or not	bit	Computer bit - nullable	null
+County	County	varchar		null
+ResAreaCode	Area code portion of the phone number	varchar		null
+ResPhone	Phone portion of the residence phone number	varchar		null
+ResExt	Extension portion of the phone number	varchar		null
+BusAreaCode	Area code portion of the business phone number	varchar		null
+BusPhone	Phone portion of the business phone number	varchar		null
+BusExt	Extension portion of the business phone number	varchar		null
+FaxAreaCode	Area code portion of the fax phone number	varchar		null
+FaxPhone	Phone portion of the fax phone number	varchar		null
+FaxExt	Extension portion of the fax phone number	varchar		null
+MobileAreaCode	Area code portion of the mobile phone number	varchar		null
+MobilePhone	Phone portion of the mobile phone number	varchar		null
+MobileExt	Extension portion of the mobile phone number	varchar		null
+PagerAreaCode	Area code portion of the pager phone number	varchar		null
+PagerPhone	Phone portion of the pager phone number	varchar		null
+PagerExt	Extension portion of the pager phone number	varchar		null
+EMail	Electronic mail address	varchar		null
+FormalSalutation	Formal Salutation	varchar		null
+InformalSalutation	Informal Salutation	varchar		null
+SortOrder	Sort Order for Contact grid	smallint	Numeric or Null	null
+CustCenterDisplay	Indicator to display name on Customer Center	char	Valid values are:  Y = Yes, N = No	not null
+ChangedBy	Employee code associated with the change.	varchar	From AFW_Employee.EmpCode	not null
+ChangedDate	Date and time the last change was made to the row in the table.	datetime	datetime	not null
+EnteredDate	Date and time the row was originally created	datetime		not null
+ContactMethod	Stores preferred contact method of Customer Contact	char	Valid values are in the afw_PRCode table for AttrCode = 'CCP', which include:
+Notes	Stores Notes of Customer Contact	varchar		null

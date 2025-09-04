@@ -1,0 +1,33 @@
+{
+    "content": [
+        {
+            "__$checksum": "DF413D0168D13150E21B72DD0BDDC887",
+            "__$datasource": "2025688-1",
+            "__$deleted": false,
+            "__$sequencenumber": 424343250,
+            "addinfo": null,
+            "changedby": "!!?",
+            "changeddate": "2025-07-16T15:44:54.770000",
+            "dividendplan": null,
+            "effdate": "2024-11-15T00:00:00",
+            "employerno": "2435246",
+            "entereddate": "2025-07-16T15:44:54.770000",
+            "includeexclude": null,
+            "ispart1": "Y",
+            "isparticipating": null,
+            "issafetygroup": null,
+            "lobid": "2365078e-6d65-4eb1-bcfc-d972d0d30896",
+            "nccino": "000017841",
+            "otherno": null,
+            "polid": "238d5459-93d6-4afa-8a2a-e7f489e68597",
+            "ratingdate": null,
+            "retroplan": null,
+            "retroyrs": null,
+            "state": "PA",
+            "status": "A",
+            "wpolid": "4a9eab43-b7ef-4885-b1e6-437b344ab106"
+        }
+    ],
+    "starting_token": "eyJlZzEiOiAxNzUyNzE0MDAzODAzODk2Njk4fQ==",
+    "recordCount": 1
+}

@@ -1,0 +1,58 @@
+Getting 130Policy0.928252
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_130Policy?limit=1000&schema=public&select=*
+
+Loading 130Policy
+
+1.3100883
+
+130Policys Load Completed: 1 Rows Inserted
+
+1.3444225
+
+Loaded to RawData
+
+130Policy Staging Load Completed
+
+1.6299007
+
+Getting 130Policy
+
+2.3031798
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_130Policy?limit=1000&schema=public&select=*
+
+Loading 130Policy
+
+2.4961311
+
+130Policys Load Completed: 1 Rows Inserted
+
+2.5312433
+
+Loaded to RawData
+
+130Policy Staging Load Completed
+
+2.5707262
+
+Getting 130Policy
+
+1.4804515
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_130Policy?limit=1000&schema=public&select=*
+
+Loading 130Policy
+
+1.7054568
+
+130Policys Load Completed: 1 Rows Inserted
+
+1.7749244
+
+Loaded to RawData
+
+130Policy Staging Load Completed
+
+1.8070122
+
