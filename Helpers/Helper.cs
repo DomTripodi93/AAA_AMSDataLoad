@@ -25,15 +25,56 @@ namespace AMSDataLoad.Helpers
 
         public string GetPublicKey()
         {
-            string path = "./Assets/public_key.pem";
-            string publicKeyPEM = File.ReadAllText(path);
+            // string path = "./Assets/public_key.pem";
+            // string publicKeyPEM = File.ReadAllText(path);
+            string publicKeyPEM = @"-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApruoXN58N3jhkp3NWF8W
+Qi6GKJy3tAFpNgMjqFMnAOjqEJ3gfLJMBc9gq8RuLrb3sWb0u10mZet/U25Nx59+
+CTMXlW92c8AcK/fDIqMe0za1lOPFYbgrU8/xn2+XE3SVnYXuufU16MBuDHAORX/Z
+VlbcOWY+ttlYOVLBsT7nF8SqiFjI6l6cnambd1PoeFJiNlOG+88EFYKqUneH9Qmy
+RHRuxAOeEHIcD3Jiio0T9ZnHnqnO8SqeoG5vsmf0AdFV9yFzopkHa6EOzqUaSqdt
+ZOBvrP8JrWNr0ZT1ZogGhKm1OY3nyRYxhIEmV9ZkdegEOAGB+yAWJoPx2IlmsuTZ
+hQIDAQAB
+-----END PUBLIC KEY-----
+";
             return publicKeyPEM;
         }
 
         private string  GetPrivateKey()
         {
-            string path = "./Assets/private_key.pem";
-            string privateKeyPEM = File.ReadAllText(path);
+            // string path = "./Assets/private_key.pem";
+            // string privateKeyPEM = File.ReadAllText(path);
+            string privateKeyPEM = @"-----BEGIN ENCRYPTED PRIVATE KEY-----
+MIIFLTBXBgkqhkiG9w0BBQ0wSjApBgkqhkiG9w0BBQwwHAQI7wc6mXq541ICAggA
+MAwGCCqGSIb3DQIJBQAwHQYJYIZIAWUDBAEqBBCIrSGv57uMLK6BP0yEKYt0BIIE
+0AOKmH55AMcLx+ScJIbGv0zCmGHgm8KDbqmRF7UiPVRZjHbS626nqXGrp01EgMPt
+peRAHq/J4KPatI5GrUOt1/UtjzegkwaXxuDgBLq5rGoyKaVTeBxsnUcClLtq7cx8
+rWR7HdHDsw0/ywE1endmxR4g51SFc2zZdkZF6TBoMyhrQO0xvODbdydrnOGhIKW+
+2PiCzrcT9tdCt1f0F1cirpF93gwRy6O+IhVhaAe14iVtrnhE6txTRYBcmOLI0DMf
+tq6+NjxOktQyGsynNe2/hPvUQrtBsRsytWqQE+eBK/X46ObOSJOCmDngZy6k9T84
+b1iduljhU4cF7WGGY1xWxPjJIPTAKXF4QTVF7xCFLIBavWTGFmO19XmZ1KTAvpLN
+LLHdCw/QRlYKRHtcM1pPrf7C6gM0PzSXicWFkMMP+SxT96z/oENtbkdh2e9WAnj1
+BktqxFWaCNJ5H+nDasHV1Ekp6mOXzRw1CIJYlsIsiBuedXQDWbY/e/x1Yyi9kYMc
+It0ox3ebUX7h9AO6SXKL6Le2+pIdG8ScQlRZ4/ll0zrCuG8DmTi7SUBF3sk8DFkw
+eF9cGIfzt1PoUQJu8qTXp8vFoTh2HMWk3QTLYRt/f5LT3HEnfTBzJMsiTUrPXOx5
+MO7e2JWP7E/1o8bIgrFwgUoQSjOxArQXW7AiHtm78k0SirhKxuZ9/SN1uOLxtGOr
+OGF4PmtRdVODoXIsFU+Pzv1Ggs0C/t9jQvSEKHVCbFqiMUgj0d6lwHGCkDxpox+r
+1Q2Ot/zB9Doco964E6v/h7J9ziD8xP3D9URoQZ4IbRDMfapWqir+4pgjsXuXcOpx
+VWEpAws3RkUH0DLEdzsBkPyAQSeKZZWWhWghkVdOx11okQMz3mTgBtkMj3IJWHlB
+d0c1FZB7aZvTbTynZhhOesn8xJJCGRarE5KgkLT5AcBEHqKKKrz47NHeS0P5M4Ot
+i3Pu0Lqhz9mO0SXc2IvpGedia/tncmPLrR2LuIpksGxmkJn3l5VXYOONwRn+4Zg1
+6lBbXXld2dyOfr/ShEAvV5dmyKNT9ypS8YHvySOpnFZWuzvgGLoovq98g9iL6Rbi
+p6hdPUkDvxnLb5byJyB8PziQN6A3jwIsRC1OeFIxhFolOxzL1mmUcUtje37o0t2M
+5XWhmExWyiw+BUJcSk5XLJlma5aM8fNs15Gvhtp53vfpJepHC1+gSZ/p/soQGpg9
+GLSog1tCSq5+OHXK1jEArCreN1BoJYXujMTycaNy6aYWNEGxwEFmywHOXCvVPUat
+7nCZcyhc1Jkn/7eQP4MVtvKpZUmUucNG5A1xQxNYjZY77H8Inc+FpufXTrUpB15r
+TGcxHIWijQtVhT/0jHREF0qt/pRtuSJ4N3sRimbPUKRoFLa6bP1/N+EtPGu32rzT
+L0yQMp4a5GyqekdVNB6tKzV7p1u0QPbQ+XGqWTOOp19chDK50A/kqIRzg36zjqdU
+86+j8AsDj2zJcNuXrwxls0OuhcchY1+BncoE/S2Pi8H0rO8CP+hPJvtaZeE4yKKJ
+hSsafBwO+S3gS7Ar5NvLiRNTZW6LslSDz3g4t/g3/y0l0bjCv/P5E+TJS7YYjFOM
+kJpjEDzCTftfw9RKRNHlzpk2okUSRFCq9bno6rr1bla4
+-----END ENCRYPTED PRIVATE KEY-----
+";
             return privateKeyPEM;
         }
 

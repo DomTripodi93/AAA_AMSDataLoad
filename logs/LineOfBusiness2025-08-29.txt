@@ -4330,3 +4330,3927 @@ Getting LineOfBusiness
 
 https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcxMDUyNzEyNzY1fQ==
 
+Getting LineOfBusiness
+
+2.3033486
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*
+
+Loading LineOfBusiness
+
+2.746868
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+6.0475502
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+6.0490811
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcwODY3NjU1MjQwfQ==
+
+Loading LineOfBusiness
+
+6.3056414
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+9.4629548
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+9.4661211
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcwODY3NjU2MjQwfQ==
+
+Loading LineOfBusiness
+
+9.6534377
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+12.7137571
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+12.718253
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcwODY3NjU3MjQxfQ==
+
+Loading LineOfBusiness
+
+12.9067124
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+15.8693853
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+15.8711209
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcwODY3NjU4MjQxfQ==
+
+Loading LineOfBusiness
+
+16.0819095
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+19.1136276
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+19.1146101
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcwODY3NjU5MjQxfQ==
+
+Loading LineOfBusiness
+
+19.3051462
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+22.454801
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+22.457224
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcwODY3NjYwMjQxfQ==
+
+Loading LineOfBusiness
+
+22.6558107
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+25.582058
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+25.5834952
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcwODY3NjYxMjQxfQ==
+
+Loading LineOfBusiness
+
+25.8596479
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+28.8402153
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+28.8476369
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcwODY3NjYyMjQxfQ==
+
+Loading LineOfBusiness
+
+29.0486503
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+32.0505163
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+32.0525432
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcwODY3NjYzMjQxfQ==
+
+Loading LineOfBusiness
+
+32.2428206
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+35.3296024
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+35.3311101
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcwODY3NjY0MjQyfQ==
+
+Loading LineOfBusiness
+
+35.5266948
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+38.8163915
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+38.8177714
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcwODY3NjY1MjQ1fQ==
+
+Loading LineOfBusiness
+
+39.0077016
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+45.5379533
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+45.540988
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcwODY3NjY2MjQ1fQ==
+
+Loading LineOfBusiness
+
+45.7522873
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+50.9059088
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+50.9074298
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcwODY3NjY3MjQ1fQ==
+
+Loading LineOfBusiness
+
+51.1132776
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+54.1981275
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+54.2006
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcwODY3NjY4MjQ1fQ==
+
+Loading LineOfBusiness
+
+54.4099691
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+57.6790631
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+57.6823151
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcwODY3NjY5MjQ2fQ==
+
+Loading LineOfBusiness
+
+57.8656296
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+61.0242003
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+61.0292601
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcxMDUyNzExNzY1fQ==
+
+Loading LineOfBusiness
+
+61.2294853
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+64.3239852
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+64.3254122
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcxMDUyNzEyNzY1fQ==
+
+Loading LineOfBusiness
+
+64.5467346
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+67.5905404
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+67.5932289
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcxMDUyNzEzNzY1fQ==
+
+Loading LineOfBusiness
+
+67.7997672
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+70.8973387
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+70.899521
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcxMDUyNzE0NzY2fQ==
+
+Loading LineOfBusiness
+
+71.1125973
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+74.3309385
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+74.3322431
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcxMDUyNzE1NzY3fQ==
+
+Loading LineOfBusiness
+
+74.5226305
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+77.8039975
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+77.8074813
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcxMDUyNzE2NzY3fQ==
+
+Loading LineOfBusiness
+
+78.0248756
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+81.9867066
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+81.9882011
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcxMDUyNzE3NzY3fQ==
+
+Loading LineOfBusiness
+
+82.1837284
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+85.5381799
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+85.5398863
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcxMDUyNzE4NzY4fQ==
+
+Loading LineOfBusiness
+
+85.7368873
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+89.2054527
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+89.2069695
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcxMDUyNzE5NzY4fQ==
+
+Loading LineOfBusiness
+
+89.4197354
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+92.693383
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+92.6949485
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcxMDUyNzIwNzY4fQ==
+
+Loading LineOfBusiness
+
+92.8804802
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+96.400759
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+96.4046147
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcxMDUyNzIxNzY4fQ==
+
+Loading LineOfBusiness
+
+96.6201386
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+99.711506
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+99.7151392
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcxMDUyNzIyNzY4fQ==
+
+Loading LineOfBusiness
+
+99.9200714
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+103.0733156
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+103.0747353
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcxMDUyNzIzNzY4fQ==
+
+Loading LineOfBusiness
+
+103.2722018
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+106.5540823
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+106.556341
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcxMDUyNzI0NzY4fQ==
+
+Loading LineOfBusiness
+
+106.7758819
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+109.8394941
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+109.8428454
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcxMDUyNzI1NzY5fQ==
+
+Loading LineOfBusiness
+
+110.0497038
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+113.256505
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+113.2582694
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcxMDUyNzI2NzY5fQ==
+
+Loading LineOfBusiness
+
+113.4607121
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+116.5457269
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+116.547278
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcxMDUyNzI3NzcwfQ==
+
+Loading LineOfBusiness
+
+116.7661623
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+119.9939559
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+119.9964152
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcxMDUyNzI4NzcxfQ==
+
+Loading LineOfBusiness
+
+120.1957022
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+123.4116567
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+123.4136448
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcxMDUyNzI5NzcxfQ==
+
+Loading LineOfBusiness
+
+123.6195449
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+126.7099939
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+126.7117002
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcxMDUyNzMwNzcxfQ==
+
+Loading LineOfBusiness
+
+126.9055503
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+132.813819
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+132.8170182
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcyNTc0NzMyMzIwfQ==
+
+Loading LineOfBusiness
+
+133.0256637
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+135.9441587
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+135.9466609
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcyNTc0NzMzMzIxfQ==
+
+Loading LineOfBusiness
+
+136.1506252
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+139.1026049
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+139.1049638
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcyNTc0NzM0MzIyfQ==
+
+Loading LineOfBusiness
+
+139.3439015
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+142.3137035
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+142.3150062
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcyNTc0NzM1MzIzfQ==
+
+Loading LineOfBusiness
+
+142.528784
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+145.5288756
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+145.5324786
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcyNTc0NzM2MzIzfQ==
+
+Loading LineOfBusiness
+
+145.7310219
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+148.7467794
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+148.7483926
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcyNTc0NzM3MzIzfQ==
+
+Loading LineOfBusiness
+
+148.9432712
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+152.0434365
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+152.0455519
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcyNTc0NzM4MzIzfQ==
+
+Loading LineOfBusiness
+
+152.2494767
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+155.9111442
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+155.9123688
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcyNTc0NzM5MzIzfQ==
+
+Loading LineOfBusiness
+
+156.1030502
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+159.3320942
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+159.3335181
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcyNTc0NzQwMzIzfQ==
+
+Loading LineOfBusiness
+
+159.5417762
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+162.5373863
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+162.5397218
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcyNTc0NzQxMzI0fQ==
+
+Loading LineOfBusiness
+
+162.7352919
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+166.2104455
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+166.2123315
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcyNTc0NzQyMzI1fQ==
+
+Loading LineOfBusiness
+
+166.4388531
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+169.6447277
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+169.646318
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcyNTc0NzQzMzI1fQ==
+
+Loading LineOfBusiness
+
+169.8476276
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+172.7852649
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+172.7881131
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcyNTc0NzQ0MzI1fQ==
+
+Loading LineOfBusiness
+
+172.9780459
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+175.969398
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+175.9711946
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcyNTc0NzQ1MzI1fQ==
+
+Loading LineOfBusiness
+
+176.1747565
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+179.1914609
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+179.1950229
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzcyNTc0NzQ2MzI2fQ==
+
+Loading LineOfBusiness
+
+179.407753
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+182.4783651
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+182.4813409
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzc2ODk2MDM4NDk5fQ==
+
+Loading LineOfBusiness
+
+182.6661701
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+185.6583682
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+185.6597878
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzc2ODk2MDM5NTAwfQ==
+
+Loading LineOfBusiness
+
+185.871345
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+188.8264653
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+188.8295997
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzc2ODk2MDQwNTAxfQ==
+
+Loading LineOfBusiness
+
+189.026829
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+192.0143068
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+192.0173425
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzc2ODk2MDQxNTAyfQ==
+
+Loading LineOfBusiness
+
+192.2234628
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+195.2821356
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+195.2841711
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzc2ODk2MDQyNTAzfQ==
+
+Loading LineOfBusiness
+
+195.4774918
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+198.5906459
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+198.595025
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzc2ODk2MDQzNTAzfQ==
+
+Loading LineOfBusiness
+
+198.786316
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+201.9101628
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+201.911598
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzc2ODk2MDQ0NTAzfQ==
+
+Loading LineOfBusiness
+
+202.1107286
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+205.0725784
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+205.0741886
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzc2ODk2MDQ1NTAzfQ==
+
+Loading LineOfBusiness
+
+205.2705774
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+208.3387024
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+208.3411683
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzc2ODk2MDQ2NTA0fQ==
+
+Loading LineOfBusiness
+
+208.545618
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+211.5489754
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+211.5516358
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzc2ODk2MDQ3NTA0fQ==
+
+Loading LineOfBusiness
+
+211.7422709
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+214.7837337
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+214.78646
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzc2ODk2MDQ4NTA0fQ==
+
+Loading LineOfBusiness
+
+214.974442
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+218.1098623
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+218.1110749
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzc2ODk2MDQ5NTA0fQ==
+
+Loading LineOfBusiness
+
+218.2986626
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+221.5055644
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+221.5097193
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzc2ODk2MDUwNTA1fQ==
+
+Loading LineOfBusiness
+
+221.6965531
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+224.7195597
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+224.7209718
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzc2ODk2MDUxNTA1fQ==
+
+Loading LineOfBusiness
+
+224.922989
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+228.0587882
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+228.065321
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzc2ODk2MDUyNTA1fQ==
+
+Loading LineOfBusiness
+
+228.257472
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+231.7051727
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+231.7066865
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzc2ODk2MDUzNTA1fQ==
+
+Loading LineOfBusiness
+
+231.9336563
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+235.2118625
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+235.2138256
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzgxMTEyMzk5OTc2fQ==
+
+Loading LineOfBusiness
+
+235.4052134
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+238.442531
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+238.4467046
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzgxMTEyNDAwOTc2fQ==
+
+Loading LineOfBusiness
+
+238.6338165
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+241.7365722
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+241.7389395
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzgxMTEyNDAxOTc2fQ==
+
+Loading LineOfBusiness
+
+241.9275077
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+245.1570828
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+245.1628916
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzgxMTEyNDAyOTc2fQ==
+
+Loading LineOfBusiness
+
+245.3762334
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+248.8187841
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+248.8213199
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzgxMTEyNDAzOTc3fQ==
+
+Loading LineOfBusiness
+
+249.0133996
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+252.2109081
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+252.219657
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzgxMTEyNDA0OTc3fQ==
+
+Loading LineOfBusiness
+
+252.4093011
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+255.5097879
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+255.5152658
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzgxMTEyNDA1OTc4fQ==
+
+Loading LineOfBusiness
+
+255.7074266
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+258.8369443
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+258.8392281
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzgxMTEyNDA2OTc4fQ==
+
+Loading LineOfBusiness
+
+259.0256205
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+262.1231761
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+262.1246892
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzgxMTEyNDA3OTc4fQ==
+
+Loading LineOfBusiness
+
+262.3398814
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+265.3695753
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+265.371434
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzgxMTEyNDA4OTc4fQ==
+
+Loading LineOfBusiness
+
+265.5774237
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+268.8469177
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+268.8493751
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzgxMTEyNDA5OTc4fQ==
+
+Loading LineOfBusiness
+
+269.0761289
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+272.8300475
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+272.8316816
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzgxMTEyNDEwOTc4fQ==
+
+Loading LineOfBusiness
+
+273.0374896
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+276.5942923
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+276.5957826
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzgxMTEyNDExOTc4fQ==
+
+Loading LineOfBusiness
+
+276.7931186
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+280.4778785
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+280.4875409
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzgxMTEyNDEyOTc4fQ==
+
+Loading LineOfBusiness
+
+280.7021693
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+283.9375216
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+283.939186
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzgxMTEyNDEzOTc4fQ==
+
+Loading LineOfBusiness
+
+284.1651667
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+287.3215657
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+287.3246217
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg0Mzk5NjY0MTI5fQ==
+
+Loading LineOfBusiness
+
+287.5354236
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+290.7859815
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+290.795421
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg0Mzk5NjY1MTI5fQ==
+
+Loading LineOfBusiness
+
+291.0222
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+294.834122
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+294.8463542
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg0Mzk5NjY2MTMwfQ==
+
+Loading LineOfBusiness
+
+295.058455
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+298.6896912
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+298.6932667
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg0Mzk5NjY3MTMxfQ==
+
+Loading LineOfBusiness
+
+298.9212227
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+302.8252214
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+302.8280334
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg0Mzk5NjY4MTMyfQ==
+
+Loading LineOfBusiness
+
+303.0326876
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+306.6875117
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+306.6906436
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg0Mzk5NjY5MTMyfQ==
+
+Loading LineOfBusiness
+
+306.9913171
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+312.611864
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+312.6150389
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg0Mzk5NjcwMTMzfQ==
+
+Loading LineOfBusiness
+
+312.8043619
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+316.0544502
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+316.0592575
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg0Mzk5NjcxMTM0fQ==
+
+Loading LineOfBusiness
+
+316.2642963
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+319.427048
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+319.4295012
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg0Mzk5NjcyMTM0fQ==
+
+Loading LineOfBusiness
+
+319.6619602
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+322.9874211
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+322.9925387
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg0Mzk5NjczMTM1fQ==
+
+Loading LineOfBusiness
+
+323.1858297
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+326.4591707
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+326.4654879
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg0Mzk5Njc0MTM1fQ==
+
+Loading LineOfBusiness
+
+326.6653227
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+329.8686256
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+329.8712438
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg0Mzk5Njc1MTM3fQ==
+
+Loading LineOfBusiness
+
+330.0683808
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+333.4023127
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+333.4049925
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg0Mzk5Njc2MTM3fQ==
+
+Loading LineOfBusiness
+
+333.6162213
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+336.8660358
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+336.8693156
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg0Mzk5Njc3MTM4fQ==
+
+Loading LineOfBusiness
+
+337.0927313
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+340.9094717
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+340.9117871
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg0Mzk5Njc4MTM4fQ==
+
+Loading LineOfBusiness
+
+341.1195944
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+344.7272336
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+344.7302703
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg5NzIyNzcxNzAxfQ==
+
+Loading LineOfBusiness
+
+344.9482997
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+348.3145939
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+348.3163966
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg5NzIyNzcyNzAxfQ==
+
+Loading LineOfBusiness
+
+348.4983206
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+351.7886424
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+351.7938969
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg5NzIyNzczNzAxfQ==
+
+Loading LineOfBusiness
+
+352.0184865
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+355.2273902
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+355.2321589
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg5NzIyNzc0NzAzfQ==
+
+Loading LineOfBusiness
+
+355.4635318
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+358.837726
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+358.8453491
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg5NzIyNzc1NzA0fQ==
+
+Loading LineOfBusiness
+
+359.057446
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+362.3627909
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+362.364929
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg5NzIyNzc2NzA1fQ==
+
+Loading LineOfBusiness
+
+362.5683204
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+365.890965
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+365.8939548
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg5NzIyNzc3NzA1fQ==
+
+Loading LineOfBusiness
+
+366.1263756
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+369.5127806
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+369.5216433
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg5NzIyNzc4NzA1fQ==
+
+Loading LineOfBusiness
+
+369.7142225
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+373.0074114
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+373.0141185
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg5NzIyNzc5NzA3fQ==
+
+Loading LineOfBusiness
+
+373.216127
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+376.4803773
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+376.4892154
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg5NzIyNzgwNzA3fQ==
+
+Loading LineOfBusiness
+
+376.7291258
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+380.2722012
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+380.2757007
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg5NzIyNzgxNzA4fQ==
+
+Loading LineOfBusiness
+
+380.4885435
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+384.2560587
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+384.2678936
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg5NzIyNzgyNzA4fQ==
+
+Loading LineOfBusiness
+
+384.4714129
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+387.6666726
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+387.672064
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg5NzIyNzgzNzA5fQ==
+
+Loading LineOfBusiness
+
+387.8768826
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+391.0293583
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+391.0325927
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg5NzIyNzg0NzA5fQ==
+
+Loading LineOfBusiness
+
+391.2279865
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+394.4170174
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+394.4232005
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg5NzIyNzg1NzA5fQ==
+
+Loading LineOfBusiness
+
+394.6246221
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+397.8093035
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+397.8112884
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzg5NzIyNzg2NzA5fQ==
+
+Loading LineOfBusiness
+
+398.0367038
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+401.2431052
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+401.2535478
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkxOTM5OTYxNzAxfQ==
+
+Loading LineOfBusiness
+
+401.4495468
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+404.6412769
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+404.6433358
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkxOTM5OTYyNzAxfQ==
+
+Loading LineOfBusiness
+
+404.8761209
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+408.0329408
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+408.0348226
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkxOTM5OTYzNzAzfQ==
+
+Loading LineOfBusiness
+
+408.2391443
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+411.4551108
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+411.4586488
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkxOTM5OTY0NzA1fQ==
+
+Loading LineOfBusiness
+
+411.6632512
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+415.0848524
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+415.0914284
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkxOTM5OTY1NzA1fQ==
+
+Loading LineOfBusiness
+
+415.283035
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+418.5017571
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+418.5037954
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkxOTM5OTY2NzA1fQ==
+
+Loading LineOfBusiness
+
+418.6916105
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+422.0989037
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+422.103945
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkxOTM5OTY3NzA1fQ==
+
+Loading LineOfBusiness
+
+422.317362
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+425.4962293
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+425.4990935
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkxOTM5OTY4NzA1fQ==
+
+Loading LineOfBusiness
+
+425.6940754
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+429.1284226
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+429.1304766
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkxOTM5OTY5NzA1fQ==
+
+Loading LineOfBusiness
+
+429.3376421
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+432.6337443
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+432.6384709
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkxOTM5OTcwNzA2fQ==
+
+Loading LineOfBusiness
+
+432.9138535
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+436.7200168
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+436.7314194
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkxOTM5OTcxNzA4fQ==
+
+Loading LineOfBusiness
+
+436.934615
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+440.1548451
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+440.1607651
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkxOTM5OTcyNzA4fQ==
+
+Loading LineOfBusiness
+
+440.4578354
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+443.9094165
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+443.9143052
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkxOTM5OTczNzA4fQ==
+
+Loading LineOfBusiness
+
+444.1208639
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+447.4947384
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+447.4975213
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkxOTM5OTc0NzA4fQ==
+
+Loading LineOfBusiness
+
+447.7367963
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+451.1792255
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+451.1901848
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkxOTM5OTc1NzA4fQ==
+
+Loading LineOfBusiness
+
+451.3980888
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+454.6498809
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+454.6548527
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkzODUwMzY1Mjg2fQ==
+
+Loading LineOfBusiness
+
+454.8594511
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+458.1006214
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+458.1143618
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkzODUwMzY2Mjg3fQ==
+
+Loading LineOfBusiness
+
+458.3206368
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+461.6672061
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+461.6705217
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkzODUwMzY3Mjg3fQ==
+
+Loading LineOfBusiness
+
+461.9029132
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+465.2396421
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+465.245086
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkzODUwMzY4Mjg3fQ==
+
+Loading LineOfBusiness
+
+465.461183
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+468.8665164
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+468.8686066
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkzODUwMzY5Mjg3fQ==
+
+Loading LineOfBusiness
+
+469.1299157
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+472.3407488
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+472.3426244
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkzODUwMzcwMjg3fQ==
+
+Loading LineOfBusiness
+
+472.541153
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+475.6898786
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+475.7001899
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkzODUwMzcxMjg3fQ==
+
+Loading LineOfBusiness
+
+475.89763
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+479.451529
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+479.4545096
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkzODUwMzcyMjg5fQ==
+
+Loading LineOfBusiness
+
+479.6599213
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+482.937265
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+482.9391067
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkzODUwMzczMjg5fQ==
+
+Loading LineOfBusiness
+
+483.142289
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+486.2596321
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+486.2630765
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkzODUwMzc0Mjg5fQ==
+
+Loading LineOfBusiness
+
+486.4763661
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+489.9127334
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+489.9167675
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkzODUwMzc1Mjg5fQ==
+
+Loading LineOfBusiness
+
+490.1167014
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+493.8827869
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+493.8850838
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkzODUwMzc2Mjg5fQ==
+
+Loading LineOfBusiness
+
+494.0900883
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+498.8935303
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+498.9000373
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkzODUwMzc3Mjg5fQ==
+
+Loading LineOfBusiness
+
+499.202808
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+505.7282196
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+505.7308673
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkzODUwMzc4MjkwfQ==
+
+Loading LineOfBusiness
+
+505.9280681
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+509.2111356
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+509.2193197
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzkzODUwMzc5MjkyfQ==
+
+Loading LineOfBusiness
+
+509.4237931
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+512.89607
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+512.8992677
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk0MDk0NTYxNDQ3fQ==
+
+Loading LineOfBusiness
+
+513.0944362
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+516.4509019
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+516.4550485
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk0MDk0NTYyNDQ4fQ==
+
+Loading LineOfBusiness
+
+516.6819224
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+520.1283879
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+520.1401872
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk0MDk0NTYzNDQ4fQ==
+
+Loading LineOfBusiness
+
+520.3549184
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+523.7160594
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+523.7195139
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk0MDk0NTY0NDQ5fQ==
+
+Loading LineOfBusiness
+
+523.9098098
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+527.2601368
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+527.2628016
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk0MDk0NTY1NDQ5fQ==
+
+Loading LineOfBusiness
+
+527.4582669
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+531.4818115
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+531.4839808
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk0MDk0NTY2NDUwfQ==
+
+Loading LineOfBusiness
+
+531.7003214
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+534.9298545
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+534.9319076
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk0MDk0NTY3NDUxfQ==
+
+Loading LineOfBusiness
+
+535.1482185
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+538.3515203
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+538.3536432
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk0MDk0NTY4NDUyfQ==
+
+Loading LineOfBusiness
+
+538.558781
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+541.7377973
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+541.7402142
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk0MDk0NTY5NDUyfQ==
+
+Loading LineOfBusiness
+
+541.9405427
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+545.4233799
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+545.4252301
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk0MDk0NTcwNDUyfQ==
+
+Loading LineOfBusiness
+
+545.6217934
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+548.8436398
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+548.8458961
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk0MDk0NTcxNDUzfQ==
+
+Loading LineOfBusiness
+
+549.0531419
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+552.1920437
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+552.1943667
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk0MDk0NTcyNDU0fQ==
+
+Loading LineOfBusiness
+
+552.3945049
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+555.7185525
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+555.726452
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk0MDk0NTczNDU0fQ==
+
+Loading LineOfBusiness
+
+555.937456
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+559.2013544
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+559.2102626
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk0MDk0NTc0NDU1fQ==
+
+Loading LineOfBusiness
+
+559.4135092
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+562.6735179
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+562.6766449
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk0MDk0NTc1NDU1fQ==
+
+Loading LineOfBusiness
+
+562.8988642
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+566.0771019
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+566.0810223
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk0MDk0NTc2NDU1fQ==
+
+Loading LineOfBusiness
+
+566.326745
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+569.5800892
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+569.5916541
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk2NDQzMzEwMzUxfQ==
+
+Loading LineOfBusiness
+
+569.7964715
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+573.1993544
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+573.2019137
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk2NDQzMzExMzUyfQ==
+
+Loading LineOfBusiness
+
+573.3972529
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+576.6475267
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+576.6499097
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk2NDQzMzEyMzUyfQ==
+
+Loading LineOfBusiness
+
+576.862802
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+580.2465842
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+580.2497525
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk2NDQzMzEzMzUyfQ==
+
+Loading LineOfBusiness
+
+580.4952639
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+583.9503803
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+583.9629837
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk2NDQzMzE0MzUzfQ==
+
+Loading LineOfBusiness
+
+584.1741947
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+587.9738442
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+587.9790313
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk2NDQzMzE1MzUzfQ==
+
+Loading LineOfBusiness
+
+588.2109818
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+592.2035808
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+592.2078716
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk2NDQzMzE2MzUzfQ==
+
+Loading LineOfBusiness
+
+592.4127022
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+596.0412701
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+596.0455724
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk2NDQzMzE3MzUzfQ==
+
+Loading LineOfBusiness
+
+596.2440183
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+599.6161688
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+599.6182071
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk2NDQzMzE4MzUzfQ==
+
+Loading LineOfBusiness
+
+599.8235801
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+603.104161
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+603.1059231
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk2NDQzMzE5MzUzfQ==
+
+Loading LineOfBusiness
+
+603.3284805
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+606.7352724
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+606.7415916
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk2NDQzMzIwMzU1fQ==
+
+Loading LineOfBusiness
+
+606.9612659
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+610.3053279
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+610.3074562
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk2NDQzMzIxMzU1fQ==
+
+Loading LineOfBusiness
+
+610.5309013
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+614.2579578
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+614.2616788
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk2NDQzMzIyMzU2fQ==
+
+Loading LineOfBusiness
+
+614.4630243
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+617.5682937
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+617.5700348
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk2NDQzMzIzMzU2fQ==
+
+Loading LineOfBusiness
+
+617.7788258
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+620.9392626
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+620.9414511
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzMzk2NDQzMzI0MzU2fQ==
+
+Loading LineOfBusiness
+
+621.1417885
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+624.2493115
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+624.2522904
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYwNTE1NzMzfQ==
+
+Loading LineOfBusiness
+
+624.4375434
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+627.7066691
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+627.7109708
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYwNTE2NzMzfQ==
+
+Loading LineOfBusiness
+
+627.9361627
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+631.3375487
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+631.3400012
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYwNTE3NzMzfQ==
+
+Loading LineOfBusiness
+
+631.5536756
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+634.94658
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+634.9505302
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYwNTE4NzMzfQ==
+
+Loading LineOfBusiness
+
+635.1564055
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+638.7820725
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+638.7954558
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYwNTE5NzMzfQ==
+
+Loading LineOfBusiness
+
+638.9993829
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+643.7719226
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+643.7753975
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYwNTIwNzMzfQ==
+
+Loading LineOfBusiness
+
+643.995841
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+647.3883512
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+647.3903142
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYwNTIxNzMzfQ==
+
+Loading LineOfBusiness
+
+647.599852
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+653.0659643
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+653.0723461
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYwNTIyNzMzfQ==
+
+Loading LineOfBusiness
+
+653.2742468
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+656.8732741
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+656.8763172
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYwNTIzNzMzfQ==
+
+Loading LineOfBusiness
+
+657.0750678
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+660.372536
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+660.3743593
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYwNTI0NzMzfQ==
+
+Loading LineOfBusiness
+
+660.6590702
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+663.9976462
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+664.0070022
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYwNTI1NzMzfQ==
+
+Loading LineOfBusiness
+
+664.2616193
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+667.9946863
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+668.0096033
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYwNTI2NzMzfQ==
+
+Loading LineOfBusiness
+
+668.2191224
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+672.4692367
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+672.4727733
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYwNTI3NzM0fQ==
+
+Loading LineOfBusiness
+
+672.6884618
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+675.9658535
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+675.9690736
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYwNTI4NzM0fQ==
+
+Loading LineOfBusiness
+
+676.1775478
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+679.5079091
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+679.5097575
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYwNTI5NzM0fQ==
+
+Loading LineOfBusiness
+
+679.7333556
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+683.0904513
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+683.09819
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYxNjUwNTg5fQ==
+
+Loading LineOfBusiness
+
+683.318132
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+686.5605074
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+686.5629837
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYxNjUxNTg5fQ==
+
+Loading LineOfBusiness
+
+686.7592182
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+690.046631
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+690.0481681
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYxNjUyNTg5fQ==
+
+Loading LineOfBusiness
+
+690.2454614
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+693.5683852
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+693.5705015
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYxNjUzNTkwfQ==
+
+Loading LineOfBusiness
+
+693.7763431
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+697.044312
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+697.0593652
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYxNjU0NTkwfQ==
+
+Loading LineOfBusiness
+
+697.318859
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+700.8873553
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+700.8921399
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYxNjU1NTkwfQ==
+
+Loading LineOfBusiness
+
+701.1003126
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+704.4625466
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+704.4654452
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYxNjU2NTkwfQ==
+
+Loading LineOfBusiness
+
+704.6467436
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+707.9445078
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+707.9482793
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYxNjU3NTkwfQ==
+
+Loading LineOfBusiness
+
+708.148989
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+711.8822344
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+711.8859506
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYxNjU4NTkwfQ==
+
+Loading LineOfBusiness
+
+712.1010879
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+715.524428
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+715.5264214
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYxNjU5NTkwfQ==
+
+Loading LineOfBusiness
+
+715.7471138
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+719.2357532
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+719.2378915
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYxNjYwNTkwfQ==
+
+Loading LineOfBusiness
+
+719.4469887
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+723.1528069
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+723.1551297
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYxNjYxNTkwfQ==
+
+Loading LineOfBusiness
+
+723.3642929
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+726.7470025
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+726.7510037
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYxNjYyNTkwfQ==
+
+Loading LineOfBusiness
+
+727.0034524
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+730.6953763
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+730.7100436
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYxNjYzNTkwfQ==
+
+Loading LineOfBusiness
+
+730.9137992
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+734.4797551
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+734.4889236
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYxNjY0NTkwfQ==
+
+Loading LineOfBusiness
+
+734.7088877
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+738.038199
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+738.0413771
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDAyNDYxNjY1NTkxfQ==
+
+Loading LineOfBusiness
+
+738.2634663
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+741.7192972
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+741.722237
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDA1OTE0MzYzOTM1fQ==
+
+Loading LineOfBusiness
+
+741.9566677
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+745.1650785
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+745.1728994
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDA1OTE0MzY0OTM1fQ==
+
+Loading LineOfBusiness
+
+745.4039846
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+749.0700137
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+749.0722578
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDA1OTE0MzY1OTM1fQ==
+
+Loading LineOfBusiness
+
+749.2800615
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+752.5535793
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+752.5592517
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDA1OTE0MzY2OTM2fQ==
+
+Loading LineOfBusiness
+
+752.7664326
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+755.884939
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+755.8878096
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDA1OTE0MzY3OTM2fQ==
+
+Loading LineOfBusiness
+
+756.0708993
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+759.3664533
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+759.3684166
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDA1OTE0MzY4OTQwfQ==
+
+Loading LineOfBusiness
+
+759.5597244
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+762.891233
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+762.8932954
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDA1OTE0MzY5OTQwfQ==
+
+Loading LineOfBusiness
+
+763.1131128
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+766.4448512
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+766.4468488
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDA1OTE0MzcwOTQwfQ==
+
+Loading LineOfBusiness
+
+766.6465227
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+769.8662232
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+769.8693779
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDA1OTE0MzcxOTQwfQ==
+
+Loading LineOfBusiness
+
+770.0752379
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+773.5592598
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+773.5632668
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDA1OTE0MzcyOTQwfQ==
+
+Loading LineOfBusiness
+
+773.7533956
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+777.2452641
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+777.2517566
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDA1OTE0MzczOTQwfQ==
+
+Loading LineOfBusiness
+
+777.4457252
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+780.9226635
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+780.930444
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDA1OTE0Mzc0OTQyfQ==
+
+Loading LineOfBusiness
+
+781.1902192
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+784.5769047
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+784.5826332
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDA1OTE0Mzc1OTQ0fQ==
+
+Loading LineOfBusiness
+
+784.794873
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+788.3235144
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+788.3327379
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDA1OTE0Mzc2OTQ0fQ==
+
+Loading LineOfBusiness
+
+788.5449007
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+791.9814762
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+791.9840919
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDA1OTE0Mzc3OTQ0fQ==
+
+Loading LineOfBusiness
+
+792.1793304
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+795.3922079
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+795.3940862
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDA5MzczMDI1NDM5fQ==
+
+Loading LineOfBusiness
+
+795.6226414
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+798.9961778
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+798.9982731
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDA5MzczMDI2NDM5fQ==
+
+Loading LineOfBusiness
+
+799.2127051
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+802.2373177
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+802.2451325
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDA5MzczMDI3NDM5fQ==
+
+Loading LineOfBusiness
+
+802.4494701
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+805.7002158
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+805.71109
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDA5MzczMDI4NDQwfQ==
+
+Loading LineOfBusiness
+
+805.9082831
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+809.0675893
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+809.0698894
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDA5MzczMDI5NDQwfQ==
+
+Loading LineOfBusiness
+
+809.2585168
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+812.3931259
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+812.3953273
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDA5MzczMDMwNDQwfQ==
+
+Loading LineOfBusiness
+
+812.597154
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+815.8637946
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+815.8691757
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDEwOTUwMjQ0MjY4fQ==
+
+Loading LineOfBusiness
+
+816.0584206
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+819.5063837
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+819.5107908
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDEwOTUwMjQ1MjY4fQ==
+
+Loading LineOfBusiness
+
+819.7227598
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+822.9561032
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+822.9582441
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDEwOTUwMjQ2MjY4fQ==
+
+Loading LineOfBusiness
+
+823.1728421
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+826.2834457
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+826.2890795
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDEwOTUwMjQ3MjY5fQ==
+
+Loading LineOfBusiness
+
+826.4849449
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+829.8509874
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+829.8533072
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDEwOTUwMjQ4MjY5fQ==
+
+Loading LineOfBusiness
+
+830.0463178
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+833.3329541
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+833.336822
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDEwOTUwMjQ5MjcwfQ==
+
+Loading LineOfBusiness
+
+833.5372793
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+836.8447226
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+836.8463218
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDEwOTUwMjUwMjcxfQ==
+
+Loading LineOfBusiness
+
+837.0471842
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+840.5517728
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+840.5530757
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDEwOTUwMjUxMjcxfQ==
+
+Loading LineOfBusiness
+
+840.7633963
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+843.9269437
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+843.9284473
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDEwOTUwMjUyMjcxfQ==
+
+Loading LineOfBusiness
+
+844.1274567
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+847.5678097
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+847.5695533
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDEwOTUwMjUzMjcyfQ==
+
+Loading LineOfBusiness
+
+847.7752727
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+851.2866802
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+851.2887754
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDEwOTUwMjU0MjczfQ==
+
+Loading LineOfBusiness
+
+851.5134347
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+854.8126776
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+854.8145112
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDEwOTUwMjU1MjczfQ==
+
+Loading LineOfBusiness
+
+855.0356972
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+858.4529341
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+858.455053
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDEwOTUwMjU2Mjc0fQ==
+
+Loading LineOfBusiness
+
+858.6628132
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+861.8717505
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+861.8730866
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDEwOTUwMjU3Mjc1fQ==
+
+Loading LineOfBusiness
+
+862.0741528
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+865.1835809
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+865.1860352
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNDEwOTUwMjU4Mjc3fQ==
+
+Loading LineOfBusiness
+
+865.3823962
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+868.4941609
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+868.4960139
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMzY4NDA3OTcyNTQzNzcxfQ==
+
+Loading LineOfBusiness
+
+868.6870317
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+872.0073767
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+872.0091464
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUzNTc4MDEwNDIzOTI4MTY3fQ==
+
+Loading LineOfBusiness
+
+872.2294716
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+875.5760272
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+875.5800396
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzU0OTYwNDEyODc1NzA0MjQxfQ==
+
+Loading LineOfBusiness
+
+875.780876
+
+LineOfBusinesss Load Completed: 1000 Rows Inserted
+
+879.3121043
+
+Loaded to RawData
+
+Getting LineOfBusiness
+
+879.3226447
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_LineOfBusiness?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzU2MzQyODExMDkyODE3NzQ5fQ==
+
+Loading LineOfBusiness
+
+879.3929351
+
+LineOfBusinesss Load Completed: 132 Rows Inserted
+
+879.8104446
+
+Loaded to RawData
+
+LineOfBusiness Staging Load Completed
+
+881.5943271
+

@@ -36,3 +36,43 @@ Loaded to RawData
 
 0.8490675
 
+Getting 131SPolicy
+
+2.2195742
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_131SPolicy?limit=1000&schema=public&select=*
+
+Loading 131SPolicy
+
+2.4267483
+
+131SPolicys Load Completed: 1 Rows Inserted
+
+2.5010275
+
+Loaded to RawData
+
+131SPolicy Staging Load Completed
+
+2.5398872
+
+Getting 131SPolicy
+
+1.6671142
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_131SPolicy?limit=1000&schema=public&select=*
+
+Loading 131SPolicy
+
+1.7419222
+
+131SPolicys Load Completed: 1 Rows Inserted
+
+1.8013088
+
+Loaded to RawData
+
+131SPolicy Staging Load Completed
+
+1.8504467
+

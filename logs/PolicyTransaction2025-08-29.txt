@@ -9962,3 +9962,7929 @@ PolicyTransaction Staging Load Completed
 
 1195.9549371
 
+Getting PolicyTransaction
+
+2.2650401
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*
+
+Loading PolicyTransaction
+
+2.6675329
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+6.6242835
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+6.626086
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQzMDAyNjkyNzc0fQ==
+
+Loading PolicyTransaction
+
+6.8175877
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+10.4434674
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+10.445254
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQzMDAyNjkzNzc0fQ==
+
+Loading PolicyTransaction
+
+10.6195755
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+14.2457839
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+14.2519235
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQzMDAyNjk0Nzc0fQ==
+
+Loading PolicyTransaction
+
+14.4319576
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+17.9621512
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+17.9657842
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQzMDAyNjk1Nzc0fQ==
+
+Loading PolicyTransaction
+
+18.1381258
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+21.8372497
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+21.8388767
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQzMDAyNjk2Nzc0fQ==
+
+Loading PolicyTransaction
+
+22.0207234
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+25.5105945
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+25.5140949
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQzMDAyNjk3Nzc0fQ==
+
+Loading PolicyTransaction
+
+25.6896784
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+29.2929148
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+29.2943462
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQzMDAyNjk4Nzc1fQ==
+
+Loading PolicyTransaction
+
+29.4797307
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+33.0463463
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+33.0478422
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQzMDAyNjk5Nzc1fQ==
+
+Loading PolicyTransaction
+
+33.2458018
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+36.8965972
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+36.8980385
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQzMDAyNzAwNzc1fQ==
+
+Loading PolicyTransaction
+
+37.0643277
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+41.1503928
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+41.153399
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQzMDAyNzAxNzc1fQ==
+
+Loading PolicyTransaction
+
+41.3644885
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+50.0184184
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+50.0214005
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQzMDAyNzAyNzc1fQ==
+
+Loading PolicyTransaction
+
+50.2584996
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+53.8707474
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+53.8746707
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQzMDAyNzAzNzc1fQ==
+
+Loading PolicyTransaction
+
+54.0635826
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+57.9833901
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+57.9852139
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQzMDAyNzA0Nzc1fQ==
+
+Loading PolicyTransaction
+
+58.1565296
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+61.8796846
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+61.8815031
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQzMDAyNzA1Nzc2fQ==
+
+Loading PolicyTransaction
+
+62.0566525
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+65.7224235
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+65.7242696
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQzMDAyNzA2Nzc2fQ==
+
+Loading PolicyTransaction
+
+65.8986224
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+69.4997961
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+69.5016333
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQzMDAyNzA3Nzc2fQ==
+
+Loading PolicyTransaction
+
+69.7032936
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+73.5824953
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+73.5851678
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQzMDAyNzA4Nzc2fQ==
+
+Loading PolicyTransaction
+
+73.7645829
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+77.5716354
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+77.5737437
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQzMDAyNzA5Nzc4fQ==
+
+Loading PolicyTransaction
+
+77.7605781
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+81.6797768
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+81.6811444
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQzMDAyNzEwNzgwfQ==
+
+Loading PolicyTransaction
+
+81.8904112
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+85.8455734
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+85.8476017
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1MzI5NzQ4NzE5fQ==
+
+Loading PolicyTransaction
+
+86.0531679
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+90.184765
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+90.1863484
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1MzI5NzQ5NzIxfQ==
+
+Loading PolicyTransaction
+
+90.3596573
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+94.3154188
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+94.3170966
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1MzI5NzUwNzIxfQ==
+
+Loading PolicyTransaction
+
+94.530605
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+98.2059181
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+98.2073769
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1MzI5NzUxNzIxfQ==
+
+Loading PolicyTransaction
+
+98.3671283
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+102.0608933
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+102.0656272
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1MzI5NzUyNzIxfQ==
+
+Loading PolicyTransaction
+
+102.2399577
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+106.1706955
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+106.1729399
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1MzI5NzUzNzIyfQ==
+
+Loading PolicyTransaction
+
+106.3487373
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+109.9310603
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+109.9322616
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1MzI5NzU0NzIyfQ==
+
+Loading PolicyTransaction
+
+110.1122511
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+113.7953437
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+113.7969583
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1MzI5NzU1NzIyfQ==
+
+Loading PolicyTransaction
+
+113.9713172
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+117.7832433
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+117.7849832
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1MzI5NzU2NzIyfQ==
+
+Loading PolicyTransaction
+
+117.9702661
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+121.6870069
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+121.6884175
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1MzI5NzU3NzIyfQ==
+
+Loading PolicyTransaction
+
+121.8625924
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+125.5992265
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+125.6010447
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1MzI5NzU4NzIyfQ==
+
+Loading PolicyTransaction
+
+125.7800074
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+132.2272561
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+132.2345044
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1MzI5NzU5NzIyfQ==
+
+Loading PolicyTransaction
+
+132.4018226
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+135.9441055
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+135.9466187
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1MzI5NzYwNzIyfQ==
+
+Loading PolicyTransaction
+
+136.1203821
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+139.6185935
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+139.6205911
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1MzI5NzYxNzIyfQ==
+
+Loading PolicyTransaction
+
+139.7906414
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+143.3323024
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+143.3337296
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1MzI5NzYyNzIzfQ==
+
+Loading PolicyTransaction
+
+143.5092885
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+147.058835
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+147.0610235
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1MzI5NzYzNzIzfQ==
+
+Loading PolicyTransaction
+
+147.2416025
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+150.860123
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+150.8616069
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1MzI5NzY0NzIzfQ==
+
+Loading PolicyTransaction
+
+151.0754168
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+155.169164
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+155.1716993
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1NDMzMDQ1OTcyfQ==
+
+Loading PolicyTransaction
+
+155.3544835
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+159.2232866
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+159.2261895
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1NDMzMDQ2OTcyfQ==
+
+Loading PolicyTransaction
+
+159.4416342
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+162.9898915
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+163.0001022
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1NDMzMDQ3OTc0fQ==
+
+Loading PolicyTransaction
+
+163.1796642
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+167.0590405
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+167.061894
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1NDMzMDQ4OTc0fQ==
+
+Loading PolicyTransaction
+
+167.2358764
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+170.9921727
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+170.9946991
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1NDMzMDQ5OTc1fQ==
+
+Loading PolicyTransaction
+
+171.186668
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+174.7009422
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+174.7024476
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1NDMzMDUwOTc1fQ==
+
+Loading PolicyTransaction
+
+174.8867844
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+178.4821496
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+178.4860864
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1NDMzMDUxOTc1fQ==
+
+Loading PolicyTransaction
+
+178.655606
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+182.3860838
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+182.387703
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1NDMzMDUyOTc2fQ==
+
+Loading PolicyTransaction
+
+182.5785794
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+186.2159501
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+186.2175741
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1NDMzMDUzOTc2fQ==
+
+Loading PolicyTransaction
+
+186.3936517
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+189.8705059
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+189.8723624
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1NDMzMDU0OTc2fQ==
+
+Loading PolicyTransaction
+
+190.0377536
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+193.6256858
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+193.6280553
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1NDMzMDU1OTc5fQ==
+
+Loading PolicyTransaction
+
+193.7962651
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+197.4087906
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+197.4104444
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1NDMzMDU2OTc5fQ==
+
+Loading PolicyTransaction
+
+197.5770916
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+201.2684547
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+201.2701275
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1NDMzMDU3OTc5fQ==
+
+Loading PolicyTransaction
+
+201.4358299
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+205.0564787
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+205.0596897
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1NDMzMDU4OTc5fQ==
+
+Loading PolicyTransaction
+
+205.2282169
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+208.8304174
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+208.8320563
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1NDMzMDU5OTgxfQ==
+
+Loading PolicyTransaction
+
+209.0040051
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+212.5713539
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+212.5833944
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ1NDMzMDYwOTgxfQ==
+
+Loading PolicyTransaction
+
+212.7509126
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+216.4216338
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+216.4235693
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ4MDgwMTExNDI5fQ==
+
+Loading PolicyTransaction
+
+216.5894409
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+220.3736958
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+220.3752871
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ4MDgwMTEyNDI5fQ==
+
+Loading PolicyTransaction
+
+220.5430404
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+224.2206217
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+224.2233194
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ4MDgwMTEzNDI5fQ==
+
+Loading PolicyTransaction
+
+224.389113
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+228.1170535
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+228.118606
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ4MDgwMTE0NDMwfQ==
+
+Loading PolicyTransaction
+
+228.2926483
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+232.3621644
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+232.3638027
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ4MDgwMTE1NDMxfQ==
+
+Loading PolicyTransaction
+
+232.5404212
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+236.2543633
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+236.2564923
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ4MDgwMTE2NDMxfQ==
+
+Loading PolicyTransaction
+
+236.4215485
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+240.0937538
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+240.1017611
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ4MDgwMTE3NDMxfQ==
+
+Loading PolicyTransaction
+
+240.3228474
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+244.016091
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+244.0176139
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ4MDgwMTE4NDMyfQ==
+
+Loading PolicyTransaction
+
+244.1859437
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+248.2922914
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+248.2943074
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ4MDgwMTE5NDMyfQ==
+
+Loading PolicyTransaction
+
+248.4810023
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+252.2431646
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+252.2452012
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ4MDgwMTIwNDMyfQ==
+
+Loading PolicyTransaction
+
+252.4492001
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+256.0930216
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+256.0963273
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ4MDgwMTIxNDMyfQ==
+
+Loading PolicyTransaction
+
+256.2611886
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+259.9256801
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+259.9297246
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ4MDgwMTIyNDMyfQ==
+
+Loading PolicyTransaction
+
+260.0997471
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+263.7305285
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+263.7320628
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ4MDgwMTIzNDMyfQ==
+
+Loading PolicyTransaction
+
+263.918034
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+267.5738612
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+267.5784933
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ4MDgwMTI0NDMyfQ==
+
+Loading PolicyTransaction
+
+267.7505062
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+272.0885785
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+272.0904589
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ4MDgwMTI1NDMyfQ==
+
+Loading PolicyTransaction
+
+272.2894287
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+276.5256122
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+276.5267595
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTQ4MDgwMTI2NDMyfQ==
+
+Loading PolicyTransaction
+
+276.7580274
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+281.0360428
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+281.0379325
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0NzEzMDAxMzQ2fQ==
+
+Loading PolicyTransaction
+
+281.221337
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+285.0420908
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+285.0441603
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0NzEzMDAyMzQ2fQ==
+
+Loading PolicyTransaction
+
+285.2277749
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+288.9579645
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+288.9603723
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0NzEzMDAzMzQ2fQ==
+
+Loading PolicyTransaction
+
+289.1288227
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+293.401286
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+293.4049027
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0NzEzMDA0MzQ2fQ==
+
+Loading PolicyTransaction
+
+293.590466
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+297.9502461
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+297.9529039
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0NzEzMDA1MzQ2fQ==
+
+Loading PolicyTransaction
+
+298.1475981
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+302.7871937
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+302.7919987
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0NzEzMDA2MzQ2fQ==
+
+Loading PolicyTransaction
+
+302.9734837
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+307.3426175
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+307.3459451
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0NzEzMDA3MzQ3fQ==
+
+Loading PolicyTransaction
+
+307.5328513
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+313.6240979
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+313.6264394
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0NzEzMDA4MzQ3fQ==
+
+Loading PolicyTransaction
+
+313.7988305
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+317.5428956
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+317.5456284
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0NzEzMDA5MzQ3fQ==
+
+Loading PolicyTransaction
+
+317.7208004
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+321.6426169
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+321.6458832
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0NzEzMDEwMzQ3fQ==
+
+Loading PolicyTransaction
+
+321.8339057
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+325.7671563
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+325.773922
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0NzEzMDExMzQ3fQ==
+
+Loading PolicyTransaction
+
+325.967371
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+329.7893964
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+329.7925239
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0NzEzMDEyMzQ3fQ==
+
+Loading PolicyTransaction
+
+329.9687406
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+333.9879803
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+333.9904395
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0NzEzMDEzMzQ3fQ==
+
+Loading PolicyTransaction
+
+334.1758487
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+338.0340963
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+338.0363638
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0NzEzMDE0MzQ5fQ==
+
+Loading PolicyTransaction
+
+338.2072491
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+342.5961001
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+342.6128726
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0NzEzMDE1MzQ5fQ==
+
+Loading PolicyTransaction
+
+342.810245
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+346.9041393
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+346.9065482
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0NzEzMDE2MzQ5fQ==
+
+Loading PolicyTransaction
+
+347.0748056
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+350.979116
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+350.9808578
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0ODE2MDQ5MDcyfQ==
+
+Loading PolicyTransaction
+
+351.1529314
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+354.983692
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+354.9861453
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0ODE2MDUwMDcyfQ==
+
+Loading PolicyTransaction
+
+355.1528719
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+359.1346652
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+359.1400852
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0ODE2MDUxMDcyfQ==
+
+Loading PolicyTransaction
+
+359.3149363
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+363.2420293
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+363.2507902
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0ODE2MDUyMDczfQ==
+
+Loading PolicyTransaction
+
+363.444152
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+367.3462198
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+367.3493376
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0ODE2MDUzMDc0fQ==
+
+Loading PolicyTransaction
+
+367.5580272
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+371.4565429
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+371.4588975
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0ODE2MDU0MDc1fQ==
+
+Loading PolicyTransaction
+
+371.6642327
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+375.5393548
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+375.5418838
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0ODE2MDU1MDc2fQ==
+
+Loading PolicyTransaction
+
+375.7196837
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+379.8909182
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+379.9107138
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0ODE2MDU2MDc4fQ==
+
+Loading PolicyTransaction
+
+380.1102235
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+384.4377962
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+384.4443801
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0ODE2MDU3MDc4fQ==
+
+Loading PolicyTransaction
+
+384.6259985
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+388.4428628
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+388.4509048
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0ODE2MDU4MDc5fQ==
+
+Loading PolicyTransaction
+
+388.6400495
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+392.3941318
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+392.4046922
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0ODE2MDU5MDgwfQ==
+
+Loading PolicyTransaction
+
+392.6109714
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+396.3359368
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+396.3519611
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0ODE2MDYwMDgxfQ==
+
+Loading PolicyTransaction
+
+396.5454761
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+400.4067271
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+400.4099424
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0ODE2MDYxMDgxfQ==
+
+Loading PolicyTransaction
+
+400.5995278
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+404.4507556
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+404.4533802
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0ODE2MDYyMDgyfQ==
+
+Loading PolicyTransaction
+
+404.6201562
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+408.3949468
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+408.3980899
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0ODE2MDYzMDgyfQ==
+
+Loading PolicyTransaction
+
+408.5698726
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+412.5279096
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+412.529837
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0ODE2MDY0MDgyfQ==
+
+Loading PolicyTransaction
+
+412.7190883
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+416.5725297
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+416.574537
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU0ODE2MDY1MDgyfQ==
+
+Loading PolicyTransaction
+
+416.7989569
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+420.6424557
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+420.6447055
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU3MjA4ODkwMjM2fQ==
+
+Loading PolicyTransaction
+
+420.8884532
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+424.7695121
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+424.7725162
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU3MjA4ODkxMjM3fQ==
+
+Loading PolicyTransaction
+
+424.9609152
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+428.9534868
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+428.9559361
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU3MjA4ODkyMjM3fQ==
+
+Loading PolicyTransaction
+
+429.1318935
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+433.0095774
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+433.0124701
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU3MjA4ODkzMjM4fQ==
+
+Loading PolicyTransaction
+
+433.1814341
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+437.5249782
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+437.5273635
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU3MjA4ODk0MjM4fQ==
+
+Loading PolicyTransaction
+
+437.716234
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+441.6125632
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+441.6151444
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU3MjA4ODk1MjM5fQ==
+
+Loading PolicyTransaction
+
+441.8407717
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+445.9243311
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+445.9298934
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU3MjA4ODk2MjM5fQ==
+
+Loading PolicyTransaction
+
+446.1523894
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+450.0251796
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+450.0280592
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU3MjA4ODk3MjM5fQ==
+
+Loading PolicyTransaction
+
+450.2683335
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+454.211453
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+454.2133928
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU3MjA4ODk4MjM5fQ==
+
+Loading PolicyTransaction
+
+454.421041
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+458.2504628
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+458.2567992
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU3MjA4ODk5MjM5fQ==
+
+Loading PolicyTransaction
+
+458.4357149
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+462.4688332
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+462.4718872
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU3MjA4OTAwMjM5fQ==
+
+Loading PolicyTransaction
+
+462.6471844
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+466.5757995
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+466.5786777
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU3MjA4OTAxMjM5fQ==
+
+Loading PolicyTransaction
+
+466.7763117
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+470.8550131
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+470.858189
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU3MjA4OTAyMjM5fQ==
+
+Loading PolicyTransaction
+
+471.0283244
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+474.7688321
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+474.7752869
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU3MjA4OTAzMjQwfQ==
+
+Loading PolicyTransaction
+
+474.9789805
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+479.067938
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+479.0734396
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU3MjA4OTA0MjQwfQ==
+
+Loading PolicyTransaction
+
+479.2568647
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+483.1545025
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+483.1561614
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTU3MjA4OTA1MjQwfQ==
+
+Loading PolicyTransaction
+
+483.3350226
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+487.0599878
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+487.0755394
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTYwODYwOTUxOTI0fQ==
+
+Loading PolicyTransaction
+
+487.2825688
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+491.5538799
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+491.5564601
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTYwODYwOTUyOTI0fQ==
+
+Loading PolicyTransaction
+
+491.7464318
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+496.2951099
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+496.315848
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTYwODYwOTUzOTI0fQ==
+
+Loading PolicyTransaction
+
+496.537346
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+504.7633644
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+504.7671239
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTYwODYwOTU0OTI1fQ==
+
+Loading PolicyTransaction
+
+504.9407516
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+508.7725462
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+508.7745518
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTYwODYwOTU1OTI1fQ==
+
+Loading PolicyTransaction
+
+508.956128
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+513.0266879
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+513.0291872
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTYwODYwOTU2OTI1fQ==
+
+Loading PolicyTransaction
+
+513.3433817
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+517.3265703
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+517.3316498
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTYwODYwOTU3OTI1fQ==
+
+Loading PolicyTransaction
+
+517.5133867
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+521.4883288
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+521.4921358
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTYwODYwOTU4OTI1fQ==
+
+Loading PolicyTransaction
+
+521.7032937
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+525.9501928
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+525.9563676
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTYwODYwOTU5OTI1fQ==
+
+Loading PolicyTransaction
+
+526.1378135
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+530.6823219
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+530.6848771
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTYwODYwOTYwOTI1fQ==
+
+Loading PolicyTransaction
+
+530.8921083
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+534.7588764
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+534.7614383
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTYwODYwOTYxOTI1fQ==
+
+Loading PolicyTransaction
+
+534.9343248
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+538.8328152
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+538.8357743
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTYwODYwOTYyOTI1fQ==
+
+Loading PolicyTransaction
+
+539.0186353
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+543.0471715
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+543.0490662
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTYwODYwOTYzOTI2fQ==
+
+Loading PolicyTransaction
+
+543.2339675
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+547.0295201
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+547.0319606
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTYwODYwOTY0OTI2fQ==
+
+Loading PolicyTransaction
+
+547.2090344
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+551.0372662
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+551.0390958
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTYwODYwOTY1OTI2fQ==
+
+Loading PolicyTransaction
+
+551.2049846
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+555.0267071
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+555.0302124
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTYwODYwOTY2OTI3fQ==
+
+Loading PolicyTransaction
+
+555.2431393
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+559.1111371
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+559.1138454
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY1MDAwNzg5MTg1fQ==
+
+Loading PolicyTransaction
+
+559.3234193
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+563.2393176
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+563.2475287
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY1MDAwNzkwMTg2fQ==
+
+Loading PolicyTransaction
+
+563.4400692
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+567.2546125
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+567.2569146
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY1MDAwNzkxMTg2fQ==
+
+Loading PolicyTransaction
+
+567.4403531
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+571.4166137
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+571.4191933
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY1MDAwNzkyMTg2fQ==
+
+Loading PolicyTransaction
+
+571.6019289
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+575.5178019
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+575.5244715
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY1MDAwNzkzMTg4fQ==
+
+Loading PolicyTransaction
+
+575.7225491
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+579.7444034
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+579.7471047
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY1MDAwNzk0MTg4fQ==
+
+Loading PolicyTransaction
+
+579.9275545
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+583.9691388
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+583.9735303
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY1MDAwNzk1MTg4fQ==
+
+Loading PolicyTransaction
+
+584.1489408
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+588.7877691
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+588.7908657
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY1MDAwNzk2MTg4fQ==
+
+Loading PolicyTransaction
+
+588.998039
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+593.724068
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+593.7271458
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY1MDAwNzk3MTg5fQ==
+
+Loading PolicyTransaction
+
+593.9354662
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+597.9281356
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+597.9298204
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY1MDAwNzk4MTkwfQ==
+
+Loading PolicyTransaction
+
+598.1002783
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+602.0017986
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+602.004397
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY1MDAwNzk5MTkwfQ==
+
+Loading PolicyTransaction
+
+602.2532017
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+606.1681143
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+606.1714213
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY1MDAwODAwMTkxfQ==
+
+Loading PolicyTransaction
+
+606.3561818
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+610.4538846
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+610.4690992
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY1MDAwODAxMTkyfQ==
+
+Loading PolicyTransaction
+
+610.6524169
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+614.9258566
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+614.9276672
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY1MDAwODAyMTkyfQ==
+
+Loading PolicyTransaction
+
+615.1374673
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+618.9089558
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+618.9118586
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY1MDAwODAzMTkyfQ==
+
+Loading PolicyTransaction
+
+619.1108822
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+622.7744243
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+622.7763932
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY1MDAwODA0MTkyfQ==
+
+Loading PolicyTransaction
+
+622.9670015
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+626.7874043
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+626.7907344
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY5MzU5MDA3MjczfQ==
+
+Loading PolicyTransaction
+
+626.98148
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+631.0108185
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+631.0133127
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY5MzU5MDA4MjczfQ==
+
+Loading PolicyTransaction
+
+631.2104889
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+635.2702555
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+635.2823494
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY5MzU5MDA5Mjc1fQ==
+
+Loading PolicyTransaction
+
+635.4925603
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+639.6883704
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+639.6919311
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY5MzU5MDEwMjc1fQ==
+
+Loading PolicyTransaction
+
+639.8514485
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+645.3522888
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+645.3548359
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY5MzU5MDExMjc2fQ==
+
+Loading PolicyTransaction
+
+645.5264896
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+651.2034169
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+651.2072825
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY5MzU5MDEyMjc3fQ==
+
+Loading PolicyTransaction
+
+651.3807972
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+655.7024123
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+655.704672
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY5MzU5MDEzMjc5fQ==
+
+Loading PolicyTransaction
+
+655.8954105
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+659.7315086
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+659.735935
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY5MzU5MDE0Mjc5fQ==
+
+Loading PolicyTransaction
+
+659.9419374
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+664.0923305
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+664.0966331
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY5MzU5MDE1MjgzfQ==
+
+Loading PolicyTransaction
+
+664.2915773
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+668.5255796
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+668.5290808
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY5MzU5MDE2MjgzfQ==
+
+Loading PolicyTransaction
+
+668.7139477
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+673.5008667
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+673.5025745
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY5MzU5MDE3Mjg1fQ==
+
+Loading PolicyTransaction
+
+673.6953073
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+677.5493901
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+677.5519
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY5MzU5MDE4Mjg1fQ==
+
+Loading PolicyTransaction
+
+677.7619475
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+681.7999911
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+681.8117787
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY5MzU5MDE5Mjg1fQ==
+
+Loading PolicyTransaction
+
+682.0281335
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+686.026254
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+686.0285985
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY5MzU5MDIwMjg1fQ==
+
+Loading PolicyTransaction
+
+686.2047247
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+690.0328502
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+690.035448
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY5MzU5MDIxMjg1fQ==
+
+Loading PolicyTransaction
+
+690.2303612
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+694.1616114
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+694.1784838
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTY5MzU5MDIyMjg2fQ==
+
+Loading PolicyTransaction
+
+694.3475196
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+698.3076715
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+698.3110091
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTcwOTQ0NDQ5MzAwfQ==
+
+Loading PolicyTransaction
+
+698.5045413
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+702.8029847
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+702.8048855
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTcwOTQ0NDUwMzAwfQ==
+
+Loading PolicyTransaction
+
+702.9791098
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+706.925056
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+706.9268228
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTcwOTQ0NDUxMzAwfQ==
+
+Loading PolicyTransaction
+
+707.1026527
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+711.5057239
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+711.5087349
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTcwOTQ0NDUyMzAwfQ==
+
+Loading PolicyTransaction
+
+711.6989488
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+715.744476
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+715.7476747
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTcwOTQ0NDUzMzAwfQ==
+
+Loading PolicyTransaction
+
+715.926815
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+720.008534
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+720.013163
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTcwOTQ0NDU0MzAwfQ==
+
+Loading PolicyTransaction
+
+720.189201
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+724.4182745
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+724.4248633
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTcwOTQ0NDU1MzAwfQ==
+
+Loading PolicyTransaction
+
+724.6205113
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+728.7286598
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+728.7371507
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTcwOTQ0NDU2MzAwfQ==
+
+Loading PolicyTransaction
+
+728.9377338
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+733.2565713
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+733.2593248
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTcwOTQ0NDU3MzAxfQ==
+
+Loading PolicyTransaction
+
+733.4376104
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+737.4112051
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+737.413222
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTcwOTQ0NDU4MzAxfQ==
+
+Loading PolicyTransaction
+
+737.61121
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+741.5756575
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+741.579028
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTcwOTQ0NDU5MzAxfQ==
+
+Loading PolicyTransaction
+
+741.7595506
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+745.6004488
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+745.6029058
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTcwOTQ0NDYwMzAxfQ==
+
+Loading PolicyTransaction
+
+745.7979327
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+749.957709
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+749.96247
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTcwOTQ0NDYxMzAxfQ==
+
+Loading PolicyTransaction
+
+750.145418
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+753.9679418
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+753.9732063
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTcwOTQ0NDYyMzAxfQ==
+
+Loading PolicyTransaction
+
+754.1752335
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+758.0129594
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+758.0163037
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTcwOTQ0NDYzMzAxfQ==
+
+Loading PolicyTransaction
+
+758.1922802
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+762.1040121
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+762.1123881
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTcwOTQ0NDY0MzAxfQ==
+
+Loading PolicyTransaction
+
+762.3841674
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+766.259168
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+766.2673858
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTczNDc3MDgzOTk5fQ==
+
+Loading PolicyTransaction
+
+766.4398925
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+770.3518013
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+770.355532
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTczNDc3MDg1MDAwfQ==
+
+Loading PolicyTransaction
+
+770.5350673
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+774.62707
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+774.6288968
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTczNDc3MDg2MDAwfQ==
+
+Loading PolicyTransaction
+
+774.8248618
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+778.9309689
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+778.9343529
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTczNDc3MDg3MDAwfQ==
+
+Loading PolicyTransaction
+
+779.1065364
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+783.2174562
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+783.2249922
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTczNDc3MDg4MDAxfQ==
+
+Loading PolicyTransaction
+
+783.4268627
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+787.5256987
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+787.5281082
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTczNDc3MDg5MDAxfQ==
+
+Loading PolicyTransaction
+
+787.7095722
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+791.7653365
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+791.7671836
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTczNDc3MDkwMDAyfQ==
+
+Loading PolicyTransaction
+
+791.9642695
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+795.7291986
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+795.7314607
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTczNDc3MDkxMDAyfQ==
+
+Loading PolicyTransaction
+
+795.8960623
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+799.8384755
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+799.8409952
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTczNDc3MDkyMDAyfQ==
+
+Loading PolicyTransaction
+
+800.0054838
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+803.7847529
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+803.7873961
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTczNDc3MDkzMDAyfQ==
+
+Loading PolicyTransaction
+
+803.9671903
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+807.7434931
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+807.7454334
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTczNDc3MDk0MDAyfQ==
+
+Loading PolicyTransaction
+
+807.9109239
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+811.6316431
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+811.6337855
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTczNDc3MDk1MDAzfQ==
+
+Loading PolicyTransaction
+
+811.7974225
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+815.6093685
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+815.6118322
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTczNDc3MDk2MDAzfQ==
+
+Loading PolicyTransaction
+
+815.7814307
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+819.872665
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+819.874849
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTczNDc3MDk3MDAzfQ==
+
+Loading PolicyTransaction
+
+820.047869
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+823.8101246
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+823.8125497
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTczNDc3MDk4MDAzfQ==
+
+Loading PolicyTransaction
+
+823.9908876
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+827.7431754
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+827.7474644
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTczNDc3MDk5MDAzfQ==
+
+Loading PolicyTransaction
+
+827.918069
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+831.8251583
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+831.8317577
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTc4NTI0OTIzODkwfQ==
+
+Loading PolicyTransaction
+
+831.9943172
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+836.0064913
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+836.0079198
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTc4NTI0OTI0ODkwfQ==
+
+Loading PolicyTransaction
+
+836.1771124
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+840.2173822
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+840.2259292
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTc4NTI0OTI1ODkwfQ==
+
+Loading PolicyTransaction
+
+840.3947465
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+844.1681101
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+844.1699871
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTc4NTI0OTI2ODkxfQ==
+
+Loading PolicyTransaction
+
+844.3433543
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+848.2722018
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+848.2738847
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTc4NTI0OTI3ODkxfQ==
+
+Loading PolicyTransaction
+
+848.4470816
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+852.4521186
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+852.4539416
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTc4NTI0OTI4ODkyfQ==
+
+Loading PolicyTransaction
+
+852.6095412
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+856.5517964
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+856.5538814
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTc4NTI0OTI5ODkyfQ==
+
+Loading PolicyTransaction
+
+856.731499
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+860.7874818
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+860.7894178
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTc4NTI0OTMwODkyfQ==
+
+Loading PolicyTransaction
+
+860.9660078
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+864.6254843
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+864.6269518
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTc4NTI0OTMxODkyfQ==
+
+Loading PolicyTransaction
+
+864.7888074
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+868.5300194
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+868.5319945
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTc4NTI0OTMyODkyfQ==
+
+Loading PolicyTransaction
+
+868.7035902
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+872.6106228
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+872.6127701
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTc4NTI0OTMzODkyfQ==
+
+Loading PolicyTransaction
+
+872.8029408
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+876.9074375
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+876.9136222
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTc4NTI0OTM0ODkzfQ==
+
+Loading PolicyTransaction
+
+877.0911305
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+881.2190828
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+881.221813
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTc4NTI0OTM1ODk0fQ==
+
+Loading PolicyTransaction
+
+881.3896001
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+885.4346635
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+885.4380321
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTc4NTI0OTM2ODk1fQ==
+
+Loading PolicyTransaction
+
+885.6070688
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+889.7719622
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+889.7749915
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTc4NTI0OTM3ODk1fQ==
+
+Loading PolicyTransaction
+
+889.9596708
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+894.0650075
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+894.069252
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTc4NTI0OTM4ODk1fQ==
+
+Loading PolicyTransaction
+
+894.2485745
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+898.3866863
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+898.3948775
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTc4NTI0OTM5ODk1fQ==
+
+Loading PolicyTransaction
+
+898.6206317
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+904.5214216
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+904.5257428
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg0MDc0NTQ0MzU4fQ==
+
+Loading PolicyTransaction
+
+904.702739
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+909.2091613
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+909.2236105
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg0MDc0NTQ1MzU5fQ==
+
+Loading PolicyTransaction
+
+909.4148781
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+913.5378223
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+913.5409636
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg0MDc0NTQ2MzYwfQ==
+
+Loading PolicyTransaction
+
+913.7545284
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+917.9561758
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+917.960856
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg0MDc0NTQ3MzYxfQ==
+
+Loading PolicyTransaction
+
+918.1423513
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+922.2007415
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+922.2026371
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg0MDc0NTQ4MzYxfQ==
+
+Loading PolicyTransaction
+
+922.3682762
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+927.5158628
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+927.5211884
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg0MDc0NTQ5MzYxfQ==
+
+Loading PolicyTransaction
+
+927.6981498
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+931.7850884
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+931.787769
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg0MDc0NTUwMzYxfQ==
+
+Loading PolicyTransaction
+
+931.9764045
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+935.9307138
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+935.9345492
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg0MDc0NTUxMzYxfQ==
+
+Loading PolicyTransaction
+
+936.1102057
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+940.0082137
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+940.0150613
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg0MDc0NTUyMzYxfQ==
+
+Loading PolicyTransaction
+
+940.239065
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+945.5086617
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+945.5107806
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg0MDc0NTUzMzYxfQ==
+
+Loading PolicyTransaction
+
+945.7282428
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+950.3917717
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+950.3942828
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg0MDc0NTU0MzYyfQ==
+
+Loading PolicyTransaction
+
+950.5719463
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+954.4782349
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+954.4813777
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg0MDc0NTU1MzYzfQ==
+
+Loading PolicyTransaction
+
+954.6689304
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+959.1479267
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+959.1497943
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg0MDc0NTU2MzYzfQ==
+
+Loading PolicyTransaction
+
+959.3368025
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+963.2888927
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+963.2912655
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg0MDc0NTU3MzYzfQ==
+
+Loading PolicyTransaction
+
+963.4857471
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+967.9771184
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+967.9813095
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg0MDc0NTU4MzYzfQ==
+
+Loading PolicyTransaction
+
+968.1842397
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+972.7332659
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+972.7375805
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg0MDc0NTU5MzYzfQ==
+
+Loading PolicyTransaction
+
+972.9103156
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+977.3147028
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+977.3169017
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg1NDk2MTU5MjEyfQ==
+
+Loading PolicyTransaction
+
+977.5192343
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+981.8961944
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+981.8995739
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg1NDk2MTYwMjEyfQ==
+
+Loading PolicyTransaction
+
+982.0752787
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+987.3413182
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+987.3496522
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg1NDk2MTYxMjEzfQ==
+
+Loading PolicyTransaction
+
+987.5138695
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+991.5034906
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+991.5060382
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg1NDk2MTYyMjEzfQ==
+
+Loading PolicyTransaction
+
+991.6929703
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+995.6447977
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+995.6472257
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg1NDk2MTYzMjE0fQ==
+
+Loading PolicyTransaction
+
+995.8232633
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1000.3993199
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1000.4013589
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg1NDk2MTY0MjE1fQ==
+
+Loading PolicyTransaction
+
+1000.5832257
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1004.7624045
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1004.7652582
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg1NDk2MTY1MjE1fQ==
+
+Loading PolicyTransaction
+
+1004.9806104
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1009.2589608
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1009.2607867
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg1NDk2MTY2MjE2fQ==
+
+Loading PolicyTransaction
+
+1009.5938739
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1013.8607331
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1013.8738982
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg1NDk2MTY3MjE2fQ==
+
+Loading PolicyTransaction
+
+1014.0782907
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1018.1256382
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1018.1310031
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg1NDk2MTY4MjE2fQ==
+
+Loading PolicyTransaction
+
+1018.3172193
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1022.3602807
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1022.362816
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg1NDk2MTY5MjE2fQ==
+
+Loading PolicyTransaction
+
+1022.5455941
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1026.8716916
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1026.8918364
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg1NDk2MTcwMjE2fQ==
+
+Loading PolicyTransaction
+
+1027.0775324
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1031.3062218
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1031.3078745
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg1NDk2MTcxMjE2fQ==
+
+Loading PolicyTransaction
+
+1031.4767946
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1035.5025681
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1035.5045926
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg1NDk2MTcyMjE3fQ==
+
+Loading PolicyTransaction
+
+1035.6716012
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1039.781712
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1039.7841999
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg1NDk2MTczMjE3fQ==
+
+Loading PolicyTransaction
+
+1039.9609569
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1044.1515589
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1044.1597975
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg1NDk2MTc0MjE3fQ==
+
+Loading PolicyTransaction
+
+1044.375058
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1048.7141029
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1048.7171805
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg2MTUxNzY3Mjc3fQ==
+
+Loading PolicyTransaction
+
+1048.8995762
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1052.8646995
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1052.8689859
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg2MTUxNzY4Mjc3fQ==
+
+Loading PolicyTransaction
+
+1053.0592998
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1057.1437934
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1057.1598664
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg2MTUxNzY5Mjc3fQ==
+
+Loading PolicyTransaction
+
+1057.3504723
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1061.2473203
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1061.2500708
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg2MTUxNzcwMjc4fQ==
+
+Loading PolicyTransaction
+
+1061.4251062
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1065.3498424
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1065.3538594
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg2MTUxNzcxMjc4fQ==
+
+Loading PolicyTransaction
+
+1065.5309255
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1069.504841
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1069.5078549
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg2MTUxNzcyMjc5fQ==
+
+Loading PolicyTransaction
+
+1069.6801129
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1073.9128699
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1073.9155935
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg2MTUxNzczMjc5fQ==
+
+Loading PolicyTransaction
+
+1074.0961821
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1077.9342235
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1077.9376992
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg2MTUxNzc0Mjc5fQ==
+
+Loading PolicyTransaction
+
+1078.1724816
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1082.5706451
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1082.5763924
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg2MTUxNzc1Mjc5fQ==
+
+Loading PolicyTransaction
+
+1082.7628057
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1087.5870059
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1087.5897905
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg2MTUxNzc2MjgwfQ==
+
+Loading PolicyTransaction
+
+1087.7732085
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1092.6180617
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1092.6205719
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg2MTUxNzc3MjgwfQ==
+
+Loading PolicyTransaction
+
+1092.7840039
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1097.5388665
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1097.5438703
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg2MTUxNzc4MjgxfQ==
+
+Loading PolicyTransaction
+
+1097.7373399
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1102.3079759
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1102.3116416
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg2MTUxNzc5MjgyfQ==
+
+Loading PolicyTransaction
+
+1102.4934728
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1107.2300423
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1107.2417399
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg2MTUxNzgwMjgzfQ==
+
+Loading PolicyTransaction
+
+1107.4272126
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1111.6628255
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1111.6696843
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg2MTUxNzgxMjgzfQ==
+
+Loading PolicyTransaction
+
+1111.9083822
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1116.1364815
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1116.1472259
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTg2MTUxNzgyMjg2fQ==
+
+Loading PolicyTransaction
+
+1116.3351362
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1120.5554775
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1120.5612099
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkxNDUwNTc5NzM1fQ==
+
+Loading PolicyTransaction
+
+1120.7192546
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1124.7332368
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1124.7437129
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkxNDUwNTgwNzM1fQ==
+
+Loading PolicyTransaction
+
+1124.9285274
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1129.1505177
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1129.1543749
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkxNDUwNTgxNzM1fQ==
+
+Loading PolicyTransaction
+
+1129.3848747
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1134.1123177
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1134.1145624
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkxNDUwNTgyNzM1fQ==
+
+Loading PolicyTransaction
+
+1134.2999909
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1138.7085695
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1138.710537
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkxNDUwNTgzNzM2fQ==
+
+Loading PolicyTransaction
+
+1139.0514139
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1143.1590364
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1143.170308
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkxNDUwNTg0NzM3fQ==
+
+Loading PolicyTransaction
+
+1143.3467816
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1147.6074414
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1147.6212759
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkxNDUwNTg1NzM3fQ==
+
+Loading PolicyTransaction
+
+1147.8152436
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1152.3753986
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1152.3775913
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkxNDUwNTg2NzQwfQ==
+
+Loading PolicyTransaction
+
+1152.5506144
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1156.4977226
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1156.500355
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkxNDUwNTg3NzQwfQ==
+
+Loading PolicyTransaction
+
+1156.6716772
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1160.9608953
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1160.9686845
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkxNDUwNTg4NzQwfQ==
+
+Loading PolicyTransaction
+
+1161.159954
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1165.4412821
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1165.4430569
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkxNDUwNTg5NzQwfQ==
+
+Loading PolicyTransaction
+
+1165.6340391
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1170.1109183
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1170.1176693
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkxNDUwNTkwNzQwfQ==
+
+Loading PolicyTransaction
+
+1170.2812566
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1174.5274787
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1174.5368491
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkxNDUwNTkxNzQwfQ==
+
+Loading PolicyTransaction
+
+1174.7221122
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1178.9233388
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1178.9311338
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkxNDUwNTkyNzQwfQ==
+
+Loading PolicyTransaction
+
+1179.1584791
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1183.3902347
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1183.3926634
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkxNDUwNTkzNzQxfQ==
+
+Loading PolicyTransaction
+
+1183.5613528
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1187.7851288
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1187.7879018
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkxNDUwNTk0NzQxfQ==
+
+Loading PolicyTransaction
+
+1187.9798677
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1192.1241313
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1192.1260485
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkyMjg4OTQxNDM0fQ==
+
+Loading PolicyTransaction
+
+1192.3155515
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1196.4919547
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1196.5078543
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkyMjg4OTQyNDM0fQ==
+
+Loading PolicyTransaction
+
+1196.6865638
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1200.9042369
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1200.9064577
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkyMjg4OTQzNDM0fQ==
+
+Loading PolicyTransaction
+
+1201.0842808
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1205.2683993
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1205.2722404
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkyMjg4OTQ0NDM1fQ==
+
+Loading PolicyTransaction
+
+1205.4524868
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1209.7549671
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1209.7693213
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkyMjg4OTQ1NDM1fQ==
+
+Loading PolicyTransaction
+
+1210.0121448
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1214.4334172
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1214.4409201
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkyMjg4OTQ2NDM1fQ==
+
+Loading PolicyTransaction
+
+1214.6263846
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1218.881477
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1218.8837535
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkyMjg4OTQ3NDM2fQ==
+
+Loading PolicyTransaction
+
+1219.0659291
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1223.3676909
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1223.3713223
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkyMjg4OTQ4NDM2fQ==
+
+Loading PolicyTransaction
+
+1223.5612738
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1228.2510664
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1228.2590362
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkyMjg4OTQ5NDQwfQ==
+
+Loading PolicyTransaction
+
+1228.4563065
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1232.7394347
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1232.7452742
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkyMjg4OTUwNDQxfQ==
+
+Loading PolicyTransaction
+
+1232.9527867
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1237.4663409
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1237.4711438
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkyMjg4OTUxNDQxfQ==
+
+Loading PolicyTransaction
+
+1237.6478161
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1243.0115706
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1243.0167345
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkyMjg4OTUyNDQzfQ==
+
+Loading PolicyTransaction
+
+1243.189636
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1248.4733103
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1248.4850997
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkyMjg4OTUzNDQzfQ==
+
+Loading PolicyTransaction
+
+1248.7098497
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1253.3075011
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1253.3104248
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkyMjg4OTU0NDQzfQ==
+
+Loading PolicyTransaction
+
+1253.5156419
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1257.681274
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1257.6854296
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkyMjg4OTU1NDQzfQ==
+
+Loading PolicyTransaction
+
+1257.8911403
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1262.163233
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1262.1655043
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkyMjg4OTU2NDQzfQ==
+
+Loading PolicyTransaction
+
+1262.356272
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1266.4721125
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1266.4828282
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTkyMjg4OTU3NDQzfQ==
+
+Loading PolicyTransaction
+
+1266.6434533
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1270.8020305
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1270.8054775
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTk4MTkwNTY5MzE3fQ==
+
+Loading PolicyTransaction
+
+1270.9938821
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1275.2453583
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1275.248461
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTk4MTkwNTcwMzE3fQ==
+
+Loading PolicyTransaction
+
+1275.4220758
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1279.9425163
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1279.9467028
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTk4MTkwNTcxMzE3fQ==
+
+Loading PolicyTransaction
+
+1280.1160084
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1284.2967646
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1284.3051268
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTk4MTkwNTcyMzE4fQ==
+
+Loading PolicyTransaction
+
+1284.4928207
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1288.6983785
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1288.7070718
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTk4MTkwNTczMzE4fQ==
+
+Loading PolicyTransaction
+
+1288.8718034
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1293.1132887
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1293.1168045
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTk4MTkwNTc0MzE5fQ==
+
+Loading PolicyTransaction
+
+1293.2955069
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1297.9908195
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1298.0055158
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTk4MTkwNTc1MzE5fQ==
+
+Loading PolicyTransaction
+
+1298.1714584
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1302.5686727
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1302.5776333
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTk4MTkwNTc2MzE5fQ==
+
+Loading PolicyTransaction
+
+1302.762805
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1306.8639775
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1306.8689877
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTk4MTkwNTc3MzE5fQ==
+
+Loading PolicyTransaction
+
+1307.1226067
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1311.2845767
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1311.2871212
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTk4MTkwNTc4MzE5fQ==
+
+Loading PolicyTransaction
+
+1311.4667493
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1316.2354108
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1316.2426872
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTk4MTkwNTc5MzIwfQ==
+
+Loading PolicyTransaction
+
+1316.431216
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1322.1316523
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1322.1342289
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTk4MTkwNTgwMzIwfQ==
+
+Loading PolicyTransaction
+
+1322.3433935
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1326.6501354
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1326.6543417
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTk4MTkwNTgxMzIxfQ==
+
+Loading PolicyTransaction
+
+1326.8336366
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1331.2481321
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1331.2514574
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTk4MTkwNTgyMzIxfQ==
+
+Loading PolicyTransaction
+
+1331.4329597
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1337.2986553
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1337.3009592
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTk4MTkwNTgzMzIyfQ==
+
+Loading PolicyTransaction
+
+1337.4761739
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1341.5887451
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1341.5907656
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNTk4MTkwNTg0MzIyfQ==
+
+Loading PolicyTransaction
+
+1341.7707461
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1345.9055627
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1345.9081315
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjAyNjMyMjQ4NzE5fQ==
+
+Loading PolicyTransaction
+
+1346.091527
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1350.3414387
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1350.3439991
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjAyNjMyMjQ5NzE5fQ==
+
+Loading PolicyTransaction
+
+1350.5353533
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1354.5919211
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1354.5984299
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjAyNjMyMjUwNzE5fQ==
+
+Loading PolicyTransaction
+
+1354.7891147
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1359.1409575
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1359.1448464
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjAyNjMyMjUxNzE5fQ==
+
+Loading PolicyTransaction
+
+1359.3775357
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1363.5967008
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1363.6117392
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjAyNjMyMjUyNzE5fQ==
+
+Loading PolicyTransaction
+
+1363.8072775
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1367.948926
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1367.9512153
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjAyNjMyMjUzNzE5fQ==
+
+Loading PolicyTransaction
+
+1368.1853338
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1372.3845947
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1372.3879951
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjAyNjMyMjU0NzE5fQ==
+
+Loading PolicyTransaction
+
+1372.5804669
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1377.0407975
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1377.0427723
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjAyNjMyMjU1NzIwfQ==
+
+Loading PolicyTransaction
+
+1377.2045299
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1381.5127505
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1381.51611
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjAyNjMyMjU2NzIwfQ==
+
+Loading PolicyTransaction
+
+1381.6914617
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1385.9794376
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1385.981844
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjAyNjMyMjU3NzIxfQ==
+
+Loading PolicyTransaction
+
+1386.1803958
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1390.5025327
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1390.505433
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjAyNjMyMjU4NzIyfQ==
+
+Loading PolicyTransaction
+
+1390.6918561
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1394.9758073
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1394.978815
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjAyNjMyMjU5NzIyfQ==
+
+Loading PolicyTransaction
+
+1395.1751845
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1399.3360291
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1399.3382128
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjAyNjMyMjYwNzIyfQ==
+
+Loading PolicyTransaction
+
+1399.5084653
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1403.5053136
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1403.5075715
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjAyNjMyMjYxNzIzfQ==
+
+Loading PolicyTransaction
+
+1403.7205274
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1407.9570978
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1407.9702364
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjAyNjMyMjYyNzI0fQ==
+
+Loading PolicyTransaction
+
+1408.1867651
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1412.2969369
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1412.2999154
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjAyNjMyMjYzNzI1fQ==
+
+Loading PolicyTransaction
+
+1412.4795844
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1416.6490725
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1416.6540482
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1NzM4MTYwNzM1fQ==
+
+Loading PolicyTransaction
+
+1416.8416689
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1421.186221
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1421.1999711
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1NzM4MTYxNzM1fQ==
+
+Loading PolicyTransaction
+
+1421.3803177
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1425.5383545
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1425.5400185
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1NzM4MTYyNzM1fQ==
+
+Loading PolicyTransaction
+
+1425.8209049
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1430.273929
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1430.2788775
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1NzM4MTYzNzM2fQ==
+
+Loading PolicyTransaction
+
+1430.4994218
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1434.7402416
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1434.7435186
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1NzM4MTY0NzM2fQ==
+
+Loading PolicyTransaction
+
+1434.9059177
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1439.1529507
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1439.161347
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1NzM4MTY1NzM2fQ==
+
+Loading PolicyTransaction
+
+1439.358477
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1443.4008664
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1443.4054941
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1NzM4MTY2NzM2fQ==
+
+Loading PolicyTransaction
+
+1443.5801337
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1447.7160841
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1447.7198567
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1NzM4MTY3NzM2fQ==
+
+Loading PolicyTransaction
+
+1447.9396121
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1452.1409482
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1452.1532163
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1NzM4MTY4NzM3fQ==
+
+Loading PolicyTransaction
+
+1452.3523788
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1456.489834
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1456.492193
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1NzM4MTY5NzM4fQ==
+
+Loading PolicyTransaction
+
+1456.664372
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1460.6425948
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1460.6453126
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1NzM4MTcwNzM4fQ==
+
+Loading PolicyTransaction
+
+1460.8086051
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1464.9452661
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1464.9472103
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1NzM4MTcxNzM5fQ==
+
+Loading PolicyTransaction
+
+1465.1361886
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1469.5216924
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1469.5234986
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1NzM4MTcyNzQwfQ==
+
+Loading PolicyTransaction
+
+1469.6897101
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1473.8202452
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1473.8310695
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1NzM4MTczNzQyfQ==
+
+Loading PolicyTransaction
+
+1474.0213084
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1478.1021942
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1478.1045819
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1NzM4MTc0NzQyfQ==
+
+Loading PolicyTransaction
+
+1478.3002133
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1483.578558
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1483.5815007
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1NzM4MTc1NzQyfQ==
+
+Loading PolicyTransaction
+
+1483.8260734
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1488.1030928
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1488.1069711
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1OTI0MTk5MzEwfQ==
+
+Loading PolicyTransaction
+
+1488.2827046
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1492.5679345
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1492.5820984
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1OTI0MjAwMzExfQ==
+
+Loading PolicyTransaction
+
+1492.7654916
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1497.0569773
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1497.0673703
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1OTI0MjAxMzExfQ==
+
+Loading PolicyTransaction
+
+1497.2568855
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1501.37148
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1501.3779889
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1OTI0MjAyMzExfQ==
+
+Loading PolicyTransaction
+
+1501.5491566
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1505.8606056
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1505.865261
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1OTI0MjAzMzExfQ==
+
+Loading PolicyTransaction
+
+1506.0362235
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1510.2995246
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1510.3091039
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1OTI0MjA0MzExfQ==
+
+Loading PolicyTransaction
+
+1510.546345
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1514.6735648
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1514.6767316
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1OTI0MjA1MzExfQ==
+
+Loading PolicyTransaction
+
+1514.8455852
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1519.2478513
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1519.2502172
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1OTI0MjA2MzEyfQ==
+
+Loading PolicyTransaction
+
+1519.4971265
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1523.9132712
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1523.9237414
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1OTI0MjA3MzE0fQ==
+
+Loading PolicyTransaction
+
+1524.1289387
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1528.314484
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1528.3188678
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1OTI0MjA4MzE0fQ==
+
+Loading PolicyTransaction
+
+1528.5005201
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1532.3786599
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1532.380651
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1OTI0MjA5MzE1fQ==
+
+Loading PolicyTransaction
+
+1532.5633741
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1536.9024734
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1536.9103017
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1OTI0MjEwMzE1fQ==
+
+Loading PolicyTransaction
+
+1537.1141906
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1541.3307149
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1541.3326502
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1OTI0MjExMzE1fQ==
+
+Loading PolicyTransaction
+
+1541.5007615
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1545.6856483
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1545.6890337
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1OTI0MjEyMzE1fQ==
+
+Loading PolicyTransaction
+
+1545.8834368
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1549.8267398
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1549.8294596
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1OTI0MjEzMzE1fQ==
+
+Loading PolicyTransaction
+
+1550.0077994
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1554.2036446
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1554.2061999
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjA1OTI0MjE0MzE1fQ==
+
+Loading PolicyTransaction
+
+1554.5356145
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1558.6713421
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1558.6792913
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjExNjYyNzE4NjM5fQ==
+
+Loading PolicyTransaction
+
+1558.8838587
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1563.1924473
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1563.2052434
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjExNjYyNzE5NjQxfQ==
+
+Loading PolicyTransaction
+
+1563.4130831
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1567.5923783
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1567.598274
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjExNjYyNzIwNjQxfQ==
+
+Loading PolicyTransaction
+
+1567.7924138
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1572.0145004
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1572.0180196
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjExNjYyNzIxNjQxfQ==
+
+Loading PolicyTransaction
+
+1572.2169356
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1576.500633
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1576.5034266
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjExNjYyNzIyNjQyfQ==
+
+Loading PolicyTransaction
+
+1576.6842606
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1580.7679133
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1580.7853267
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjExNjYyNzIzNjQyfQ==
+
+Loading PolicyTransaction
+
+1580.9821398
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1585.3791886
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1585.3854597
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjExNjYyNzI0NjQyfQ==
+
+Loading PolicyTransaction
+
+1585.5741544
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1589.6268264
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1589.6289554
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjExNjYyNzI1NjQyfQ==
+
+Loading PolicyTransaction
+
+1589.8119293
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1594.1491419
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1594.1543016
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjExNjYyNzI2NjQyfQ==
+
+Loading PolicyTransaction
+
+1594.3417111
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1598.2725789
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1598.2778536
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjExNjYyNzI3NjQ1fQ==
+
+Loading PolicyTransaction
+
+1598.447032
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1602.5980975
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1602.605627
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjExNjYyNzI4NjQ2fQ==
+
+Loading PolicyTransaction
+
+1602.7855062
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1607.073768
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1607.0923855
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjExNjYyNzI5NjQ3fQ==
+
+Loading PolicyTransaction
+
+1607.3091145
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1611.5983035
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1611.6024521
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjExNjYyNzMwNjQ3fQ==
+
+Loading PolicyTransaction
+
+1611.7938305
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1616.0318006
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1616.0387584
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjExNjYyNzMxNjQ3fQ==
+
+Loading PolicyTransaction
+
+1616.2327329
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1620.661623
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1620.673348
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjExNjYyNzMyNjQ4fQ==
+
+Loading PolicyTransaction
+
+1620.8935729
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1625.1454741
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1625.1529011
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjExNjYyNzMzNjQ4fQ==
+
+Loading PolicyTransaction
+
+1625.3612807
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1629.448502
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1629.4513794
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjEzNTg2MDk2MjIzfQ==
+
+Loading PolicyTransaction
+
+1629.6061368
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1633.7352792
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1633.7371855
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjEzNTg2MDk3MjIzfQ==
+
+Loading PolicyTransaction
+
+1633.9261059
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1638.1793257
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1638.1826276
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjEzNTg2MDk4MjIzfQ==
+
+Loading PolicyTransaction
+
+1638.3620393
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1643.0284751
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1643.0308266
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjEzNTg2MDk5MjIzfQ==
+
+Loading PolicyTransaction
+
+1643.2466613
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1647.4964764
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1647.5036527
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjEzNTg2MTAwMjIzfQ==
+
+Loading PolicyTransaction
+
+1647.7001925
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1652.0728326
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1652.080145
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjEzNTg2MTAxMjIzfQ==
+
+Loading PolicyTransaction
+
+1652.2535714
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1656.6108272
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1656.6127373
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjEzNTg2MTAyMjIzfQ==
+
+Loading PolicyTransaction
+
+1656.7926123
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1660.9268125
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1660.9303353
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjEzNTg2MTAzMjIzfQ==
+
+Loading PolicyTransaction
+
+1661.1033231
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1665.394871
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1665.3966566
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjEzNTg2MTA0MjIzfQ==
+
+Loading PolicyTransaction
+
+1665.5577287
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1669.7623301
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1669.7717808
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjEzNTg2MTA1MjI0fQ==
+
+Loading PolicyTransaction
+
+1669.9722482
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1674.3876221
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1674.3899125
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjEzNTg2MTA2MjI0fQ==
+
+Loading PolicyTransaction
+
+1674.5729254
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1678.7381246
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1678.7410774
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjEzNTg2MTA3MjI0fQ==
+
+Loading PolicyTransaction
+
+1678.9254068
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1683.3824295
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1683.3878841
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjEzNTg2MTA4MjI1fQ==
+
+Loading PolicyTransaction
+
+1683.5764729
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1687.9196161
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1687.9223743
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjEzNTg2MTA5MjI2fQ==
+
+Loading PolicyTransaction
+
+1688.1076031
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1692.2752676
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1692.282424
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjEzNTg2MTEwMjI2fQ==
+
+Loading PolicyTransaction
+
+1692.4601503
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1696.7380575
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1696.7438555
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjEzNTg2MTExMjI3fQ==
+
+Loading PolicyTransaction
+
+1696.9540069
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1701.2481948
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1701.2560851
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjEzNTg2MTEyMjI3fQ==
+
+Loading PolicyTransaction
+
+1701.4495057
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1705.6798232
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1705.6820088
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjE1MjQ1MTQxNDUxfQ==
+
+Loading PolicyTransaction
+
+1705.8811124
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1710.2969211
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1710.3029375
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjE1MjQ1MTQyNDUyfQ==
+
+Loading PolicyTransaction
+
+1710.5086753
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1715.0412768
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1715.0450965
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjE1MjQ1MTQzNDUyfQ==
+
+Loading PolicyTransaction
+
+1715.2244444
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1719.5117817
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1719.5224326
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjE1MjQ1MTQ0NDUzfQ==
+
+Loading PolicyTransaction
+
+1719.7640502
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1725.8172844
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1725.8192303
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjE1MjQ1MTQ1NDUzfQ==
+
+Loading PolicyTransaction
+
+1726.0079931
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1730.4648118
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1730.4689312
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjE1MjQ1MTQ2NDUzfQ==
+
+Loading PolicyTransaction
+
+1730.6352517
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1734.9877231
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1734.9904895
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjE1MjQ1MTQ3NDUzfQ==
+
+Loading PolicyTransaction
+
+1735.1635962
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1739.4686816
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1739.4745211
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjE1MjQ1MTQ4NDUzfQ==
+
+Loading PolicyTransaction
+
+1739.6646888
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1743.9308487
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1743.936611
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjE1MjQ1MTQ5NDUzfQ==
+
+Loading PolicyTransaction
+
+1744.1341313
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1748.5601367
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1748.5725095
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjE1MjQ1MTUwNDUzfQ==
+
+Loading PolicyTransaction
+
+1748.7726206
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1753.2150295
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1753.2182229
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjE1MjQ1MTUxNDUzfQ==
+
+Loading PolicyTransaction
+
+1753.4039432
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1757.5756297
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1757.5773041
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjE1MjQ1MTUyNDUzfQ==
+
+Loading PolicyTransaction
+
+1757.730831
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1761.7561757
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1761.7586134
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjE1MjQ1MTUzNDUzfQ==
+
+Loading PolicyTransaction
+
+1761.9392226
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1766.0827692
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1766.0855129
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjE1MjQ1MTU0NDU1fQ==
+
+Loading PolicyTransaction
+
+1766.2775293
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1770.6672528
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1770.6695161
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjE1MjQ1MTU1NDU1fQ==
+
+Loading PolicyTransaction
+
+1770.8284214
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1775.2193919
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1775.2242922
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjE1MjQ1MTU2NDU1fQ==
+
+Loading PolicyTransaction
+
+1775.4218872
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1779.8399691
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1779.8429634
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjIwMzk5MzUwMzg4fQ==
+
+Loading PolicyTransaction
+
+1780.0242105
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1784.3290662
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1784.3346245
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjIwMzk5MzUxMzg4fQ==
+
+Loading PolicyTransaction
+
+1784.489205
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1788.9012773
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1788.9065636
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjIwMzk5MzUyMzg4fQ==
+
+Loading PolicyTransaction
+
+1789.0821243
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1793.4351498
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1793.4387735
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjIwMzk5MzUzMzg4fQ==
+
+Loading PolicyTransaction
+
+1793.6129628
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1797.6825882
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1797.6879858
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjIwMzk5MzU0Mzg5fQ==
+
+Loading PolicyTransaction
+
+1797.8715021
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1802.2050456
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1802.2138044
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjIwMzk5MzU1Mzg5fQ==
+
+Loading PolicyTransaction
+
+1802.4376292
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1806.5802068
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1806.584527
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjIwMzk5MzU2Mzg5fQ==
+
+Loading PolicyTransaction
+
+1806.7954677
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1811.1816289
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1811.1844993
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjIwMzk5MzU3MzkwfQ==
+
+Loading PolicyTransaction
+
+1811.3657306
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1815.6183373
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1815.6211286
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjIwMzk5MzU4MzkwfQ==
+
+Loading PolicyTransaction
+
+1815.8226475
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1820.2958074
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1820.2986481
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjIwMzk5MzU5MzkwfQ==
+
+Loading PolicyTransaction
+
+1820.5140504
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1824.9272607
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1824.9301965
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjIwMzk5MzYwMzkxfQ==
+
+Loading PolicyTransaction
+
+1825.1179791
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1829.316937
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1829.325276
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjIwMzk5MzYxMzkyfQ==
+
+Loading PolicyTransaction
+
+1829.524215
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1833.7503534
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1833.7553862
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjIwMzk5MzYyMzkyfQ==
+
+Loading PolicyTransaction
+
+1833.9369463
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1838.5251533
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1838.5345756
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjIwMzk5MzYzMzkyfQ==
+
+Loading PolicyTransaction
+
+1838.7224918
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1846.1364431
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1846.1411201
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjIwMzk5MzY0MzkyfQ==
+
+Loading PolicyTransaction
+
+1846.3299554
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1851.4177874
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1851.4282317
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjIwMzk5MzY1MzkyfQ==
+
+Loading PolicyTransaction
+
+1851.6717062
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1855.913298
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1855.9325535
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI1ODgxMzM0Njg1fQ==
+
+Loading PolicyTransaction
+
+1856.1191854
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1860.2114793
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1860.2135299
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI1ODgxMzM1Njg1fQ==
+
+Loading PolicyTransaction
+
+1860.3953228
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1864.5872107
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1864.5934575
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI1ODgxMzM2Njg1fQ==
+
+Loading PolicyTransaction
+
+1864.7715246
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1868.971649
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1868.9778568
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI1ODgxMzM3Njg2fQ==
+
+Loading PolicyTransaction
+
+1869.1793057
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1873.4390712
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1873.4482139
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI1ODgxMzM4Njg3fQ==
+
+Loading PolicyTransaction
+
+1873.6218435
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1877.5582791
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1877.5623256
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI1ODgxMzM5Njg3fQ==
+
+Loading PolicyTransaction
+
+1877.7424549
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1881.8260087
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1881.8292411
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI1ODgxMzQwNjg4fQ==
+
+Loading PolicyTransaction
+
+1882.0422003
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1886.0077135
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1886.0108665
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI1ODgxMzQxNjg5fQ==
+
+Loading PolicyTransaction
+
+1886.2033184
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1890.1996469
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1890.2018875
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI1ODgxMzQyNjg5fQ==
+
+Loading PolicyTransaction
+
+1890.3796832
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1894.3905928
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1894.3946553
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI1ODgxMzQzNjkwfQ==
+
+Loading PolicyTransaction
+
+1894.6802706
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1900.6896038
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1900.7026804
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI1ODgxMzQ0NjkwfQ==
+
+Loading PolicyTransaction
+
+1900.8976624
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1905.2040553
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1905.2061721
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI1ODgxMzQ1NjkyfQ==
+
+Loading PolicyTransaction
+
+1905.3742926
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1909.5691676
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1909.573554
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI1ODgxMzQ2NjkyfQ==
+
+Loading PolicyTransaction
+
+1909.7543198
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1913.8781479
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1913.882373
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI1ODgxMzQ3NjkyfQ==
+
+Loading PolicyTransaction
+
+1914.0488251
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1918.0685113
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1918.070615
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI1ODgxMzQ4NjkyfQ==
+
+Loading PolicyTransaction
+
+1918.2475215
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1922.3451201
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1922.3508096
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI1ODgxMzQ5NjkzfQ==
+
+Loading PolicyTransaction
+
+1922.527832
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1926.4848302
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1926.4881986
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI2NjEzMzcwOTkwfQ==
+
+Loading PolicyTransaction
+
+1926.6676735
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1930.638159
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1930.6408336
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI2NjEzMzcxOTkwfQ==
+
+Loading PolicyTransaction
+
+1930.8145414
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1934.7364221
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1934.7452604
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI2NjEzMzcyOTkwfQ==
+
+Loading PolicyTransaction
+
+1934.9488496
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1939.1212898
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1939.1236909
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI2NjEzMzczOTkwfQ==
+
+Loading PolicyTransaction
+
+1939.3048854
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1943.4174697
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1943.4259282
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI2NjEzMzc0OTkwfQ==
+
+Loading PolicyTransaction
+
+1943.6038586
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1947.7232202
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1947.7320712
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI2NjEzMzc1OTkwfQ==
+
+Loading PolicyTransaction
+
+1948.1037885
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1952.2211535
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1952.2240502
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI2NjEzMzc2OTkwfQ==
+
+Loading PolicyTransaction
+
+1952.4106666
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1956.5725243
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1956.584825
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI2NjEzMzc3OTkwfQ==
+
+Loading PolicyTransaction
+
+1956.7607856
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1960.8331628
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1960.8359287
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI2NjEzMzc4OTkwfQ==
+
+Loading PolicyTransaction
+
+1961.0058687
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1964.9304124
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1964.9325509
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI2NjEzMzc5OTkwfQ==
+
+Loading PolicyTransaction
+
+1965.1008291
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1969.0357741
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1969.0378544
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI2NjEzMzgwOTkwfQ==
+
+Loading PolicyTransaction
+
+1969.2123665
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1973.2483823
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1973.2508327
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI2NjEzMzgxOTkxfQ==
+
+Loading PolicyTransaction
+
+1973.435429
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1977.3744324
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1977.3768195
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI2NjEzMzgyOTkxfQ==
+
+Loading PolicyTransaction
+
+1977.5654003
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1981.5115601
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1981.5155308
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI2NjEzMzgzOTkyfQ==
+
+Loading PolicyTransaction
+
+1981.7688179
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1985.7024469
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1985.7045072
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI2NjEzMzg0OTkzfQ==
+
+Loading PolicyTransaction
+
+1985.8765406
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1989.9403128
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1989.9424046
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI2NjEzMzg1OTkzfQ==
+
+Loading PolicyTransaction
+
+1990.1237338
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1994.2348332
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1994.2374571
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjI2NjEzMzg2OTkzfQ==
+
+Loading PolicyTransaction
+
+1994.4076208
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+1998.4521338
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+1998.4583543
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjMxMTEzNjUxMzk4fQ==
+
+Loading PolicyTransaction
+
+1998.6314815
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2002.6400133
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2002.6422123
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjMxMTEzNjUyMzk4fQ==
+
+Loading PolicyTransaction
+
+2002.8140201
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2006.7697653
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2006.7716165
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjMxMTEzNjUzMzk4fQ==
+
+Loading PolicyTransaction
+
+2006.962905
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2011.1183717
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2011.1215326
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjMxMTEzNjU0Mzk4fQ==
+
+Loading PolicyTransaction
+
+2011.311431
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2015.1603204
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2015.1627648
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjMxMTEzNjU1Mzk4fQ==
+
+Loading PolicyTransaction
+
+2015.337312
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2019.1660871
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2019.1680331
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjMxMTEzNjU2Mzk4fQ==
+
+Loading PolicyTransaction
+
+2019.3540092
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2023.2258581
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2023.2289675
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjMxMTEzNjU3Mzk4fQ==
+
+Loading PolicyTransaction
+
+2023.4064878
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2027.437758
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2027.4400656
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjMxMTEzNjU4Mzk4fQ==
+
+Loading PolicyTransaction
+
+2027.6068423
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2031.6700176
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2031.6718273
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjMxMTEzNjU5Mzk4fQ==
+
+Loading PolicyTransaction
+
+2031.8940834
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2035.8667216
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2035.8693386
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjMxMTEzNjYwMzk5fQ==
+
+Loading PolicyTransaction
+
+2036.0367753
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2039.9006497
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2039.9036942
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjMxMTEzNjYxMzk5fQ==
+
+Loading PolicyTransaction
+
+2040.0848244
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2044.0255899
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2044.0279775
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjMxMTEzNjYyMzk5fQ==
+
+Loading PolicyTransaction
+
+2044.2214311
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2048.3074395
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2048.309904
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjMxMTEzNjYzNDAwfQ==
+
+Loading PolicyTransaction
+
+2048.5057545
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2052.4415398
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2052.445343
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjMxMTEzNjY0NDAwfQ==
+
+Loading PolicyTransaction
+
+2052.6300518
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2056.6048042
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2056.6068517
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjMxMTEzNjY1NDAzfQ==
+
+Loading PolicyTransaction
+
+2056.781089
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2061.5032224
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2061.5051664
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjMxMTEzNjY2NDA0fQ==
+
+Loading PolicyTransaction
+
+2061.6820397
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2066.5249242
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2066.5288411
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjM2NTc1NTMwNTQ1fQ==
+
+Loading PolicyTransaction
+
+2066.709327
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2071.9319345
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2071.9342445
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjM2NTc1NTMxNTQ1fQ==
+
+Loading PolicyTransaction
+
+2072.1331993
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2077.0257658
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2077.0331843
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjM2NTc1NTMyNTQ1fQ==
+
+Loading PolicyTransaction
+
+2077.2171235
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2082.2440268
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2082.2508584
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjM2NTc1NTMzNTQ3fQ==
+
+Loading PolicyTransaction
+
+2082.4486881
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2086.8138434
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2086.8160235
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjM2NTc1NTM0NTQ3fQ==
+
+Loading PolicyTransaction
+
+2087.0078904
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2091.1765639
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2091.1822546
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjM2NTc1NTM1NTQ4fQ==
+
+Loading PolicyTransaction
+
+2091.3637573
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2095.3531685
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2095.3555006
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjM2NTc1NTM2NTQ4fQ==
+
+Loading PolicyTransaction
+
+2095.5116753
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2099.7560539
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2099.7582288
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjM2NTc1NTM3NTQ4fQ==
+
+Loading PolicyTransaction
+
+2099.9450915
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2104.349781
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2104.3556159
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjM2NTc1NTM4NTQ4fQ==
+
+Loading PolicyTransaction
+
+2104.5357899
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2108.6239242
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2108.6323223
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjM2NTc1NTM5NTQ5fQ==
+
+Loading PolicyTransaction
+
+2108.8029419
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2113.1248251
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2113.1348781
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjM2NTc1NTQwNTQ5fQ==
+
+Loading PolicyTransaction
+
+2113.2992332
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2117.3698764
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2117.3811012
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjM2NTc1NTQxNTQ5fQ==
+
+Loading PolicyTransaction
+
+2117.5670635
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2121.6353412
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2121.6375446
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjM2NTc1NTQyNTUwfQ==
+
+Loading PolicyTransaction
+
+2121.8069798
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2125.8299618
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2125.8325127
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjM2NTc1NTQzNTUxfQ==
+
+Loading PolicyTransaction
+
+2126.0105234
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2130.1467528
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2130.1505121
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjM2NTc1NTQ0NTUxfQ==
+
+Loading PolicyTransaction
+
+2130.3142851
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2134.469059
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2134.4727565
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjM2NTc1NTQ1NTUxfQ==
+
+Loading PolicyTransaction
+
+2134.6732335
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2138.4980614
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2138.5046818
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjM3Njc2MzIxNjc4fQ==
+
+Loading PolicyTransaction
+
+2138.6857999
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2142.7280482
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2142.7301464
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjM3Njc2MzIyNjc4fQ==
+
+Loading PolicyTransaction
+
+2142.8899046
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2146.9048285
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2146.9081934
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjM3Njc2MzIzNjc4fQ==
+
+Loading PolicyTransaction
+
+2147.0780741
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2151.1855024
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2151.1885053
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjM3Njc2MzI0Njc5fQ==
+
+Loading PolicyTransaction
+
+2151.3565042
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2155.3293312
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2155.3335213
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjM3Njc2MzI1Njc5fQ==
+
+Loading PolicyTransaction
+
+2155.5250337
+
+PolicyTransactions Load Completed: 1000 Rows Inserted
+
+2160.7936739
+
+Loaded to RawData
+
+Getting PolicyTransaction
+
+2160.7987112
+
+https://api.reporting.apps.vertafore.com/consumer/v1/ams360/table/AFW_PolicyTransaction?limit=1000&schema=public&select=*&starting_token=eyJlZzEiOiAxNzUyMDIzNjM3Njc2MzI2NjgwfQ==
+

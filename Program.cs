@@ -23,7 +23,8 @@ IConfiguration config = new ConfigurationBuilder()
     .Build();
 
 bool devRun = config.GetSection("IsDev").Get<bool>();
-string rootFolder = "C:/Users/BreadFTP/Desktop/AMSDataLoad/logs/";
+string rootFolder = "C:/Users/BreadFTP/Desktop/AMS360Loader/logs/";
+// string rootFolder = "C:/DataLoaders/AMS360Loader/logs";
 if (devRun)
 {
     rootFolder = "./logs/";
